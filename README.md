@@ -43,3 +43,22 @@ Here are some of the projects I've worked on:
     <img src="proj2/pics/MRI-ORIG.gif" alt="Logo" width="300">
   <img src="proj2/pics/US-ORIG.gif" alt="Logo" width="300">
 </p>
+
+3. [Person Detection - Coming Soon](proj2/README.md)
+
+4. [Home Alarm - Coming Soon](proj2/README.md)
+
+5. [Google Messages - Coming Soon](proj2/README.md)
+
+6. [Big Data with Spark - Coming Soon](proj2/README.md)
+
+7. [A/B Testing - Coming Soon](proj2/README.md)
+
+8. [Object Detector using Yolo - Coming Soon](proj2/README.md)
+
+9. [Distributed Training on AWS - Coming Soon](proj2/README.md)
+
+## My Visualisation Portfolio
+
+Here are some examples of visualizations that I have created.
+Coming Soon
