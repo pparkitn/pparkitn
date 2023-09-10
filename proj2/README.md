@@ -48,7 +48,7 @@ Patients with suspicion of prostate cancer due to elevated PSA and/or suspicious
 While the original dataset had anonymized health information for over 1000 patients, it was distributed across several files and sources. Key to joining the correct information was a unique Patient Identifier assigned to each record.
 
 <p align="center">
-  <img src="pics/Screen-Shot-2021-11-14-at-6.32.52-PM-1-1024x409.png" alt="Logo" width="300">
+  <img src="pics/Screen-Shot-2021-11-14-at-6.32.52-PM-1-1024x409.png" alt="Logo" width="600">
 </p>
 
 ### Data Source Files
