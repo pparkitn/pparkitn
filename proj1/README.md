@@ -16,8 +16,8 @@
 * [Future Work](#future-work)
 
 <!-- PROBLEM STATEMENT -->
-Problem Statement
-------------
+## Problem Statement
+
 Detecting emotion from an image has many applications, Some examples of automatically analyzing video to determine how people reacted to certain events:
 - Zoom transcript along with facial emotion
 - Focus groups/comedy show: timing detected emotion with the treatment
