@@ -23,7 +23,7 @@ sudo reboot
 Replace XXX with the version number of the driver recommended for your GPU. You can find the recommended driver version on the NVIDIA website or by using the Ubuntu "Additional Drivers" utility.
 
 <p align="center">  
-  <img src="pics/Additional_Drivers.png"  width="100">
+  <img src="pics/Additional_Drivers.png"  width="400">
 </p>
 
 
