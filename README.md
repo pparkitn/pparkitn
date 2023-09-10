@@ -18,6 +18,20 @@ Hey there, welcome to my data science playground on GitHub! I'm Piotr Parkitny, 
   - Data Visualization 📊
   - Big Data Technologies 🌐
 
+## My Visualisation Portfolio
+
+Here are some examples of visualisations coded in Python
+
+1. **[Project Name](Link to Project)**
+   - Description: Brief project description.
+   - Technologies Used: List the technologies, tools, and languages used.
+   - Highlights: Mention any notable achievements or results.
+
+2. **[Project Name](Link to Project)**
+   - Description: Brief project description.
+   - Technologies Used: List the technologies, tools, and languages used.
+   - Highlights: Mention any notable achievements or results.
+
 ## My Projects
 
 Here are some of the projects I've worked on:
