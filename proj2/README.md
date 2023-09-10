@@ -56,6 +56,8 @@ Patients with suspicion of prostate cancer due to elevated PSA and/or suspicious
 <p align="center">
     <img src="pics/weight_hist.png" alt="Logo" width="200">
     <img src="pics/size_hist.png" alt="Logo" width="200">
-    <img src="pics/age_hist-768x526.png" alt="Logo" width="200">
+</p>
+<p align="center">
+  <img src="pics/age_hist-768x526.png" alt="Logo" width="200">
     <img src="pics/PSA_hist.png" alt="Logo" width="200">
 </p>
