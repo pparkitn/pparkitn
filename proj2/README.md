@@ -85,8 +85,16 @@ PSA is a protein produced by the prostate in both healthy and cancerous individu
 ### Project Environment
 The environment used to create and run the algorithms for the MRI Analyzer are on the public cloud- Amazon Web Services. We are running an EC2 instance and within that running the Deep Learning for Ubuntu operating system. Within that, the docker image is based on NVIDIA for PyTorch. The results and dataset are stored in an S3 bucket and we utilized Papermill to run our models.
 
+<p align="center">
+    <img src="pics/w210_enviroment.png" alt="Logo" width="400">
+</p>
+
 ### Data Pipeline
-The two key types of information contained for each patient was their medical images, used for the DNN models like ResNet, and other metadata, used for downstream tasks.
+The two key types of information contained for each patient were their medical images, used for the DNN models like ResNet, and other metadata, used for downstream tasks.
+
+<p align="center">
+    <img src="pics/data_pipeline-768x319.png" alt="Logo" width="400">
+</p>
 
 ### Modeling Steps
 
@@ -103,6 +111,9 @@ The two key types of information contained for each patient was their medical im
 - Only keep 25 images that are extracted from the middle of the scan
 - The resulting image is a 5×5 image grid with a final resolution of 1220×1220
 
+  <p align="center">
+    <img src="pics/dicom_process.png" alt="Logo" width="400">
+  </p>
 
 #### 2. DATA SET CREATOR
 Once the transformations of the primary features, i.e. medical images, were decided upon they were implemented for the entire dataset. Given that these images were ~70 GB originally, efficient motivation and use of these transformations were required to add value while not creating unnecessary labor.
@@ -113,9 +124,12 @@ Biopsy Data → Cancer in Core %
 If Cancer in Core % > 0 | Label = Pos
 If Cancer in Core % = 0 | Label = Neg
 
+  <p align="center">
+    <img src="pics/Screen-Shot-2021-11-14-at-6.45.52-PM-1024x566.png" alt="Logo" width="400">
+  </p>
+
 #### 3. CREATE TRAIN, TEST, AND VALIDATION SET
 Since the pipeline features certain models appearing after others, segmenting and ensuring no data leakage occurs during training is especially important. In particular, downstream models need not just a testing set that hasn’t been used earlier in the pipeline, but a unique training set as well. This is because any information seen by a previous model during its training would have been reflected in its final parameters so that the predictions it passes further in the pipeline are incorrectly accurate. Because the previous DNN models are already large enough to “memorize” training examples, this led to especially obvious results if overlooked.  
-
 
 #### 4. DEEP NEURAL NETWORK (DNN) MODEL TRAINING
 A variety of model architectures, hyperparameters, and data preparation techniques were trained and evaluated to improve the DNN models’ performance. These include:
@@ -125,7 +139,7 @@ Size and resolution of image collages
 Various LR, Weight Decay, and other optimization parameters
 Various optimization algorithms
 
-5. DEEP NEURAL NETWORK MODELS INFERENCE
+#### 5. DEEP NEURAL NETWORK MODELS INFERENCE
 Based on team conversations with physicians, published literature, and general medical knowledge, it is expected that MRIs are much more capable of containing cancer-relevant information than ultrasound images. In practice, MRIs are more highly detailed and used for guiding potential biopsies, while ultrasounds’ are used more for the general location of the prostate among other nearby organs.
 
 This was also found in the model results shown on the right, where the MRI DNN had much better performance than the Ultrasound DNN. In particular, the Ultrasound DNN was only slightly better than random. However, the combination of these two pieces of information in later steps was found to be more useful than either on their own. This reinforced the pipeline-based approach of cancer diagnosis, over more traditional single models.
