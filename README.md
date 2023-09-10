@@ -5,7 +5,8 @@ Hey there, welcome to my data science playground on GitHub! I'm Piotr Parkitny, 
 ## About Me
 
 - 🌍 Location: [Toronto, Canada]
-- 🎓 Education: University of California, Berkeley — Master of Information and Data Science & University of Guelph — H.B.Sc Engineering Systems and Computing
+- 🎓 Education: University of California, Berkeley — Master of Information and Data Science
+- 🎓 Education: University of Guelph — H.B.Sc Engineering Systems and Computing
 - 📧 Email: [parkitn@berkeley.edu]
 - 📆 LinkedIn: [https://www.linkedin.com/in/piotr-parkitny]
 
@@ -35,11 +36,3 @@ Here are some of the projects I've worked on:
    - Description: Brief project description.
    - Technologies Used: List the technologies, tools, and languages used.
    - Highlights: Mention any notable achievements or results.
-
-## My Blog
-
-I occasionally write about data science, machine learning, and related topics on my blog. Check out some of my recent articles:
-
-- [Article Title 1](Link to Article)
-- [Article Title 2](Link to Article)
-- [Article Title 3](Link to Article)
