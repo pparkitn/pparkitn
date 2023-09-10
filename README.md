@@ -1,15 +1,13 @@
-### Hi there 👋
+# 👨‍💼 Piotr Parkitny - Data Jedi 🚀
 
-# Hi there! 👋
-
-I'm [Your Name], a passionate Data Scientist 📊 with a keen interest in extracting valuable insights from data. Welcome to my GitHub profile!
+Hey there, welcome to my data science playground on GitHub! I'm Piotr Parkitny, and I've been riding the data-driven wave for over 15 years, dropping knowledge bombs through analytics, machine learning, and all things data. 📊🤖
 
 ## About Me
 
-- 🌍 Location: [Your City, Your Country]
-- 🎓 Education: [Your University/Institution, Your Degree]
-- 📧 Email: [Your Email Address]
-- 📆 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
+- 🌍 Location: [Toronto, Canada]
+- 🎓 Education: University of California, Berkeley — Master of Information and Data Science & University of Guelph — H.B.Sc Engineering Systems and Computing
+- 📧 Email: [parkitn@berkeley.edu]
+- 📆 LinkedIn: [https://www.linkedin.com/in/piotr-parkitny]
 
 ## My Expertise
 
