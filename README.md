@@ -27,26 +27,11 @@ Here are some examples of visualizations coded in Python
    - Technologies Used: List the technologies, tools, and languages used.
    - Highlights: Mention any notable achievements or results.
 
-2. **[Project Name](Link to Project)**
-   - Description: Brief project description.
-   - Technologies Used: List the technologies, tools, and languages used.
-   - Highlights: Mention any notable achievements or results.
-
 ## My Projects
 
 Here are some of the projects I've worked on:
 
 1. **[Project Name](Link to Project)**
-   - Description: Brief project description.
-   - Technologies Used: List the technologies, tools, and languages used.
-   - Highlights: Mention any notable achievements or results.
-
-2. **[Project Name](Link to Project)**
-   - Description: Brief project description.
-   - Technologies Used: List the technologies, tools, and languages used.
-   - Highlights: Mention any notable achievements or results.
-
-3. **[Project Name](Link to Project)**
    - Description: Brief project description.
    - Technologies Used: List the technologies, tools, and languages used.
    - Highlights: Mention any notable achievements or results.
