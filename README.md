@@ -38,3 +38,8 @@ Here are some of the projects I've worked on:
    - Description: Helping medical professionals identify and diagnose cancer.
    - Technologies Used: Python, PyTorch, Docker, Amazon AWS, W&B, 
    - Highlights: End-to-end pipeline for cancer diagnosis
+
+<p align="center">
+    <img src="proj2/pics/MRI-ORIG.gif" alt="Logo" width="300">
+  <img src="proj2/pics/US-ORIG.gif" alt="Logo" width="300">
+</p>
