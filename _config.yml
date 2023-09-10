@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: [Piotr Parkitny]
-description: [A short description of your site's purpose]
+description: Explore my data-driven projects and analyses that cover everything from machine learning to data visualization.
 
 avatar: https://github.com/pparkitn/pparkitn/raw/main/images/avatar.png
 profile_picture: https://github.com/pparkitn/pparkitn/raw/main/images/avatar.png
