@@ -8,17 +8,17 @@ Hey there, welcome to my data science playground on GitHub! I'm Piotr Parkitny, 
 
 ## About Me
 
-- 🌍 Location: Toronto, Canada
-- 📧 Email: parkitn@berkeley.edu
-- 📆 LinkedIn: https://www.linkedin.com/in/piotr-parkitny
+- Location: Toronto, Canada
+- Email: parkitn@berkeley.edu
+- LinkedIn: https://www.linkedin.com/in/piotr-parkitny
 
 ## My Expertise
 - Currently working as Senior Director of Analytics at SiriusXM Canada
 - Specialized in:
-  - Data Analysis 📈
-  - Machine Learning 🤖
-  - Data Visualization 📊
-  - Big Data Technologies 🌐
+  - Data Analysis 
+  - Machine Learning 
+  - Data Visualization 
+  - Big Data Technologies 
 
 ## My Projects
 
