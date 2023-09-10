@@ -18,18 +18,18 @@ Hey there, welcome to my data science playground on GitHub! I'm Piotr Parkitny, 
   - Data Visualization 📊
   - Big Data Technologies 🌐
 
-## My Visualisation Portfolio
+## My Projects
 
-Here are some examples of visualizations coded in Python
+Here are some of the projects I've worked on:
 
 1. [Face Emotion Detection](proj1/README.md)
    - Description: Detecting emotion based on facial expression from a live video feed.
    - Technologies Used: Python, Docker, Amazon AWS, W&B, MQTT
    - Highlights: Training the DNN in the Cloud and deploying it to the Nvidia Jetson
 
-## My Projects
+## My Visualisation Portfolio
 
-Here are some of the projects I've worked on:
+Here are some examples of visualizations coded in Python
 
 1. **[Project Name](Link to Project)**
    - Description: Brief project description.
