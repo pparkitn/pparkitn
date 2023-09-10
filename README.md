@@ -36,8 +36,8 @@ Here are some of the projects I've worked on:
    - Highlights: End-to-end pipeline for cancer diagnosis
 
 <p align="center">
-    <img src="proj2/pics/MRI-ORIG.gif" alt="Logo" width="300">
-  <img src="proj2/pics/US-ORIG.gif" alt="Logo" width="300">
+    <img src="proj2/pics/MRI-ORIG.gif" alt="Logo" width="100">
+  <img src="proj2/pics/US-ORIG.gif" alt="Logo" width="100">
 </p>
 
 3. [Person Detection - Coming Soon](proj2/README.md)
