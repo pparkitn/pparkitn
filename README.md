@@ -41,3 +41,8 @@ Here are some of the projects I've worked on:
 <p align="center">
     <img src="proj1/pics/confusion_matrix_normalized.PNG"  width="400">
 </p>
+
+2. [MRI ANALYZER](proj2/README.md)
+   - Description: Helping medical professionals identify and diagnose cancer.
+   - Technologies Used: Python, PyTorch, Docker, Amazon AWS, W&B, 
+   - Highlights: End to end pipeline for cancer diagnosis
