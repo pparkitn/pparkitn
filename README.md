@@ -22,7 +22,7 @@ Hey there, welcome to my data science playground on GitHub! I'm Piotr Parkitny, 
 
 Here are some examples of visualizations coded in Python
 
-1. **Face Emotion Detection(proj1/README.md)**
+1. Face Emotion Detection(proj1/README.md)
    - Description: Detecting emotion based on facial expression from a live video feed.
    - Technologies Used: Python, Docker, Amazon AWS, W&B, MQTT
    - Highlights: Training the DNN in the Cloud and deploying it to the Nvidia Jetson
