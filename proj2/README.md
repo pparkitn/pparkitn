@@ -54,10 +54,24 @@ Patients with suspicion of prostate cancer due to elevated PSA and/or suspicious
 ### EDA
 
 <p align="center">
-    <img src="pics/weight_hist.png" alt="Logo" width="200">
-    <img src="pics/size_hist.png" alt="Logo" width="200">
+    <img src="pics/weight_hist.png" alt="Logo" width="400">
+    <img src="pics/size_hist.png" alt="Logo" width="400">
 </p>
 <p align="center">
-  <img src="pics/age_hist-768x526.png" alt="Logo" width="200">
-    <img src="pics/PSA_hist.png" alt="Logo" width="200">
+  <img src="pics/age_hist-768x526.png" alt="Logo" width="400">
+</p>
+
+### Target Feature: Cancerous Percentage of Biopsy
+While several parts of the dataset related to patient diagnostics, such as their medical scans or blood tests, even more important was their outcomes related to cancer. The dataset did not indicate directly whether a patient received a diagnosis of prostate cancer or its severity. Rather, it had information relating to the amount and score of cancer found during biopsy. In order to generate a useful set of target labels for supervised training, a patient was labeled as “cancerous” if any of their biopsies had a percentage of cancer greater than zero.
+
+<p align="center">
+  <img src="pics/cancer_core_hist.png" alt="Logo" width="400">
+</p>
+
+
+### PSA Blood Concentration in nanograms per milliliter 
+PSA is a protein produced by the prostate in both healthy and cancerous individuals. In many cases, a blood test measuring PSA concentration will be the first line of prostate cancer detection. It is thought that prostate cancer leads to higher PSA production and thus concentration in the blood, but its use as a screening procedure is often interchanged with the digital rectal exam.
+
+<p align="center">
+    <img src="pics/PSA_hist.png" alt="Logo" width="400">
 </p>
