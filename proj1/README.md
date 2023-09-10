@@ -58,7 +58,7 @@ The model that is used on Amazon AWS for training on the dataset --> [Model](clo
 2. BigQuery  
 The Google GCP-hosted database that stores real-time input data from the Edge device.
 2. DataStudio     
-Datastudio dashboard hosted on Google GCP for displaying data from BigQuery --> <a href="https://datastudio.google.com/s/ndSXN4vrk7M" title="Dashboard">DataStudio Dashboard</a>   
+Datastudio dashboard hosted on Google GCP for displaying data from BigQuery 
 
 ## Edge Device
 Jetson is used as the edge device for running the model
@@ -134,15 +134,17 @@ python3 emotion_detect.py
 Below are some images that are based on running on the Jetson. No noticeable lag can be observed and the overall performance is very good.
 
 <p align="center">
-    <img src="pics/face_happy.PNG"  width="800">
+    <img src="pics/face_happy.PNG"  width="300">
+    <img src="pics/face_suprised.PNG"  width="300">
+  <img src="pics/face_angry.PNG"  width="300">
 </p>
 
 <p align="center">
-    <img src="pics/face_suprised.PNG"  width="800">
+    <img src="pics/face_suprised.PNG"  width="300">
 </p>
 
 <p align="center">
-    <img src="pics/face_angry.PNG"  width="800">
+    <img src="pics/face_angry.PNG"  width="300">
 </p>
 
 <!-- DASHBOARD -->
