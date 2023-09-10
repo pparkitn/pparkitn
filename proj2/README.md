@@ -44,6 +44,13 @@ Ultrasound scans were performed with Hitachi Hi-Vision 5500 7.5 MHz or the Noblu
 
 Patients with suspicion of prostate cancer due to elevated PSA and/or suspicious imaging findings were consecutively accrued. Any consented patient who underwent or had planned to receive a routine, standard-of-care prostate biopsy at the UCLA Clark Urology Center was included.  
 
+### Data Schema
+While the original dataset had anonymized health information for over 1000 patients, it was distributed across several files and sources. Key to joining the correct information was a unique Patient Identifier assigned to each record.
+
+<p align="center">
+  <img src="pics/Screen-Shot-2021-11-14-at-6.32.52-PM-1-1024x409.png" alt="Logo" width="300">
+</p>
+
 ### Data Source Files
 - Images DICOM 77GB (67K files)
 - Target Data (XLSX) 131 (KB)
