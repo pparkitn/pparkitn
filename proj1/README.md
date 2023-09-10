@@ -139,18 +139,9 @@ Below are some images that are based on running on the Jetson. No noticeable lag
   <img src="pics/face_angry.PNG"  width="300">
 </p>
 
-<p align="center">
-    <img src="pics/face_suprised.PNG"  width="300">
-</p>
-
-<p align="center">
-    <img src="pics/face_angry.PNG"  width="300">
-</p>
-
 <!-- DASHBOARD -->
 ### Dashboard
 ------------
-Online dashbaord can be viewed by using the following link --> <a href="https://datastudio.google.com/s/ndSXN4vrk7M" title="Dashboard">DataStudio Dashboard</a>   
 The dashboard pulls the data from bigquery that is used by MQTT Fowarder to store emotions along with a timestamp.
 
 <p align="center">
