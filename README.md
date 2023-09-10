@@ -60,7 +60,7 @@ Here are some examples of visualizations that I have created.
 Coming Soon
 
 ## My Setup
-1. [GPU Support Setup](nvidia_gpu_support/README.md)
+1. [GPU Support Setup](nvidia_gpu_support/readme.md)
    - Description: Setting up GPU support on Ubuntu for GPU Training
 
 
