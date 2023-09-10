@@ -22,10 +22,10 @@ Hey there, welcome to my data science playground on GitHub! I'm Piotr Parkitny, 
 
 Here are some examples of visualizations coded in Python
 
-1. **[Project Name](Link to Project)**
-   - Description: Brief project description.
-   - Technologies Used: List the technologies, tools, and languages used.
-   - Highlights: Mention any notable achievements or results.
+1. **[Face Emotion Detection](Link to Project)**
+   - Description: Detecting emotion based on facial expression from a live video feed.
+   - Technologies Used: Python, Docker, Amazon AWS, W&B, MQTT
+   - Highlights: Training the DNN in the Cloud and deploying it to the Nvidia Jetson
 
 ## My Projects
 
