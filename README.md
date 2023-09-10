@@ -12,14 +12,6 @@ Hey there, welcome to my data science playground on GitHub! I'm Piotr Parkitny, 
 - Email: parkitn@berkeley.edu
 - LinkedIn: https://www.linkedin.com/in/piotr-parkitny
 
-## My Expertise
-- Currently working as Senior Director of Analytics at SiriusXM Canada
-- Specialized in:
-  - Data Analysis 
-  - Machine Learning 
-  - Data Visualization 
-  - Big Data Technologies 
-
 ## My Projects
 
 Here are some of the projects I've worked on:
@@ -45,4 +37,4 @@ Here are some of the projects I've worked on:
 2. [MRI ANALYZER](proj2/README.md)
    - Description: Helping medical professionals identify and diagnose cancer.
    - Technologies Used: Python, PyTorch, Docker, Amazon AWS, W&B, 
-   - Highlights: End to end pipeline for cancer diagnosis
+   - Highlights: End-to-end pipeline for cancer diagnosis
