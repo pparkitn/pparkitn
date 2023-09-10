@@ -34,8 +34,8 @@ Here are some of the projects I've worked on:
 </p>
 
 <p align="center">
-    <img src="proj1/pics/face_happy.PNG"  width="300">
-  <img src="proj1/pics/face_angry.PNG"  width="300">
+  <img src="proj1/pics/face_happy.PNG"  width="100">
+  <img src="proj1/pics/face_angry.PNG"  width="100">
 </p>
 
 <p align="center">
