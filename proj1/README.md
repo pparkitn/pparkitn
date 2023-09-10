@@ -27,8 +27,8 @@ Detecting emotion from an image has many applications, Some examples of automati
 A full presentation is available here --> <a href="https://docs.google.com/presentation/d/1Ad-MFVl7flxIrB0UWxRSKS_G0U72Mb6mAy9TeSaRZD0/edit?usp=sharing" title="Presentation">Presentation</a>
 
 <!-- DATASET -->
-Dataset
-------------
+## Dataset
+
 The dataset is composed of human faces labeled according to the displayed emotion.
 
 <p align="center">
@@ -42,8 +42,7 @@ The dataset is composed of human faces labeled according to the displayed emotio
 
 
 <!-- PROJECT SOLUTION -->
-Project Solution
-------------
+## Project Solution
 
 The diagram below describes the overall solution.    
 The solution is broken down into Cloud and Edge components.
@@ -71,7 +70,7 @@ The Edge MQTT Forwarder subscribes to the local MQTT Broker and publishes to the
 The Edge Face Detector detects the facial emotion and publishes it to the local MQTT Broker.
 
 <!-- CLOUD TRAINING -->
-Cloud Training
+## Cloud Training
 ------------
 Training is done on Amazon AWS EC2 using g4dn.xlarge instance. Below are the steps required to set up training
 - Start Amazon VM and SSH into the box
@@ -107,7 +106,7 @@ Below are an example of the generated graphs.
 
 
 <!-- Edge Inference-->
-Edge Inference
+## Edge Inference
 ------------
 Running on the edge is done on the Jetson, the following code will start the process.
 
@@ -147,7 +146,7 @@ Below are some images that are based on running on the Jetson. No noticeable lag
 </p>
 
 <!-- DASHBOARD -->
-Dashboard
+### Dashboard
 ------------
 Online dashbaord can be viewed by using the following link --> <a href="https://datastudio.google.com/s/ndSXN4vrk7M" title="Dashboard">DataStudio Dashboard</a>   
 The dashboard pulls the data from bigquery that is used by MQTT Fowarder to store emotions along with a timestamp.
@@ -157,7 +156,7 @@ The dashboard pulls the data from bigquery that is used by MQTT Fowarder to stor
 </p>
 
 <!-- RESULTS -->
-Results
+### Results
 ------------
 - Very good results classifying happy and surprised
 - Angry, disgusted, and fearful show very low performance
