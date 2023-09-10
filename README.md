@@ -34,19 +34,19 @@ Here are some of the projects I've worked on:
 </p>
 
 <p align="center">
-    <img src="pics/face_happy.PNG"  width="300">
-    <img src="pics/face_suprised.PNG"  width="300">
-  <img src="pics/face_angry.PNG"  width="300">
+    <img src="proj1/pics/face_happy.PNG"  width="300">
+    <img src="proj1/pics/face_suprised.PNG"  width="300">
+  <img src="proj1/pics/face_angry.PNG"  width="300">
 </p>
 
 <p align="center">
-    <img src="pics/results-faces.PNG"  width="800">
+    <img src="proj1/pics/results-faces.PNG"  width="800">
 </p>
 
 <p align="center">
-    <img src="pics/confusion_matrix.PNG"  width="400">
+    <img src="proj1/pics/confusion_matrix.PNG"  width="400">
 </p>
 
 <p align="center">
-    <img src="pics/confusion_matrix_normalized.PNG"  width="400">
+    <img src="proj1/pics/confusion_matrix_normalized.PNG"  width="400">
 </p>
