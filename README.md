@@ -58,3 +58,9 @@ Here are some of the projects I've worked on:
 
 Here are some examples of visualizations that I have created.
 Coming Soon
+
+## My Setup
+1. [GPU Support Setup](nvidia_gpu_support/README.md)
+   - Description: Setting up GPU support on Ubuntu for GPU Training
+
+
