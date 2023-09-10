@@ -1,4 +1,4 @@
-# 👨‍💼 Piotr Parkitny - Data Jedi 🚀
+# 👨‍💼 Piotr Parkitny - Data Scientist 🚀
 
 Hey there, welcome to my data science playground on GitHub! I'm Piotr Parkitny, and I've been riding the data-driven wave for over 15 years, dropping knowledge bombs through analytics, machine learning, and all things data. 📊🤖
 
@@ -10,21 +10,12 @@ Hey there, welcome to my data science playground on GitHub! I'm Piotr Parkitny, 
 - 📆 LinkedIn: [https://www.linkedin.com/in/piotr-parkitny]
 
 ## My Expertise
-
-- 💼 Currently working as a [Your Current Position] at [Your Current Company]
+- Currently working as Senior Director of Analytics at SiriusXM Canada 🎶
 - 🔍 Specialized in:
   - Data Analysis 📈
   - Machine Learning 🤖
   - Data Visualization 📊
   - Big Data Technologies 🌐
-
-## What I Do
-
-- 🚀 I'm passionate about turning data into actionable insights.
-- 💡 I love solving complex problems using data-driven approaches.
-- 📊 I create data visualizations to tell compelling data stories.
-- 🌐 I'm experienced in working with large datasets and distributed computing.
-- 📈 I have a strong background in statistical analysis and modeling.
 
 ## My Projects
 
@@ -52,26 +43,3 @@ I occasionally write about data science, machine learning, and related topics on
 - [Article Title 1](Link to Article)
 - [Article Title 2](Link to Article)
 - [Article Title 3](Link to Article)
-
-## Get in Touch
-
-Feel free to reach out to me through [email](mailto:youremail@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername/). I'm always open to collaboration and new opportunities.
-
-Let's make data-driven decisions together! 📊🔍
-
-
-
-<!--
-**pparkitn/pparkitn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
