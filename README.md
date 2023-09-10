@@ -28,12 +28,25 @@ Here are some of the projects I've worked on:
    - Description: Detecting emotion based on facial expression from a live video feed.
    - Technologies Used: Python, Docker, Amazon AWS, W&B, MQTT
    - Highlights: Training the DNN in the Cloud and deploying it to the Nvidia Jetson
+  
+<p align="center">
+    <img src="proj1/pics/design.PNG" alt="Logo" width="800">
+</p>
 
-## My Visualisation Portfolio
+<p align="center">
+    <img src="pics/face_happy.PNG"  width="300">
+    <img src="pics/face_suprised.PNG"  width="300">
+  <img src="pics/face_angry.PNG"  width="300">
+</p>
 
-Here are some examples of visualizations coded in Python
+<p align="center">
+    <img src="pics/results-faces.PNG"  width="800">
+</p>
 
-1. **[Project Name](Link to Project)**
-   - Description: Brief project description.
-   - Technologies Used: List the technologies, tools, and languages used.
-   - Highlights: Mention any notable achievements or results.
+<p align="center">
+    <img src="pics/confusion_matrix.PNG"  width="400">
+</p>
+
+<p align="center">
+    <img src="pics/confusion_matrix_normalized.PNG"  width="400">
+</p>
