@@ -149,10 +149,19 @@ Size and resolution of image collages
 Various LR, Weight Decay, and other optimization parameters
 Various optimization algorithms
 
+  <p align="center">
+    <img src="pics/Screen-Shot-2021-11-23-at-7.26.27-PM.png" alt="Logo" width="400">
+  </p>
+
 #### 5. DEEP NEURAL NETWORK MODELS INFERENCE
 Based on team conversations with physicians, published literature, and general medical knowledge, it is expected that MRIs are much more capable of containing cancer-relevant information than ultrasound images. In practice, MRIs are more highly detailed and used for guiding potential biopsies, while ultrasounds’ are used more for the general location of the prostate among other nearby organs.
 
 This was also found in the model results shown on the right, where the MRI DNN had much better performance than the Ultrasound DNN. In particular, the Ultrasound DNN was only slightly better than random. However, the combination of these two pieces of information in later steps was found to be more useful than either on their own. This reinforced the pipeline-based approach of cancer diagnosis, over more traditional single models.
+
+<p align="center">  
+  <img src="pics/MRI_AUC.png" alt="Logo" width="300">
+  <img src="pics/US_AUC.png" alt="Logo" width="300">
+</p>
 
 #### 6. FINAL DATA
 While some patients will have all attributes about themselves available for making a healthcare decision, others may not. In order to bridge the gap between a single model cancer classifier and a pipeline that is able to take advantage of different data sources, actions to take when a patient does not have all data fields must be decided upon and prepared for in advance. 
