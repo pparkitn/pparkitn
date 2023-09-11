@@ -134,6 +134,9 @@ Since the pipeline features certain models appearing after others, segmenting an
 <p align="center">
   <img src="pics/MRI_Data-768x515.png" alt="Logo" width="300">
   <img src="pics/US_Data-768x515.png" alt="Logo" width="300">
+</p>
+
+<p align="center">  
   <img src="pics/MRI_Data_Split-768x516.png" alt="Logo" width="300">
   <img src="pics/US_Data_Split-768x506.png" alt="Logo" width="300">
 </p>
