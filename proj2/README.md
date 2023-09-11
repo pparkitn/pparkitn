@@ -189,7 +189,7 @@ Ultimately, a Random Forest classifier was chosen not just because of its AUC me
 It is sometimes described that the difference between machine learning and classical statistics is that the former focuses on performance while the latter focuses on understanding. Following this notion, when working with human health it is important to not just make a correct prediction but also understand when ambiguity may exist for a specific patient. To include this, uncertainty estimation and propagation were included for each step of the pipeline, shown below, in order to gain this level of understanding. 
 
 <p align="center">  
-  <img src="pics/model-overview.png" alt="Logo" width="800">  
+  <img src="pics/Screen-Shot-2021-11-23-at-5.53.48-PM.png" alt="Logo" width="800">  
 </p>
 
 <!-- Model -->
