@@ -219,14 +219,14 @@ Pipeline is composed of two DNN Models and a final Random Forest Model
 - Learning Rate Start: 0.01
 
 <p align="center">  
-  <img src="pics/MRI_AUC.png" alt="Logo" width="800">  
-  <img src="pics/MRI_confusion_matrix.png" alt="Logo" width="800">  
+  <img src="pics/MRI_AUC.png" alt="Logo" width="400">  
+  <img src="pics/MRI_confusion_matrix.png" alt="Logo" width="400">  
 </p>
 
 
 <p align="center">  
-  <img src="pics/MRI_sample-768x588.png" alt="Logo" width="800">  
-  <img src="pics/MRI_LR-768x424.png" alt="Logo" width="800">  
+  <img src="pics/MRI_sample-768x588.png" alt="Logo" width="400">  
+  <img src="pics/MRI_LR-768x424.png" alt="Logo" width="400">  
 </p>
 
 #### Features:
