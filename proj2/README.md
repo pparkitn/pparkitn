@@ -303,6 +303,21 @@ Pipeline is composed of two DNN Models and a final Random Forest Model
 - If Cancer in Core % > 0 | Label = Pos
 - If Cancer in Core % = 0 | Label = Neg
 
+<p align="center">  
+  <img src="pics/roc_graph.png" alt="Logo" width="400">  
+  <img src="pics/RF_confustion_matrix.png" alt="Logo" width="400">  
+</p>
+
+<p align="center">  
+  <img src="pics/RF_confustion_matrix_norm.png" alt="Logo" width="400">    
+</p>
+
+<p align="center">  
+  <img src="pics/Screen-Shot-2021-11-14-at-6.54.26-PM-768x373.png" alt="Logo" width="400">  
+  <img src="pics/roc_graph.png" alt="Logo" width="400">  
+</p>
+
+
 <!-- Originality -->  
 ## Originality
 While combining medical imagery, a computer vision model, and a health outcome is not novel in of itself, many similar projects commonly stop at this point.  Expanding the MRI Analyzer pipeline from the primary medical image, an MRI, to include both Ultrasound images and patient metadata increases its potential performance, but still only provides information on the point estimate of the outcome of interest, i.e. cancer. To expand the value of MRI Analyzer in providing new, useful information, uncertainty estimation was also included for each stage in the pipeline. This quantifies not just how the process would classify an individual in regards to cancer presence, but also how much variability is associated with an individual’s prediction.
