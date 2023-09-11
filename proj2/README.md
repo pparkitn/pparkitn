@@ -12,7 +12,7 @@
 * [Problem Statement](#problem-statement)
 * [Dataset](#dataset)
 * [Pipeline Journey](#pipeline-journey)
-* [Pipeline Journey](#pipeline-journey)
+* [Model](#model)
 
 
 <!-- PROBLEM STATEMENT -->
@@ -188,3 +188,82 @@ It is sometimes described that the difference between machine learning and class
 <p align="center">  
   <img src="pics/Screen-Shot-2021-11-23-at-5.53.48-PM.png" alt="Logo" width="800">  
 </p>
+
+<!-- Model -->
+## Model
+
+### Overview
+Pipeline is composed of two DNN Models and a final Random Forest Model
+- MRI DNN Model – processes MRI Images
+- Ultra-Sound (US) DNN Model – processes ultrasound Images
+- Random Forest – processes output from MRI and ultrasound model along with patient metadata
+
+### DEEP NEURAL NETWORK MRI MODEL
+#### Model Parameters
+- Framework – PyTorch
+- Model: Resnet18
+- EC2: g4dn.xlarge
+- Single Node
+- GPU: T4
+- Epoch: 120
+- Batch Size: 22
+- Automatic Mixed Precision
+- Pixel Crop: 56
+- Images To Use: 25
+- LR: Cosine Annealing
+- Image Size: 700
+- Learning Rate Start: 0.01
+
+#### Features:
+- MRI Images
+
+#### Label:
+- Biopsy Data → Binary Cancer Presence, from Cancer in Core %
+- If Cancer in Core % > 0 | Label = Pos
+- If Cancer in Core % = 0 | Label = Neg
+
+### DEEP NEURAL NETWORK ULTRASOUND MODEL
+#### Model Parameters
+- Framework – PyTorch
+- Model: Resnet18
+- EC2: g4dn.xlarge
+- Single Node
+- GPU: T4
+- Epoch: 120
+- Batch Size: 22
+- Automatic Mixed Precision
+- Pixel Crop: 56
+- Images To Use: 25
+- LR: Cosine Annealing
+- Image Size: 700
+- Learning Rate Start: 0.01
+
+#### Features:
+- US Images
+
+#### Label:
+- Biopsy Data → Binary Cancer Presence, from Cancer in Core %
+- If Cancer in Core % > 0 | Label = Pos
+- If Cancer in Core % = 0 | Label = Neg
+
+### ENSEMBLE MODEL
+- Random Forest Model was selected as it has the best results and the results have no false negatives
+- Perfect true positive rate, every patient who does have cancer is correctly classified by the model
+- In a healthcare setting, especially with a condition such as cancer, the consequences of a false negative far outweigh the consequences of a false positive
+
+#### Model Parameters
+- Framework – scikit-learn
+- Model – Random Forrest
+- Estimators – 100
+
+#### Features:
+-  DNN MRI→ Cancer Probability (0.0-1.0)
+- DNN US→ Cancer Probability (0.0-1.0)
+- DICOM→ Age | Height | Weight | Ethnicity
+- Blood Test → PSA protein concentration
+
+#### Label:
+- Biopsy Data → Binary Cancer Presence, from Cancer in Core %
+- If Cancer in Core % > 0 | Label = Pos
+- If Cancer in Core % = 0 | Label = Neg
+  
