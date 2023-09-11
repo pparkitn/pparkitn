@@ -202,7 +202,7 @@ Pipeline is composed of two DNN Models and a final Random Forest Model
 - Random Forest – processes output from MRI and ultrasound model along with patient metadata
 
 <p align="center">  
-  <img src="pics/Screen-Shot-2021-11-23-at-5.53.48-PM.png" alt="Logo" width="800">  
+  <img src="pics/model-overview-1024x341.png" alt="Logo" width="800">  
 </p>
 
 ### DEEP NEURAL NETWORK MRI MODEL
