@@ -232,7 +232,7 @@ Pipeline is composed of two DNN Models and a final Random Forest Model
 
 <p align="center">  
   <img src="pics/MRI_sample-768x588.png" alt="Logo" width="400">  
-  <img src="pics/MRI_LR-768x424.png" alt="Logo" width="400">  
+  <img src="pics/US_LR-768x424.png" alt="Logo" width="400">  
 </p>
 
 #### Features:
