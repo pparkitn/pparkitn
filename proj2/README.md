@@ -150,7 +150,7 @@ Various LR, Weight Decay, and other optimization parameters
 Various optimization algorithms
 
   <p align="center">
-    <img src="pics/Screen-Shot-2021-11-23-at-7.26.27-PM-1024x382.png" alt="Logo" width="400">
+    <img src="pics/Screen-Shot-2021-11-23-at-7.26.27-PM-1024x382.png" alt="Logo" width="500">
   </p>
 
 #### 5. DEEP NEURAL NETWORK MODELS INFERENCE
@@ -169,7 +169,7 @@ While some patients will have all attributes about themselves available for maki
 This was accomplished in the pipeline by training and evaluating all individuals with the average dataset value for each variable for any which were missing. In total, about one-fourth of the patients in the dataset had at least one missing value for at least one variable. Only the MRI and ultrasound results were found to be critical for classification and could not be substituted with the group average. Therefore, the final product is robust enough to classify patients with at least these attributes while producing the reported metrics below.
 
 <p align="center">  
-  <img src="pics/Final_Data.png" alt="Logo" width="300">  
+  <img src="pics/Final_Data.png" alt="Logo" width="500">  
 </p>
 
 #### 7. FINAL RESULT
@@ -178,12 +178,12 @@ Several different supervised classifier models were considered to combine the MR
 Ultimately, a Random Forest classifier was chosen not just because of its AUC metric, but just as importantly because of the types of errors it made. As shown in the ROC graph on the right, the model has a perfect true positive rate. This indicates that every patient who does have cancer is correctly classified by the model. In a healthcare setting, especially with a condition such as cancer, the consequences of a false negative far outweigh the consequences of a false positive. Therefore, while better AUC values were able to be achieved with other models or hyperparameters, this implementation was settled upon because of its better fit for the problem. 
 
 <p align="center">  
-  <img src="pics/roc_graph.png" alt="Logo" width="300">  
+  <img src="pics/roc_graph.png" alt="Logo" width="500">  
 </p>
 
 #### 8. NOVELTY - UNCERTAINTY ESTIMATION
 It is sometimes described that the difference between machine learning and classical statistics is that the former focuses on performance while the latter focuses on understanding. Following this notion, when working with human health it is important to not just make a correct prediction but also understand when ambiguity may exist for a specific patient. To include this, uncertainty estimation and propagation were included for each step of the pipeline, shown below, in order to gain this level of understanding. 
 
 <p align="center">  
-  <img src="pics/Screen-Shot-2021-11-23-at-5.53.48-PM.png" alt="Logo" width="300">  
+  <img src="pics/Screen-Shot-2021-11-23-at-5.53.48-PM.png" alt="Logo" width="800">  
 </p>
