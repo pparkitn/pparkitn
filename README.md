@@ -59,8 +59,10 @@ Here are some of the projects I've worked on:
 Here are some examples of visualizations that I have created.
 Coming Soon
 
-## My Setup
-1. [GPU Support Setup](nvidia_gpu_support/readme.md)
-   - Description: Setting up GPU support on Ubuntu for GPU Training
+## Other
+1. [GPU Support Setup - Local Computer](nvidia_gpu_support/readme.md)
+   - Setting up GPU support on Ubuntu for GPU Training
+2. [GPU Training on Kaggle](kaggle/readme.md)
+   - GPU Training for free on Kaggle 
 
 
