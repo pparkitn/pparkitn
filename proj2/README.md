@@ -150,7 +150,7 @@ Various LR, Weight Decay, and other optimization parameters
 Various optimization algorithms
 
   <p align="center">
-    <img src="pics/Screen-Shot-2021-11-23-at-7.26.27-PM.png" alt="Logo" width="400">
+    <img src="pics/Screen-Shot-2021-11-23-at-7.26.27-PM-1024x382.png" alt="Logo" width="400">
   </p>
 
 #### 5. DEEP NEURAL NETWORK MODELS INFERENCE
