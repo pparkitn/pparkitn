@@ -62,7 +62,7 @@ Coming Soon
 ## Other
 1. [GPU Support Setup - Local Computer](nvidia_gpu_support/readme.md)
    - Setting up GPU support on Ubuntu for GPU Training
-2. [GPU Training on Kaggle](kaggle/readme.md)
+2. [GPU Training on Kaggle](kaggle/README.md)
    - GPU Training for free on Kaggle 
 
 
