@@ -220,6 +220,14 @@ Pipeline is composed of two DNN Models and a final Random Forest Model
 - LR: Cosine Annealing
 - Image Size: 700
 - Learning Rate Start: 0.01
+- 
+#### Features:
+- MRI Images
+
+#### Label:
+- Biopsy Data → Binary Cancer Presence, from Cancer in Core %
+- If Cancer in Core % > 0 | Label = Pos
+- If Cancer in Core % = 0 | Label = Neg
 
 <p align="center">  
   <img src="pics/MRI_confusion_matrix_normalized.png" alt="Logo" width="400">  
@@ -235,13 +243,6 @@ Pipeline is composed of two DNN Models and a final Random Forest Model
   <img src="pics/US_LR-768x424.png" alt="Logo" width="400">  
 </p>
 
-#### Features:
-- MRI Images
-
-#### Label:
-- Biopsy Data → Binary Cancer Presence, from Cancer in Core %
-- If Cancer in Core % > 0 | Label = Pos
-- If Cancer in Core % = 0 | Label = Neg
 
 ### DEEP NEURAL NETWORK ULTRASOUND MODEL
 #### Model Parameters
@@ -266,6 +267,20 @@ Pipeline is composed of two DNN Models and a final Random Forest Model
 - Biopsy Data → Binary Cancer Presence, from Cancer in Core %
 - If Cancer in Core % > 0 | Label = Pos
 - If Cancer in Core % = 0 | Label = Neg
+
+<p align="center">  
+  <img src="pics/US_confusion_matrix_normalized.png" alt="Logo" width="400">  
+  <img src="pics/US_confusion_matrix.png" alt="Logo" width="400">  
+</p>
+
+<p align="center">  
+  <img src="pics/US_AUC.png" alt="Logo" width="400">    
+</p>
+
+<p align="center">  
+  <img src="pics/US_sample-768x587.png" alt="Logo" width="400">  
+  <img src="pics/US_LR-768x424.png" alt="Logo" width="400">  
+</p>
 
 ### ENSEMBLE MODEL
 - Random Forest Model was selected as it has the best results and the results have no false negatives
