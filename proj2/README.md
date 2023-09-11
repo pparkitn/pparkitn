@@ -186,7 +186,7 @@ Ultimately, a Random Forest classifier was chosen not just because of its AUC me
 It is sometimes described that the difference between machine learning and classical statistics is that the former focuses on performance while the latter focuses on understanding. Following this notion, when working with human health it is important to not just make a correct prediction but also understand when ambiguity may exist for a specific patient. To include this, uncertainty estimation and propagation were included for each step of the pipeline, shown below, in order to gain this level of understanding. 
 
 <p align="center">  
-  <img src="pics/Screen-Shot-2021-11-23-at-5.53.48-PM.png" alt="Logo" width="800">  
+  <img src="pics/model-overview.png" alt="Logo" width="800">  
 </p>
 
 <!-- Model -->
@@ -197,6 +197,10 @@ Pipeline is composed of two DNN Models and a final Random Forest Model
 - MRI DNN Model – processes MRI Images
 - Ultra-Sound (US) DNN Model – processes ultrasound Images
 - Random Forest – processes output from MRI and ultrasound model along with patient metadata
+
+<p align="center">  
+  <img src="pics/Screen-Shot-2021-11-23-at-5.53.48-PM.png" alt="Logo" width="800">  
+</p>
 
 ### DEEP NEURAL NETWORK MRI MODEL
 #### Model Parameters
@@ -213,6 +217,17 @@ Pipeline is composed of two DNN Models and a final Random Forest Model
 - LR: Cosine Annealing
 - Image Size: 700
 - Learning Rate Start: 0.01
+
+<p align="center">  
+  <img src="pics/MRI_AUC.png" alt="Logo" width="800">  
+  <img src="pics/MRI_confusion_matrix.png" alt="Logo" width="800">  
+</p>
+
+
+<p align="center">  
+  <img src="pics/MRI_sample-768x588.png" alt="Logo" width="800">  
+  <img src="pics/MRI_LR-768x424.png" alt="Logo" width="800">  
+</p>
 
 #### Features:
 - MRI Images
