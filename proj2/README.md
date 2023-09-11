@@ -131,6 +131,13 @@ If Cancer in Core % = 0 | Label = Neg
 #### 3. CREATE TRAIN, TEST, AND VALIDATION SET
 Since the pipeline features certain models appearing after others, segmenting and ensuring no data leakage occurs during training is especially important. In particular, downstream models need not just a testing set that hasn’t been used earlier in the pipeline, but a unique training set as well. This is because any information seen by a previous model during its training would have been reflected in its final parameters so that the predictions it passes further in the pipeline are incorrectly accurate. Because the previous DNN models are already large enough to “memorize” training examples, this led to especially obvious results if overlooked.  
 
+<p align="center">
+  <img src="pics/MRI_Data-768x515.png" alt="Logo" width="300">
+  <img src="pics/US_Data-768x515.png" alt="Logo" width="300">
+  <img src="pics/MRI_Data_Split-768x516.png" alt="Logo" width="300">
+  <img src="pics/US_Data_Split-768x506.png" alt="Logo" width="300">
+</p>
+
 #### 4. DEEP NEURAL NETWORK (DNN) MODEL TRAINING
 A variety of model architectures, hyperparameters, and data preparation techniques were trained and evaluated to improve the DNN models’ performance. These include:
 
