@@ -1,4 +1,4 @@
-# Data Scientist 
+# Data Jedi Master
 
 Hey there, welcome to my data science playground on GitHub! I'm Piotr Parkitny, and I've been riding the data-driven wave for over 15 years, dropping knowledge bombs through analytics, machine learning, and all things data. 
 
