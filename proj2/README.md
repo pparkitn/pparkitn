@@ -506,7 +506,7 @@ Incorporating this information in a useful way for either image pre-processing, 
 ### IMAGE CHANNELS & OVERCOMING HARDWARE LIMITATIONS
 Images that have been used for this study were put into a single channel collage due to hardware memory limits. For the same reason, it was also required to lower image resolution within the collage. Both of these adjustments likely affected model training and performance. With more powerful hardware from future funding, images could instead be processed in a multichannel format corresponding to the physical location within the body. This could also provide the opportunity to keep images at higher resolutions where more details are available to the model. Each of these changes would likely increase performance as more information is available to the computer vision models.
 <p align="center">  
-  <img src="pics/1.png" alt="Logo" width="400">    
+  <img src="pics/1.jpeg" alt="Logo" width="400">    
 </p>
 
 ### RELATED RESEARCH
