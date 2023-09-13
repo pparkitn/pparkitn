@@ -8,7 +8,7 @@ Creating a new dataset on Kaggle is a straightforward process. Follow these step
 
 2. **Install Kaggle Python Package**: If you haven't already installed the Kaggle Python package, run the following command to install it using pip:
 
-   ```
+```
    pip3 install kaggle
 ```
 
