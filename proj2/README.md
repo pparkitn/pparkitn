@@ -333,8 +333,18 @@ The advantage of an uncertainty estimate is that often it could be these informa
 
 MRI Analyzer not only provides an uncertainty estimate on the final outcome, a patient’s cancer status, but does so by considering uncertainty at all steps in the pipeline. Only patient metadata, such as the recorded age, height, etc. was assumed to have a negligible amount of uncertainty associated with it. This makes MRI Analyzer both informative and thorough in understanding how a health critical scenario may be processed by black-box like models. The image shown below highlights these stages.
 
+<p align="center">  
+  <img src="pics/Screen-Shot-2021-11-28-at-9.19.10-PM-1024x548.png" alt="Logo" width="400">    
+</p>
+
 ### IMPLEMENTATION
 Formally, when there is some output of a process, the uncertainty associated with it is a function of both the uncertainty in the input and the uncertainty in the process itself. In traditional disciplines of science, the relationship between output uncertainty and these values is usually derived analytically. 
+
+
+
+<p align="center">  
+  <img src="pics/Screen-Shot-2021-11-28-at-10.12.26-PM.png" alt="Logo" width="400">    
+</p>
 
 
 With machine learning, however, the number and complexity of operations makes this impractical. To address this gap, several literature techniques were incorporated in order to estimate uncertainty and propagate it through each stage in the pipeline. 
@@ -360,6 +370,17 @@ The number of forward passes for input uncertainty propagation was chosen to be 
 
 Choosing the implementation parameters of the DNN Dropout method was more complex, and involved a modified grid search as described by the method’s authors.[4] The general need for dropout tuning comes from the fact that if dropout is over utilized, too much information is thrown out in the network for any meaningful uncertainty estimate. Keeping the use of dropout too limited, however, will result in almost identical predictions since very little about the network is changed. Therefore, the best use of dropout is found by a unique loss function that captures when estimates are large enough to capture uncertainty for incorrect predictions but not too large such that correct predictions become overly uncertain. Each prediction still retains its own unique uncertainty estimate, but the cumulative differences for a certain set of dropout parameters can be found and compared to the results of other dropout parameters. For each of the DNN models, a minimum number of forward passes was also found, less than which the estimates were too inaccurate to be chosen by the loss function.
 
+<p align="center">  
+  <img src="pics/mri_input.png" alt="Logo" width="400">  
+  <img src="pics/us_input.png" alt="Logo" width="400">  
+</p>
+
+<p align="center">  
+  <img src="pics/mri_location.png" alt="Logo" width="400">  
+  <img src="pics/us_location.png" alt="Logo" width="400">  
+  <img src="pics/mri_input-1.png" alt="Logo" width="400">  
+</p>
+
 #### Uncertainty Estimates on Test Data
 General trends of the uncertainty estimates can be observed from the graphs on the right:
 - MRI-DNN combined uncertainty is mostly uniform, between 8-14%
@@ -371,6 +392,18 @@ The following conclusions may be drawn from these uncertainty estimates:
 - Binary classification, as demonstrated by the Random Forest results, is where uncertainty adds least value compared to intuition
 
 For the purpose of the pipeline, an “uncertain estimate” was defined as one which was within ± 2𝞼 from the decision boundary of 50% predicted probability of cancer.
+
+<p align="center">  
+  <img src="pics/mri_correct.png" alt="Logo" width="400">  
+  <img src="pics/mri_bar.png" alt="Logo" width="400">  
+  <img src="pics/us_bar.png" alt="Logo" width="400">  
+</p>
+
+<p align="center">  
+  <img src="pics/us_correct.png" alt="Logo" width="400">  
+  <img src="pics/mri_bar-2.png" alt="Logo" width="400">  
+  <img src="pics/mri_correct-2.png" alt="Logo" width="400">  
+</p>
 
 #### References
 [1] Farrance, I., & Frenkel, R. (2012). Uncertainty of Measurement: A Review of the Rules for Calculating Uncertainty Components through Functional Relationships. The Clinical biochemist. Reviews, 33(2), 49–75.
