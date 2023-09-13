@@ -413,3 +413,122 @@ For the purpose of the pipeline, an “uncertain estimate” was defined as one 
 [3] Gal, Yarin & Ghahramani, Zoubin. (2015). Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning. Proceedings of The 33rd International Conference on Machine Learning. 
 
 [4] Yarin Gal, Jiri Hron, and Alex Kendall. 2017. Concrete dropout. In Proceedings of the 31st International Conference on Neural Information Processing Systems (NIPS’17). Curran Associates Inc., Red Hook, NY, USA, 3584–3593.
+
+<!-- IMPACT -->
+## Impact
+The impact of machine learning on medicine and healthcare continues to increase. Many examples in literature or in the news focus on singular models making new progress on specific problems. However, the task of providing a service to a large number of potential patients requires a broad based solution. In particular, to enter production it will need to be one that is robust against differences in patient background or available information while still offering the competitive performance.
+
+This project provides a minimum viable product for a best performing, end-to-end pipeline that is able to take a variety of patient information and provide a prostate cancer diagnosis. With over 1100 patients in the project dataset featuring a variety of healthcare institutions, medical procedures, and information available about each individual, this product is much more likely to be robust to new clinical settings and patients. In addition, the use of uncertainty estimation can provide context for when a patient’s status may be ambiguous and flagged for a manual follow up.
+
+Specifically, MRI Analyzer compares to recent publications in the following way:
+
+<p align="center">  
+  <img src="pics/Screen-Shot-2021-12-02-at-2.32.22-PM-1024x293.png" alt="Logo" width="400">    
+</p>
+
+Note that the AUC-ROC reported above is found from the full curve, as used in other literature examples. Elsewhere on this site both the full curve and single point value from the 50% decision boundary are reported.
+
+### USE CASE #1: FLEXIBLE PIPELINE
+MRI Analyzer’s larger, more diverse dataset, coupled with robust training, makes it better prepared to treat patients from a wide variety of backgrounds and in differing circumstances. As described on the Dataset page, various scanning procedures and equipment were used and differed from patient to patient. This variety both makes the pipeline more robust for patients in across backgrounds in the future, but also likely helped to prevent overfitting to the training set currently. 
+
+Further, a patient only needs an MRI and Ultrasound scan in order for a classification to be made in line with model training and evaluation. All other variables, including levels of Prostate Specific Antigen (PSA) from blood tests and all patient metadata, were imputed with the training group’s average whenever missing for a patient. Therefore, the best performing AUC-ROC metric includes these cases of partial missing data. While only future evaluation on new patients will reveal whether this performance continues, receiving competitive scores on the current dataset with this method indicates that this flexibility is within reach for patients.
+
+### USE CASE #2: UNCERTAINTY QUANTIFIER
+The inclusion of full-pipeline uncertainty estimates not only provides better context for an individual cancer prediction, but also can be used to improve processing of patients in bulk. 
+
+<p align="center">  
+  <img src="pics/Screen-Shot-2021-11-30-at-1.30.13-AM-1024x372.png" alt="Logo" width="400">    
+</p>
+
+The image above demonstrates how an individual with an ambiguous point estimate can be better understood with an accompanying uncertainty estimate. In this case, one patient had a predicted probability just under ~40%. For the simple scenario of binary classification, a naive baseline may be to flag anyone between 30-70% because of their proximity to the decision boundary. In this case, however, this individual was correctly classified despite their near-ambiguous point estimate. This is reflected with a quantified uncertainty estimate that is much lower than its neighbors in this same baseline, which were incorrectly classified. Although there are visible examples of patients which were both certain and incorrectly classified, uncertainty can still demonstrate better filtering of ambiguous patients. 
+
+### USE CASE #3: PRIORITIZATION TOOL
+<p align="center">  
+  <img src="pics/covid-use-case.png" alt="Logo" width="400">    
+</p>
+
+Many elective operations and surgeries were postponed or cancelled during the COVID-19 pandemic. This meant that all of the patients whose doctors were suspecting them of having cancer had to postpone their biopsy operations. As a result, patients who were having symptoms of prostate cancer had to wait until COVID-19 had passed in their area or until their symptoms worsened. To better serve patients who are most in need, doctors can use MRI Analyzer as a complementary tool to predict point estimate probabilities of cancer along with uncertainty estimates on a patient by patient basis.
+
+For example, a patient goes to the doctor since he is making very frequent bathroom visits and has seen blood in their urine. The doctor takes blood samples and also sends the patient for an MRI scan. Due to COVID-19, many patients cannot proceed beyond the MRI scan without further certainty of their condition. Instead of waiting for worsening symptoms, MRI Analyzer can be a supplementary tool to determine the cancer status along with a quantification of its uncertainty for the patient. In particular, for scenarios with high demand for medical resources such as COVID-19, MRI Analyzer makes the evaluation process more efficient so doctors can spend time better focused on patients and situational needs.
+
+References:
+[1] Sonn GA, Fan RE, Ghanouni P, Wang NN, Brooks JD, Loening AM, Daniel BL, To’o KJ, Thong AE, Leppert JT. Prostate Magnetic Resonance Imaging Interpretation Varies Substantially Across Radiologists. Eur Urol Focus. 2019 Jul;5(4):592-599. doi: 10.1016/j.euf.2017.11.010. Epub 2017 Dec 7. PMID: 29226826.
+[2] Minh Hung Le et al 2017 Phys. Med. Biol. 62 6497
+[3] Yoo, S., Gujrathi, I., Haider, M.A. et al. Prostate Cancer Detection using Deep Convolutional Neural Networks. Sci Rep 9, 19518 (2019). 
+
+<!-- NEXT STEPS -->
+## Next Steps
+### EXPAND PIPELINE
+- MRI Analyzer’s pipeline is currently automated and only requires specifying an input folder that contains the training dataset
+- Incorporating other cancer types with new copies of MRI Analyzer’s pipeline can broaden its usefulness
+
+Additional datasets:
+- Prostate Cancer:  PRAD-CANADA – 392 subjects
+- Breast Cancer: Breast Cancer Screening-DBT – 985 subjects
+- Colon Cancer: CT Colongraphy (ACRIN 6664) – 825 subjects
+- Lung Cancer: NSCLC-Radiomics – 422 subjects
+- Kidney Cancer: C4KC- KiTS – 210 subjects
+
+<p align="center">  
+  <img src="pics/pipes-ventilation-metal-4161383-1024x681.jpg" alt="Logo" width="400">    
+</p>
+
+### ADD OBJECT SEGMENTATION VIA YOLO5
+Because each medical scan contains several slices, each of which may or may not include cancer, current processing for computer vision models requires:
+- Creating a single label for each scan
+- Manually cropping each image slice to only the interior portion, which is centered on the prostate
+- Dropping the first and last sets of image slices, which contain no / the least amount of prostate
+- Combining the remaining image slices into a collage
+Object segmentation can be incorporated into the pipeline via the YOLO5 model to improve processing. The updated pipeline would only require:
+- Inputting a single MRI scan
+- Extracting the prostate from within each slice, if present, automatically via the trained YOLO5 model
+- Combining the extracted prostate images into a higher resolution, less noisy collage
+
+This would have the advantage of providing more relevant information into each computer vision model, likely increasing performance.
+
+<p align="center">  
+  <img src="pics/cubes-dice-geometry-3385437-1024x563.jpg" alt="Logo" width="400">    
+</p>
+
+
+### CANCER SLICE CLASSIFICATION
+The original dataset provided cancer information in the form of biopsy results for each patient, which was used to generate the cancer / no cancer label. 
+
+In addition, 3-D coordinates were also provided which mapped each biopsy sample to its location in the patient’s corresponding MRI image.
+
+Incorporating this information in a useful way for either image pre-processing, or as a feature into the computer vision models, will allow more detailed learning of how image features relate to cancer outcomes. This is a unique feature of the current dataset and will likely increase performance.
+
+
+<p align="center">  
+  <img src="pics/Prostate-MRI-US-Biopsy-Exemplary-Image-Complex-1024x835.png" alt="Logo" width="400">    
+</p>
+
+### IMAGE CHANNELS & OVERCOMING HARDWARE LIMITATIONS
+Images that have been used for this study were put into a single channel collage due to hardware memory limits. For the same reason, it was also required to lower image resolution within the collage. Both of these adjustments likely affected model training and performance. With more powerful hardware from future funding, images could instead be processed in a multichannel format corresponding to the physical location within the body. This could also provide the opportunity to keep images at higher resolutions where more details are available to the model. Each of these changes would likely increase performance as more information is available to the computer vision models.
+<p align="center">  
+  <img src="pics/1.png" alt="Logo" width="400">    
+</p>
+
+### RELATED RESEARCH
+In a separate application of ResNet to prostate cancer detection (4), diffusion-weighted MRI images were used as an input with 319 training and 108 testing patients. Five stacked ResNet17 models were used in an ensemble in order to make slice-level classifications, which were then used to generate a single patient level classification. This is shown in the image on the right.
+
+The reported AUC-ROC was 0.84 – 0.90 at the slice level and 0.76 – 0.91  at the patient level. Slice level indicates a prediction of whether or not an individual MRI slice had a prostate cancer tumor, while patient level indicates whether an entire MRI scan for a patient had a prostate cancer tumor. 
+
+In a statistical study that was conducted by Smith RP, et.al. (2), researchers analyzed historical data to see whether prostate cancer could be detected and diagnosed accurately based on the PSA (Prostate Specific Antigen) results. Specifically, they compared the PSA results of 977 patients with confirmed prostate cancer diagnosis against different clinically significant PC thresholds. The research concludes that the almost two thirds of the patients were diagnosed as having a prostate cancer based on the aligned results of the biopsy data and the PSA screening results. 
+
+
+Furthermore, in a study by Sonn et. al. (3), individual radiologists were assessed for how they evaluated MRI scans for prostate cancer. Nine radiologists provided a PIRADS score for different MRIs, which is a procedural metric when evaluating an MRI. The scores were used in a logistic regression in order to predict the clinical significance of cancer. Results showed both the PIRADS score distribution as well as the yield of clinically significant cancer varied across individuals. The research also found that the variability amongst radiologists was not due to factors such as education, training levels, etc. 
+
+Finally, in an article by Minh Hung Le et al. (1), researchers created a CNN and SVM ensemble to distinguish between clinically significant and insignificant prostate cancer from 364 patients. With a small dataset, they explored different data augmentation methods in order to improve results. It was found that fusion of CNN features did not guarantee an improvement in results. As a result, they used a new fusion method to create a feature learning process where data is more consistent with less variety. The results showed that the new fusion model demonstrated better performance compared to the other two methods also attempted in the study. 
+<p align="center">  
+  <img src="pics/Screen-Shot-2021-11-29-at-7.07.16-PM-1024x685.png" alt="Logo" width="400">    
+</p>
+
+
+References:
+
+Le, M. H., Chen, J., Wang, L., Wang, Z., Liu, W., Cheng, K.-T. (T., & Yang, X. (2017). Automated diagnosis of prostate cancer in multi-parametric MRI based on multimodal Convolutional Neural Networks. Physics in Medicine & Biology, 62(16), 6497–6514. https://doi.org/10.1088/1361-6560/aa7731
+Smith, R. P., Malkowicz, S. B., Whittington, R., VanArsdalen, K., Tochner, Z., & Wein, A. J. (2004). Identification of clinically significant prostate cancer by prostate-specific antigen screening. Archives of Internal Medicine, 164(11), 1227. https://doi.org/10.1001/archinte.164.11.1227
+Sonn, G. A., Fan, R. E., Ghanouni, P., Wang, N. N., Brooks, J. D., Loening, A. M., Daniel, B. L., To’o, K. J., Thong, A. E., & Leppert, J. T. (2019). Prostate magnetic resonance imaging interpretation varies substantially across radiologists. European Urology Focus, 5(4), 592–599. https://doi.org/10.1016/j.euf.2017.11.010
+
+Yoo, S., Gujrathi, I., Haider, M. A., & Khalvati, F. (2019). Prostate cancer detection using deep convolutional neural networks. Scientific Reports, 9(1). https://doi.org/10.1038/s41598-019-55972-4
