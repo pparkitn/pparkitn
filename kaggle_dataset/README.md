@@ -20,6 +20,17 @@ kaggle datasets init -p /path/to/dataset
 Replace /path/to/dataset with the actual path to your dataset folder.
 
 Add Metadata: Open the generated metadata file named datapackage.json and add your dataset's metadata. This includes the dataset's title, description, and other relevant information.
+```
+{
+  "title": "INSERT_TITLE_HERE",
+  "id": "dsptlp/INSERT_SLUG_HERE",
+  "licenses": [
+    {
+      "name": "CC0-1.0"
+    }
+  ]
+}
+```
 
 Create the Dataset: Now, run the following command to create your dataset on Kaggle:
 
