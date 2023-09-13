@@ -14,11 +14,11 @@ Creating a new dataset on Kaggle is a straightforward process. Follow these step
 
 nitialize Dataset: Use the following command to initialize your dataset and generate a metadata file:
 
-bash
+```
 Copy code
 kaggle datasets init -p /path/to/dataset
+```
 Replace /path/to/dataset with the actual path to your dataset folder.
-
 Add Metadata: Open the generated metadata file named datapackage.json and add your dataset's metadata. This includes the dataset's title, description, and other relevant information.
 ```
 {
@@ -32,11 +32,13 @@ Add Metadata: Open the generated metadata file named datapackage.json and add yo
 }
 ```
 
-Create the Dataset: Now, run the following command to create your dataset on Kaggle:
+```zip -r name.zip filder```
 
-bash
-Copy code
+
+Create the Dataset: Now, run the following command to create your dataset on Kaggle:
+```
 kaggle datasets create -p /path/to/dataset
+```
 Kaggle will process your dataset and make it private by default. If you want to make it public right away, you can add the -u flag to the kaggle datasets create command.
 
 Public or Collaborative Sharing: If your dataset is private and you wish to make it public or share it with collaborators, you can do so from your dataset's settings on the Kaggle website. Navigate to "Settings" > "Sharing" to manage your dataset's visibility and access.
@@ -46,16 +48,12 @@ If you already have an existing dataset on Kaggle and want to upload a new versi
 
 Initialize New Version: If you don't have a metadata file for the new version, create one by running:
 
-bash
-Copy code
-kaggle datasets init -p /path/to/dataset
+```kaggle datasets init -p /path/to/dataset```
 Ensure that the id field in the dataset-metadata.json or datapackage.json points to your dataset.
 
 Upload New Version: Run the following command to create a new version of your dataset:
 
-bash
-Copy code
-kaggle datasets version -p /path/to/dataset -m "Your message here"
+```kaggle datasets version -p /path/to/dataset -m "Your message here" ```
 Replace /path/to/dataset with the actual path to your dataset folder and provide a brief message describing the changes you made for this version.
 
 That's it! You've successfully created a new dataset on Kaggle or uploaded a new version of an existing one. You can manage and share your datasets through Kaggle's platform as needed.
