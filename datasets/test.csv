@@ -1,52 +1,159 @@
 Country,Value
-United States,12394
-Russia,6148
-Germany (FRG),1653
-France,2162
-United Kingdom,1214
-China,1131
-Soviet Union,
-Netherlands,1167
-Italy,660
-Israel,1263
-Ukraine,240
-Spain,814
-Sweden,83
-Switzerland,186
-Canada,87
-South Korea,587
-Belarus,23
-Norway,134
-Turkey,244
-South Africa,74
-Czech Republic,110
-Poland,3
-Belgium,12
-Australia,97
-Brazil,45
-Czechoslovakia,
-North Korea,
-Finland,58
-Uzbekistan,
-Japan,2
-Slovakia,22
-Denmark,12
-Bulgaria,
-Austria,22
-Yugoslavia,
-Jordan,77
-UAE,72
-Singapore,
-Moldova,
-Unknown supplier(s),7
-Indonesia,102
-Iran,10
-Libya,
-Romania,
-Portugal,56
-India,56
-Kazakhstan,
-Serbia,2
-Ireland,
-Hungary,
-Others,77
+India,898050
+Philippines,719580
+China,715835
+United Kingdom,464135
+United States of America,256085
+Pakistan,234105
+Hong Kong,213855
+Italy,204065
+Iran,182940
+Viet Nam,182095
+Jamaica,145360
+"Korea, South",138355
+Sri Lanka,136240
+Poland,135030
+Portugal,128795
+Germany,126470
+France,121525
+Haiti,99945
+Syria,97595
+Lebanon,95730
+Mexico,90585
+Romania,86770
+Guyana,85530
+Iraq,84130
+Russian Federation,81840
+Morocco,81770
+Nigeria,81290
+Ukraine,81130
+Colombia,80570
+Algeria,79660
+Netherlands,75830
+Egypt,73710
+Bangladesh,70090
+Taiwan,65365
+Trinidad and Tobago,65035
+Afghanistan,62450
+Greece,54715
+"South Africa, Republic of",51590
+El Salvador,49445
+Brazil,48455
+Ethiopia,41720
+Croatia,36675
+Bosnia and Herzegovina,35925
+Turkey,35270
+"Congo, Democratic Republic of the",33110
+Somalia,32495
+Serbia,31925
+Peru,31420
+Eritrea,31385
+Hungary,31050
+Japan,30870
+Saudi Arabia,29585
+United Arab Emirates,29405
+Israel,29395
+Ireland,29295
+Kenya,29235
+Cameroon,28755
+Chile,27755
+Venezuela,27320
+Ghana,25755
+Malaysia,25060
+Tunisia,24425
+Cambodia,23065
+Tanzania,21595
+Moldova,20070
+Czechia,19550
+Cuba,19545
+Argentina,19530
+Nepal,19370
+Bulgaria,19170
+Côte d'Ivoire,18865
+Belgium,18650
+Switzerland,18185
+Mauritius,18140
+Guatemala,18035
+Albania,17825
+Kuwait,17655
+Jordan,17530
+Thailand,17410
+Ecuador,16320
+Sudan,16025
+Indonesia,16025
+Uganda,15120
+Kazakhstan,13965
+Laos,13955
+Saint Vincent and the Grenadines,13930
+Austria,13835
+Barbados,13665
+Dominican Republic,13360
+Burundi,13050
+Slovakia,12955
+Singapore,12560
+Belarus,12190
+Zimbabwe,12050
+Spain,11510
+Denmark,11000
+Nicaragua,10735
+North Macedonia,10195
+Senegal,10045
+Grenada,9895
+Myanmar,9235
+Honduras,8980
+West Bank and Gaza Strip,8960
+Kosovo,8450
+Finland,8420
+Libya,8305
+Rwanda,7955
+Uzbekistan,7075
+Slovenia,6935
+Saint Lucia,6730
+Sweden,6680
+Uruguay,6435
+Malta,6300
+Guinea,6205
+Paraguay,6085
+South Sudan,5995
+Macao,5320
+Azerbaijan,5210
+Latvia,5075
+Armenia,5065
+Lithuania,4930
+Togo,4885
+Yemen,4695
+Costa Rica,4655
+Brunei Darussalam,4525
+Madagascar,4295
+Cyprus,4110
+Qatar,4110
+Bhutan,3990
+Kyrgyzstan,3945
+Benin,3885
+Norway,3845
+Bolivia,3835
+Angola,3515
+Zambia,3475
+Georgia,3305
+Djibouti,3245
+Sierra Leone,3120
+"Congo, Republic of the",3070
+Burkina Faso,2935
+Dominica,2905
+Mali,2835
+Bahrain,2815
+Panama,2800
+Liberia,2640
+Estonia,2600
+Antigua and Barbuda,2430
+Oman,2240
+Bahamas,2145
+Saint Kitts and Nevis,2030
+Belize,2015
+Chad,1950
+Mongolia,1810
+Bermuda,1795
+Central African Republic,1700
+Tajikistan,1590
+Montenegro,1575
+Namibia,1420
