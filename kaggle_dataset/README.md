@@ -41,9 +41,10 @@ kaggle datasets create -p /path/to/dataset
 ```
 Kaggle will process your dataset and make it private by default. If you want to make it public right away, you can add the -u flag to the kaggle datasets create command.
 
-Public or Collaborative Sharing: If your dataset is private and you wish to make it public or share it with collaborators, you can do so from your dataset's settings on the Kaggle website. Navigate to "Settings" > "Sharing" to manage your dataset's visibility and access.
+Public or Collaborative Sharing: If your dataset is private and you wish to make it public or share it with collaborators, you can do so from your dataset's settings on the Kaggle website. 
+Navigate to "Settings" > "Sharing" to manage your dataset's visibility and access.
 
-Create a New Dataset Version
+## Create a New Dataset Version
 If you already have an existing dataset on Kaggle and want to upload a new version of it, follow these steps:
 
 Initialize New Version: If you don't have a metadata file for the new version, create one by running:
