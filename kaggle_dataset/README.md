@@ -33,6 +33,7 @@ Add Metadata: Open the generated metadata file named datapackage.json and add yo
 ```
 
 If you have folers in your dataset zip them up so only files are present, no folders.
+
 ```zip -r name.zip filder```
 
 
