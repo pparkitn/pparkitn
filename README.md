@@ -43,8 +43,11 @@ Here are some of the projects I've worked on:
 
 ## My Visualisation Portfolio
 
-Here are some examples of visualizations that I have created.
-Coming Soon
+1. [Line Graph](graph_examples/1_Graph_Example_1.ipynb)
+   - Seaborn Line Graph with annotations
+<p align="center">
+    <img src="graph_examples/pics/graph1.png" alt="Logo" width="100">
+</p>
 
 ## Other
 1. [GPU Support Setup - Local Computer](nvidia_gpu_support/readme.md)
