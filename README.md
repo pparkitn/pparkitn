@@ -55,6 +55,18 @@ Here are some of the projects I've worked on:
     <img src="graph_examples/pics/graph2.png" alt="Logo" width="800">
 </p>
 
+3. [HeatMap](graph_examples/1_Graph_Example_3.ipynb)
+   - Seaborn Heat Map with annotations
+<p align="center">
+    <img src="graph_examples/pics/graph3.png" alt="Logo" width="800">
+</p>
+
+3. [BarGra[h]](graph_examples/1_Graph_Example_4.ipynb)
+   - Seaborn Bar Graph
+<p align="center">
+    <img src="graph_examples/pics/graph4.png" alt="Logo" width="800">
+</p>
+
 ## Other
 1. [GPU Support Setup - Local Computer](nvidia_gpu_support/readme.md)
    - Setting up GPU support on Ubuntu for GPU Training
