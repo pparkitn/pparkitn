@@ -49,6 +49,12 @@ Here are some of the projects I've worked on:
     <img src="graph_examples/pics/graph1.png" alt="Logo" width="800">
 </p>
 
+2. [Line Graph - Dual Y Axis](graph_examples/1_Graph_Example_2.ipynb)
+   - Seaborn Line Graph with annotations and two y-axis
+<p align="center">
+    <img src="graph_examples/pics/graph2.png" alt="Logo" width="800">
+</p>
+
 ## Other
 1. [GPU Support Setup - Local Computer](nvidia_gpu_support/readme.md)
    - Setting up GPU support on Ubuntu for GPU Training
