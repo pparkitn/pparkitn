@@ -61,7 +61,7 @@ Here are some of the projects I've worked on:
     <img src="graph_examples/pics/graph3.png" alt="Logo" width="800">
 </p>
 
-3. [BarGra[h]](graph_examples/1_Graph_Example_4.ipynb)
+3. [BarGrah](graph_examples/1_Graph_Example_4.ipynb)
    - Seaborn Bar Graph
 <p align="center">
     <img src="graph_examples/pics/graph4.png" alt="Logo" width="800">
