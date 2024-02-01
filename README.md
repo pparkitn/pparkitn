@@ -41,6 +41,18 @@ Here are some of the projects I've worked on:
   <img src="proj2/pics/US-ORIG.gif" alt="Logo" width="100">
 </p>
 
+3. [Attractiveness Bias](proj3/README.md)
+   - Description: Does attractiveness play a role in accepting a connection from a stranger in LinkedIn?
+   - Technologies Used: R
+   - Highlights: RCT conducted on LinkedIn 
+
+<p align="center">
+    <img src="proj3/pics/img1.png" alt="Logo" width="100">  
+</p>
+
+
+
+
 ## Visualisations
 
 1. [Line Graph](graph_examples/1_Graph_Example_1.ipynb)
