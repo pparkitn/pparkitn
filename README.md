@@ -41,7 +41,7 @@ Here are some of the projects I've worked on:
   <img src="proj2/pics/US-ORIG.gif" alt="Logo" width="100">
 </p>
 
-## My Visualisation Portfolio
+## Visualisations
 
 1. [Line Graph](graph_examples/1_Graph_Example_1.ipynb)
    - Seaborn Line Graph with annotations
@@ -76,7 +76,7 @@ Here are some of the projects I've worked on:
 6. [Correlation](graph_examples/1_Graph_Example_6.ipynb)
    - Correlation Matrix using Seaborn
 <p align="center">
-    <img src="graph_examples/pics/correlation_heat_map.png" alt="Logo" width="800">
+    <img src="graph_examples/pics/correlation_heat_map.png" alt="Logo" width="400">
 </p>
 
 7. [Association](graph_examples/1_Graph_Example_6.ipynb)
