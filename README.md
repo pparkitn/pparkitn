@@ -47,7 +47,7 @@ Here are some of the projects I've worked on:
    - Highlights: RCT conducted on LinkedIn 
 
 <p align="center">
-    <img src="proj3/pics/img1.png" alt="Logo" width="100">  
+    <img src="proj3/pics/img1.png" alt="Logo" width="800">  
 </p>
 
 
