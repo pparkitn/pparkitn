@@ -73,6 +73,24 @@ Here are some of the projects I've worked on:
     <img src="graph_examples/pics/graph5.png" alt="Logo" width="800">
 </p>
 
+6. [Correlation](graph_examples/1_Graph_Example_6.ipynb)
+   - Correlation Matrix using Seaborn
+<p align="center">
+    <img src="graph_examples/pics/correlation_heat_map.png" alt="Logo" width="800">
+</p>
+
+7. [Association](graph_examples/1_Graph_Example_6.ipynb)
+   - Association Matrix using Seaborn (Includes Categorical Features)
+<p align="center">
+    <img src="graph_examples/pics/association_heat_map.png" alt="Logo" width="800">
+</p>
+
+8. [Important Features](graph_examples/1_Graph_Example_6.ipynb)
+   - Important Features in a Dataset that have impact on target
+<p align="center">
+    <img src="graph_examples/pics/important_features.png" alt="Logo" width="800">
+</p>
+
 ## Other
 1. [GPU Support Setup - Local Computer](nvidia_gpu_support/readme.md)
    - Setting up GPU support on Ubuntu for GPU Training
