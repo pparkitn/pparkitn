@@ -107,6 +107,9 @@ Here are some of the projects I've worked on:
 1. [GPU Support Setup - Local Computer](nvidia_gpu_support/readme.md)
    - Setting up GPU support on Ubuntu for GPU Training
 
+2. [DataSets - OpenML](https://www.openml.org/)
+   - Great source if looking for a dataset to work with
+
 ## Kaggle
 1. [Kaggle - Free GPU Training](kaggle/README.md)
    - GPU Training for free on Kaggle
