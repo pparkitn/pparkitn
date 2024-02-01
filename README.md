@@ -41,7 +41,7 @@ Here are some of the projects I've worked on:
   <img src="proj2/pics/US-ORIG.gif" alt="Logo" width="100">
 </p>
 
-3. [Attractiveness Bias](proj3/README.md)
+3. [Attractiveness Bias](proj3/Final_Report.pdf)
    - Description: Does attractiveness play a role in accepting a connection from a stranger in LinkedIn?
    - Technologies Used: R
    - Highlights: RCT conducted on LinkedIn 
