@@ -59,7 +59,7 @@ Here are some of the projects I've worked on:
    - Technologies Used: Python / CV2
    
 <p align="center">
-    <img src="proj3/pics/img1.png" alt="Logo" width="800">  
+    <img src="proj4/pics/img1.png" alt="Logo" width="800">  
 </p>
 
 
