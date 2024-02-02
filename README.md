@@ -61,7 +61,15 @@ Here are some of the projects I've worked on:
 5. [Coming Soon - Spark - Time Series Prediction](proj5/README.md)
    - Description: Building large window feature set used for predicting future
    - Technologies Used: Spark / Python
-   
+
+6. [Counterfeit: Sentiment Improved Text Summarization](proj6/Final_Project_Piotr_Parkitny.pdf)
+   - Description: NLP Text summarization model that uses sentiment for text preprocessing
+   - Technologies Used: PyTorch
+
+   <p align="center">
+    <img src="proj6/pics/img2.png" alt="Logo" width="800">  
+</p>
+
 ## Visualisations
 
 1. [Line Graph](graph_examples/1_Graph_Example_1.ipynb)
