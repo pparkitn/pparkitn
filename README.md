@@ -2,6 +2,10 @@
 
 Hey there, welcome to my data science playground on GitHub! I'm Piotr Parkitny, and I've been riding the data-driven wave for over 15 years, dropping knowledge bombs through analytics, machine learning, and all things data. 
 
+- Programming Languages: Python, SQL, R
+- Big Data Platforms: Databricks, Spark
+- Data Analysis: SQL, Pandas, NumPy
+
 ## Education
 - University of California, Berkeley — Master of Information and Data Science
 - University of Guelph — H.B.Sc Engineering Systems and Computing
@@ -50,6 +54,13 @@ Here are some of the projects I've worked on:
     <img src="proj3/pics/img1.png" alt="Logo" width="800">  
 </p>
 
+4. [Human Pose Estimation](proj4/README.md)
+   - Description: Tracking human pose for rock climbing style comparison
+   - Technologies Used: Python / CV2
+   
+<p align="center">
+    <img src="proj3/pics/img1.png" alt="Logo" width="800">  
+</p>
 
 
 
