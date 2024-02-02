@@ -54,16 +54,14 @@ Here are some of the projects I've worked on:
     <img src="proj3/pics/img1.png" alt="Logo" width="800">  
 </p>
 
-4. [Human Pose Estimation](proj4/README.md)
+4. [Coming Soon - Human Pose Estimation](proj4/README.md)
    - Description: Tracking human pose for rock climbing style comparison
    - Technologies Used: Python / CV2
    
-<p align="center">
-    <img src="proj4/pics/img1.png" alt="Logo" width="800">  
-</p>
-
-
-
+5. [Coming Soon - Spark - Time Series Prediction](proj5/README.md)
+   - Description: Building large window feature set used for predicting future
+   - Technologies Used: Spark / Python
+   
 ## Visualisations
 
 1. [Line Graph](graph_examples/1_Graph_Example_1.ipynb)
