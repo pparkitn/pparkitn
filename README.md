@@ -68,7 +68,7 @@ Here are some of the projects I've worked on:
 
    <p align="center">
     <img src="proj6/pics/img2.png" alt="Logo" width="800">  
-</p>
+   </p>
 
 ## Visualisations
 
