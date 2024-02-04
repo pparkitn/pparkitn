@@ -58,6 +58,10 @@ Here are some of the projects I've worked on:
    - Description: Tracking human pose for rock climbing style comparison
    - Technologies Used: Python / CV2
    
+   <p align="center">
+    <img src="proj4/pics/output1.gif" alt="Logo" width="800">  
+   </p>
+
 5. [Coming Soon - Spark - Time Series Prediction](proj5/README.md)
    - Description: Building large window feature set used for predicting future
    - Technologies Used: Spark / Python
