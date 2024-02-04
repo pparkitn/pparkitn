@@ -54,7 +54,7 @@ Here are some of the projects I've worked on:
     <img src="proj3/pics/img1.png" alt="Logo" width="800">  
 </p>
 
-4. [Coming Soon - Human Pose Estimation](proj6/README.md)
+4. [Coming Soon - Human Pose Estimation](proj4/README.md)
    - Description: Tracking human pose for rock climbing style comparison
    - Technologies Used: Python / CV2
    
