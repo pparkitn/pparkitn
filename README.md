@@ -59,7 +59,7 @@ Here are some of the projects I've worked on:
    - Technologies Used: Python / CV2
    
    <p align="center">
-    <img src="proj4/pics/output1.gif" alt="Logo" width="400">  
+    <img src="proj4/pics/image1.gif" alt="Logo" width="400">  
    </p>
 
 5. [Coming Soon - Spark - Time Series Prediction](proj5/README.md)
