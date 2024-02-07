@@ -7,8 +7,8 @@ Hey there, welcome to my data science playground on GitHub! I'm Piotr Parkitny, 
 - Data Analysis: SQL, Pandas, NumPy
 
 ## Education
-- University of California, Berkeley — Master of Information and Data Science
-- <img src="images/university_of_guelph_logo.jpg" alt="University of Guelph Logo" width="50" style="vertical-align: middle;"> University of Guelph — H.B.Sc Engineering Systems and Computing
+- <img src="images/uc_berkeley_logo.jpg" alt="University of California" width="20" style="vertical-align: middle;"> University of California, Berkeley — Master of Information and Data Science
+- <img src="images/university_of_guelph_logo.jpg" alt="University of Guelph Logo" width="20" style="vertical-align: middle;"> University of Guelph — H.B.Sc Engineering Systems and Computing
  
   
 
