@@ -8,6 +8,7 @@ Hey there, welcome to my data science playground on GitHub! I'm Piotr Parkitny, 
 
 ## Education
 <img src="images/uc_berkeley_logo.jpg" alt="University of California" width="30" style="vertical-align: middle;"> University of California, Berkeley — Master of Information and Data Science
+<p> </p>
 <img src="images/university_of_guelph_logo.jpg" alt="University of Guelph Logo" width="30" style="vertical-align: middle;"> University of Guelph — H.B.Sc Engineering Systems and Computing
  
   
