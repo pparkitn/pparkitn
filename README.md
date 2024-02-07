@@ -9,6 +9,9 @@ Hey there, welcome to my data science playground on GitHub! I'm Piotr Parkitny, 
 ## Education
 - University of California, Berkeley — Master of Information and Data Science
 - University of Guelph — H.B.Sc Engineering Systems and Computing
+ <p align="center">
+      <img src="images/university_of_guelph_logo.jpg" alt="University of Guelph Logo" width="100">
+  </p>
 
 ## About Me
 
@@ -73,6 +76,20 @@ Here are some of the projects I've worked on:
    <p align="center">
     <img src="proj6/pics/img2.png" alt="Logo" width="800">  
    </p>
+
+
+## Machine Learning Examples
+
+Here are some examples of machine learning using python:
+
+1. [Clustering](ML_examples/clustering_example.ipynb)
+   - Description: Clustering using Kmeans with PCA for graphing
+   - Try it on [Kaggle Clustering](https://www.kaggle.com/dsptlp/faceemotion-fer-2013)
+  
+<p align="center">
+    <img src="ML_examples/pics/pic1.png" alt="Logo" width="800">
+</p>
+
 
 ## Visualisations
 
