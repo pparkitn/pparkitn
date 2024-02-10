@@ -91,7 +91,7 @@ Here are some examples of machine learning using python:
 
 ## Data Engineering Examples
 
-1. [Centralized Repository of Medical Data](data_engineering_1/clustering-kmeans-with-pca.ipynb)
+1. [Centralized Repository of Medical Data](data_engineering_1/Presentation.pdf)
    - Description: Compiling large, up-to-date, secure and centralized repositories of health records is a major challenge facing medical data science. Achieving this will allow advanced ML/DL techniques to be applied to sufficiently large datasets for optimal performance and impact
    
    <p align="center">
