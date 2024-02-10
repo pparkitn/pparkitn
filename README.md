@@ -84,7 +84,7 @@ Here are some examples of machine learning using python:
    - Try it on [Kaggle Clustering](https://www.kaggle.com/code/dsptlp/clustering-kmeans-with-pca)
   
 <p align="center">
-    <img src="ML_examples/pics/pic1.png" alt="Logo" width="800">
+    <img src="images/elbow_plot.png" alt="Logo" width="800">
 </p>
 
 
