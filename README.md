@@ -16,7 +16,7 @@ Hey there, welcome to my data science playground on GitHub! I'm Piotr Parkitny, 
 - Email: parkitn@berkeley.edu
 - LinkedIn: https://www.linkedin.com/in/piotr-parkitny
 
-## My Projects
+## Projects
 
 Here are some of the projects I've worked on:
 
