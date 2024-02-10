@@ -81,7 +81,7 @@ Here are some examples of machine learning using python:
 
 1. [Clustering](ML_examples/clustering_example.ipynb)
    - Description: Clustering using Kmeans with PCA for graphing
-   - Try it on [Kaggle Clustering](https://www.kaggle.com/dsptlp/faceemotion-fer-2013)
+   - Try it on [Kaggle Clustering](https://www.kaggle.com/code/dsptlp/clustering-kmeans-with-pca)
   
 <p align="center">
     <img src="ML_examples/pics/pic1.png" alt="Logo" width="800">
