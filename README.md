@@ -89,6 +89,15 @@ Here are some examples of machine learning using python:
 </p>
 
 
+## Data Engineering Examples
+
+1. [Centralized Repository of Medical Data](data_engineering_1/clustering-kmeans-with-pca.ipynb)
+   - Description: Compiling large, up-to-date, secure and centralized repositories of health records is a major challenge facing medical data science. Achieving this will allow advanced ML/DL techniques to be applied to sufficiently large datasets for optimal performance and impact
+   
+   <p align="center">
+    <img src="data_engineering_1/pics/pipeline.png" alt="Logo" width="400">  
+   </p>
+
 ## Visualisations
 
 1. [Line Graph](graph_examples/1_Graph_Example_1.ipynb)
