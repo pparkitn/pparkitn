@@ -79,7 +79,7 @@ Here are some of the projects I've worked on:
 
 Here are some examples of machine learning using python:
 
-1. [Clustering](ML_Examples/clustering-kmeans-with-pca.ipynb)
+1. [Clustering](https://github.com/pparkitn/kaggle/blob/d3bf9d30a72aa7173e4461f70cccb9c4f4946dfc/clustering-kmeans-with-pca.ipynb)
    - Description: Clustering using Kmeans with PCA for graphing
    - Try it on [Kaggle Clustering](https://www.kaggle.com/code/dsptlp/clustering-kmeans-with-pca)
   
