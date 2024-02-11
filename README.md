@@ -75,7 +75,7 @@ Here are some of the projects I've worked on:
    </p>
 
 
-## Machine Learning Examples
+## Machine Learning
 
 Here are some examples of machine learning using python:
 
@@ -86,6 +86,13 @@ Here are some examples of machine learning using python:
 <p align="center">
     <img src="ML_Examples/pics/elbow_plot.png" alt="Logo" width="300">
     <img src="ML_Examples/pics/cov_plot.png" alt="Logo" width="300">
+</p>
+
+2. [Model Performance Tracking](https://wandb.ai/)
+   - Description: Weights & Biases helps AI developers build better models faster. Quickly track experiments, version and iterate on datasets, evaluate model performance, reproduce models, and manage your ML workflows end-to-end. 
+
+<p align="center">
+    <img src="ML_Examples/pics/w&b.png" alt="Logo" width="300">
 </p>
 
 
