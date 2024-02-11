@@ -99,7 +99,7 @@ Here are some examples of machine learning using python:
     <img src="data_engineering_1/pics/pipeline.png" alt="Logo" width="400">  
    </p>
 
-## Visualisations
+## Charts / Graphs
 
 1. [Line Graph](graph_examples/1_Graph_Example_1.ipynb)
    - Seaborn Line Graph with annotations
