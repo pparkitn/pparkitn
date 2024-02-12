@@ -110,6 +110,7 @@ Here are some examples of machine learning using python:
 
 1. [Line Graph](graph_examples/1_Graph_Example_1.ipynb)
    - Seaborn Line Graph with annotations
+   - Try it on [Kaggle] (https://www.kaggle.com/dsptlp/line-graph)
 <p align="center">
     <img src="graph_examples/pics/graph1.png" alt="Logo" width="800">
 </p>
