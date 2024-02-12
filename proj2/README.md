@@ -1,9 +1,6 @@
 <p align="center">
   <p align="center"><strong>MRI ANALYZER</strong></p>
   <p align="center"><strong>Piotr Parkitny | pparkitny@berkeley.edu</strong></p>
-  <p align="center"><strong>Aidan Jackson | aidanjackson@berkeley.edu</strong></p>
-  <p align="center"><strong>Dhyani Parekh | dhyanip7@berkeley.edu</strong></p>
-  <p align="center"><strong>Candice Sener | senercansu@berkeley.edu</strong></p>
 </p>
 
 <!-- TABLE OF CONTENTS -->
