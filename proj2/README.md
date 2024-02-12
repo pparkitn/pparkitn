@@ -1,6 +1,5 @@
 <p align="center">
   <p align="center"><strong>MRI ANALYZER</strong></p>
-  <p align="center"><strong>Piotr Parkitny | pparkitny@berkeley.edu</strong></p>
 </p>
 
 <!-- TABLE OF CONTENTS -->
