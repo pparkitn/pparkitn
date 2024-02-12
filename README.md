@@ -116,6 +116,7 @@ Here are some examples of machine learning using python:
 
 2. [Line Graph - Dual Y Axis](graph_examples/1_Graph_Example_2.ipynb)
    - Seaborn Line Graph with annotations and two y-axis
+   - Try it on [Kaggle](https://www.kaggle.com/dsptlp/line-graph-dual-y-axis)
 <p align="center">
     <img src="graph_examples/pics/graph2.png" alt="Logo" width="800">
 </p>
