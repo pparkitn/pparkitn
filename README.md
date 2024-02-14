@@ -79,7 +79,7 @@ Here are some of the projects I've worked on:
 
 Here are some examples of machine learning using python:
 
-1. [Clustering](https://github.com/pparkitn/kaggle/blob/d3bf9d30a72aa7173e4461f70cccb9c4f4946dfc/clustering-kmeans-with-pca.ipynb)
+1. [Clustering](https://github.com/pparkitn/kaggle/blob/main/clustering-kmeans-with-pca.ipynb)
    - Description: Clustering using Kmeans with PCA for graphing
    - Try it on [Kaggle Clustering](https://www.kaggle.com/code/dsptlp/clustering-kmeans-with-pca)
   
@@ -108,56 +108,56 @@ Here are some examples of machine learning using python:
 
 ## Charts / Graphs
 
-1. [Line Graph](https://github.com/pparkitn/kaggle/blob/ca7dc57ba18bad5805c95db76d1f9be0474b8afb/line-graph.ipynb)
+1. [Line Graph](https://github.com/pparkitn/kaggle/blob/main/line-graph.ipynb)
    - Seaborn Line Graph with annotations
    - Try it on [Kaggle](https://www.kaggle.com/dsptlp/line-graph)
 <p align="center">
     <img src="graph_examples/pics/graph1.png" alt="Logo" width="800">
 </p>
 
-2. [Line Graph - Dual Y Axis](https://github.com/pparkitn/kaggle/blob/ca7dc57ba18bad5805c95db76d1f9be0474b8afb/line-graph-dual-y-axis.ipynb)
+2. [Line Graph - Dual Y Axis](https://github.com/pparkitn/kaggle/blob/main/line-graph-dual-y-axis.ipynb)
    - Seaborn Line Graph with annotations and two y-axis
    - Try it on [Kaggle](https://www.kaggle.com/dsptlp/line-graph-dual-y-axis)
 <p align="center">
     <img src="graph_examples/pics/graph2.png" alt="Logo" width="800">
 </p>
 
-3. [HeatMap](https://github.com/pparkitn/kaggle/blob/ca7dc57ba18bad5805c95db76d1f9be0474b8afb/heatmap.ipynb)
+3. [HeatMap](https://github.com/pparkitn/kaggle/blob/main/heatmap.ipynb)
    - Seaborn Heat Map with annotations
    - Try it on [Kaggle](https://www.kaggle.com/code/dsptlp/heatmap)
 <p align="center">
     <img src="graph_examples/pics/graph3.png" alt="Logo" width="800">
 </p>
 
-4. [BarGraph](https://github.com/pparkitn/kaggle/blob/ca7dc57ba18bad5805c95db76d1f9be0474b8afb/bargraph.ipynb)
+4. [BarGraph](https://github.com/pparkitn/kaggle/blob/main/bargraph.ipynb)
    - Seaborn Bar Graph
    - Try it on [Kaggle](https://www.kaggle.com/code/dsptlp/bargraph)   
 <p align="center">
     <img src="graph_examples/pics/graph4.png" alt="Logo" width="800">
 </p>
 
-5. [WordCloud](https://github.com/pparkitn/kaggle/blob/ca7dc57ba18bad5805c95db76d1f9be0474b8afb/wordcloud.ipynb)
+5. [WordCloud](https://github.com/pparkitn/kaggle/blob/main/polar-examples.ipynb)
    - WordCloud using text from Canada Wiki Page
    - Try it on [Kaggle](https://www.kaggle.com/dsptlp/wordcloud)   
 <p align="center">
     <img src="graph_examples/pics/graph5.png" alt="Logo" width="800">
 </p>
 
-6. [Correlation](https://github.com/pparkitn/kaggle/blob/ca7dc57ba18bad5805c95db76d1f9be0474b8afb/polar-examples.ipynb)
+6. [Correlation](https://github.com/pparkitn/kaggle/blob/main/polar-examples.ipynb)
    - Correlation Matrix using Seaborn
    - Try it on [Kaggle](https://www.kaggle.com/dsptlp/polar-examples)
 <p align="center">
     <img src="graph_examples/pics/correlation_heat_map.png" alt="Logo" width="400">
 </p>
 
-7. [Association](https://github.com/pparkitn/kaggle/blob/ca7dc57ba18bad5805c95db76d1f9be0474b8afb/polar-examples.ipynb)
+7. [Association](https://github.com/pparkitn/kaggle/blob/main/polar-examples.ipynb)
    - Association Matrix using Seaborn (Includes Categorical Features)
    - Try it on [Kaggle](https://www.kaggle.com/dsptlp/polar-examples)   
 <p align="center">
     <img src="graph_examples/pics/association_heat_map.png" alt="Logo" width="800">
 </p>
 
-8. [Important Features](https://github.com/pparkitn/kaggle/blob/ca7dc57ba18bad5805c95db76d1f9be0474b8afb/polar-examples.ipynb)
+8. [Important Features](https://github.com/pparkitn/kaggle/blob/main/polar-examples.ipynb)
    - Important Features in a Dataset that have impact on target
    - Try it on [Kaggle](https://www.kaggle.com/dsptlp/polar-examples)   
 <p align="center">
