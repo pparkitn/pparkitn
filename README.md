@@ -136,7 +136,7 @@ Here are some examples of machine learning using python:
     <img src="graph_examples/pics/graph4.png" alt="Logo" width="800">
 </p>
 
-5. [WordCloud](https://github.com/pparkitn/kaggle/blob/main/polar-examples.ipynb)
+5. [WordCloud](https://github.com/pparkitn/kaggle/blob/main/wordcloud.ipynb)
    - WordCloud using text from Canada Wiki Page
    - Try it on [Kaggle](https://www.kaggle.com/dsptlp/wordcloud)   
 <p align="center">
