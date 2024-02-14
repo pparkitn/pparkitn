@@ -122,13 +122,14 @@ Here are some examples of machine learning using python:
     <img src="graph_examples/pics/graph2.png" alt="Logo" width="800">
 </p>
 
-3. [HeatMap](graph_examples/1_Graph_Example_3.ipynb)
+3. [HeatMap](https://github.com/pparkitn/kaggle/blob/ca7dc57ba18bad5805c95db76d1f9be0474b8afb/heatmap.ipynb)
    - Seaborn Heat Map with annotations
+   - Try it on [Kaggle](https://www.kaggle.com/code/dsptlp/heatmap)
 <p align="center">
     <img src="graph_examples/pics/graph3.png" alt="Logo" width="800">
 </p>
 
-4. [BarGrah](graph_examples/1_Graph_Example_4.ipynb)
+4. [BarGraph](graph_examples/1_Graph_Example_4.ipynb)
    - Seaborn Bar Graph
 <p align="center">
     <img src="graph_examples/pics/graph4.png" alt="Logo" width="800">
