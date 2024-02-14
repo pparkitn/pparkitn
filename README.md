@@ -39,6 +39,7 @@ Here are some of the projects I've worked on:
    - Description: Helping medical professionals identify and diagnose cancer.
    - Technologies Used: Python, PyTorch, Docker, Amazon AWS, W&B, 
    - Highlights: End-to-end pipeline for cancer diagnosis
+   - Try it on [Kaggle](https://www.kaggle.com/code/dsptlp/prostate-mri)
 
 <p align="center">
     <img src="proj2/pics/MRI-ORIG.gif" alt="Logo" width="100">
@@ -81,7 +82,7 @@ Here are some examples of machine learning using python:
 
 1. [Clustering](https://github.com/pparkitn/kaggle/blob/main/clustering-kmeans-with-pca.ipynb)
    - Description: Clustering using Kmeans with PCA for graphing
-   - Try it on [Kaggle Clustering](https://www.kaggle.com/code/dsptlp/clustering-kmeans-with-pca)
+   - Try it on [Kaggle](https://www.kaggle.com/code/dsptlp/clustering-kmeans-with-pca)
   
 <p align="center">
     <img src="ML_Examples/pics/elbow_plot.png" alt="Logo" width="300">
