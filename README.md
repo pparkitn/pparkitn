@@ -23,6 +23,7 @@ Here are some of the projects I've worked on:
 1. [Face Emotion Detection](proj1/README.md)
    - Description: Detecting emotion based on facial expression from a live video feed.
    - Technologies Used: Python, Docker, Amazon AWS, W&B, MQTT
+   - Dataset: [FER-2013](https://www.kaggle.com/datasets/msambare/fer2013)
    - Highlights: Training the DNN in the Cloud and deploying it to the Nvidia Jetson
    - Try it on [Kaggle FaceEmotion](https://www.kaggle.com/dsptlp/faceemotion-fer-2013)
   
