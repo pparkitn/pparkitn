@@ -103,7 +103,7 @@ Here are some examples of machine learning using python:
 
 4. [LDA VS PCA](https://github.com/pparkitn/kaggle/blob/main/lda-vs-pca.ipynb)
    - Description: Comparison of LDA and PCA 2D projection of Iris dataset
-
+   - Try it on [Kaggle](https://www.kaggle.com/code/dsptlp/lda-vs-pca)
 <p align="center">
     <img src="ML_Examples/pics/pca.png" alt="Logo" width="300">
     <img src="ML_Examples/pics/lda.png" alt="Logo" width="300">
