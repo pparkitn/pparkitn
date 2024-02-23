@@ -101,6 +101,14 @@ Here are some examples of machine learning using python:
     <img src="ML_Examples/pics/w&b.png" alt="Logo" width="300">
 </p>
 
+4. [LDA VS PCA](https://github.com/pparkitn/kaggle/blob/main/lda-vs-pca.ipynb)
+   - Description: Comparison of LDA and PCA 2D projection of Iris dataset
+
+<p align="center">
+    <img src="ML_Examples/pics/pca.png" alt="Logo" width="300">
+    <img src="ML_Examples/pics/lda.png" alt="Logo" width="300">
+</p>
+
 
 ## Data Engineering Examples
 
