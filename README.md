@@ -170,6 +170,13 @@ Here are some examples of machine learning using python:
     <img src="graph_examples/pics/important_features.png" alt="Logo" width="800">
 </p>
 
+9. [Timeline of Events](https://github.com/pparkitn/kaggle/blob/main/timelinegraph.ipynb)
+   - Simple Timeline of events graph
+   - Try it on [Kaggle](https://www.kaggle.com/code/dsptlp/timelinegraph)   
+<p align="center">
+    <img src="graph_examples/pics/timeline.png" alt="Logo" width="800">
+</p>
+
 ## Other
 1. [GPU Support Setup - Local Computer](nvidia_gpu_support/readme.md)
    - Setting up GPU support on Ubuntu for GPU Training
