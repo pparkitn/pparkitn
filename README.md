@@ -109,6 +109,16 @@ Here are some examples of machine learning using python:
     <img src="ML_Examples/pics/lda.png" alt="Logo" width="300">
 </p>
 
+## Experiment Tracking
+
+1. [Cumulative Conversion](https://github.com/pparkitn/kaggle/blob/main/conversion-curve-a-b-test.ipynb)
+   - Description: Graphing performance of different groups over time
+   - Try it on [Kaggle](https://www.kaggle.com/code/dsptlp/conversion-curve-a-b-test)
+
+<p align="center">
+    <img src="graph_examples/pics/conversion_sum.png" alt="Logo" width="800">
+    <img src="graph_examples/pics/overall.png" alt="Logo" width="800">
+</p>
 
 ## Data Engineering Examples
 
