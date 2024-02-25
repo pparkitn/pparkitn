@@ -116,8 +116,8 @@ Here are some examples of machine learning using python:
    - Try it on [Kaggle](https://www.kaggle.com/code/dsptlp/conversion-curve-a-b-test)
 
 <p align="center">
-    <img src="graph_examples/pics/conversion_sum.png" alt="Logo" width="800">
-    <img src="graph_examples/pics/overall.png" alt="Logo" width="800">
+    <img src="graph_examples/pics/conversion_sum.png" alt="Logo" width="300">
+    <img src="graph_examples/pics/overall.png" alt="Logo" width="300">
 </p>
 
 ## Data Engineering Examples
