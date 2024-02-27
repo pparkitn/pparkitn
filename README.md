@@ -64,10 +64,6 @@ Here are some of the projects I've worked on:
     <img src="proj4/pics/image1.gif" alt="Logo" width="400">  
    </p>
 
-5. [Coming Soon - Spark - Time Series Prediction](proj5/README.md)
-   - Description: Building large window feature set used for predicting future
-   - Technologies Used: Spark / Python
-
 6. [Counterfeit: Sentiment Improved Text Summarization](proj6/Final_Project_Piotr_Parkitny.pdf)
    - Description: NLP Text summarization model that uses sentiment for text preprocessing
    - Technologies Used: PyTorch
@@ -75,6 +71,21 @@ Here are some of the projects I've worked on:
    <p align="center">
     <img src="proj6/pics/img2.png" alt="Logo" width="800">  
    </p>
+
+## Forecasting
+
+1. [Forecasting using Prophet](https://github.com/pparkitn/kaggle/blob/main/timeseries-forecast-using-prophet.ipynb)
+   - Description: Forecasting the Canadian Price Index using Prophet
+   - Try it on [Kaggle](https://www.kaggle.com/code/dsptlp/timeseries-forecast-using-prophet)
+
+   <p align="center">
+    <img src="graph_examples/pics/prophet.png" alt="Logo" width="300">  
+   </p>
+
+
+2. [Coming Soon - Spark - Time Series Prediction](proj5/README.md)
+   - Description: Building large window feature set used for predicting future
+   - Technologies Used: Spark / Python
 
 
 ## Machine Learning
