@@ -213,7 +213,7 @@ Here are some examples of machine learning using python:
 2. [DataSets - OpenML](https://www.openml.org/)
    - Great source if looking for a dataset to work with
 
-3. [AWS - Commands]()
+3. [AWS - Commands](https://github.com/pparkitn/pparkitn/blob/main/aws/README.md)
    - General AWS Commands
 
 ## Kaggle
