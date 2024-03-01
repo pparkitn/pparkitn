@@ -213,6 +213,9 @@ Here are some examples of machine learning using python:
 2. [DataSets - OpenML](https://www.openml.org/)
    - Great source if looking for a dataset to work with
 
+3. [AWS - Commands]()
+   - General AWS Commands
+
 ## Kaggle
 1. [Kaggle - Free GPU Training](kaggle/README.md)
    - GPU Training for free on Kaggle
