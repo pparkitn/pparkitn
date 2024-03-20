@@ -210,8 +210,7 @@ Here are some examples of machine learning using python:
    - Graphing and Forecasting CPI and Inflation
    - Try it on [Kaggle](https://www.kaggle.com/code/dsptlp/canada-consumer-price-index-forecast-using-prophet)   
 <p align="center">
-    <img src="graph_examples/pics/CPI_And_Inflation.png" alt="Logo" width="300">
-    <img src="graph_examples/pics/CPI_Forecast.png" alt="Logo" width="300">
+    <img src="graph_examples/pics/CPI_And_Inflation.png" alt="Logo" width="800">
 </p>
 
 ## Other
