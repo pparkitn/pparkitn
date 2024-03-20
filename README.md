@@ -206,6 +206,14 @@ Here are some examples of machine learning using python:
     <img src="graph_examples/pics/timeline.png" alt="Logo" width="800">
 </p>
 
+10. [Canada Inflation & CPI](https://github.com/pparkitn/kaggle/blob/main/timeseries-forecast-using-prophet.ipynb)
+   - Graphing and Forecasting CPI and Inflation
+   - Try it on [Kaggle](https://www.kaggle.com/code/dsptlp/canada-consumer-price-index-forecast-using-prophet)   
+<p align="center">
+    <img src="graph_examples/pics/CPI_And_Inflation.png" alt="Logo" width="300">
+    <img src="graph_examples/pics/CPI_Forecast.png" alt="Logo" width="300">
+</p>
+
 ## Other
 1. [GPU Support Setup - Local Computer](nvidia_gpu_support/readme.md)
    - Setting up GPU support on Ubuntu for GPU Training
