@@ -104,6 +104,10 @@ Here are some examples of machine learning using python:
 2. [Classification](https://github.com/pparkitn/kaggle/blob/main/classification.ipynb)
    - Description: Classification with the final result implementation in SQL
    - Try it on [Kaggle](https://www.kaggle.com/dsptlp/classificationtosql)
+
+<p align="center">
+    <img src="ML_Examples/pics/model_accuracy_plot.png" alt="Logo" width="600">
+</p>   
   
 3. [Model Performance Tracking](https://wandb.ai/)
    - Description: Weights & Biases helps AI developers build better models faster. Quickly track experiments, version and iterate on datasets, evaluate model performance, reproduce models, and manage your ML workflows end-to-end. 
