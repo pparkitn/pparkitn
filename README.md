@@ -127,6 +127,10 @@ Here are some examples of machine learning using python:
 5. [Regression](https://github.com/pparkitn/kaggle/blob/main/us-stock-market-prediction-histdecision-trees.ipynb)
    - Description: Using regression to predict next day stock market price based on historical price of stock prices
    - Try it on [Kaggle](https://www.kaggle.com/code/dsptlp/regression-with-timeline-data)
+<p align="center">
+    <img src="ML_Examples/pics/Actual_vs_Predicted_LinearRegression.png" alt="Logo" width="300">
+    <img src="ML_Examples/pics/Actual_vs_Predicted_GradientBoostingRegressor.png" alt="Logo" width="300">
+</p>   
 
 ## Experiment Tracking
 
