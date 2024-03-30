@@ -132,6 +132,14 @@ Here are some examples of machine learning using python:
     <img src="ML_Examples/pics/Actual_vs_Predicted_GradientBoostingRegressor.png" alt="Logo" width="300">
 </p>   
 
+6. [Classification - Random Forest](https://github.com/pparkitn/kaggle/blob/main/classification-random-forest.ipynb)
+   - Description: Random Forest Classification with Cross-Validation / Hyperparameter Tuning / Stratified Fold & SHAP Analysis
+   - Try it on [Kaggle](https://www.kaggle.com/code/dsptlp/classification-random-forest) 
+
+<p align="center">
+    <img src="ML_Examples/pics/SHAP_1.png" alt="Logo" width="600">
+</p>   
+
 ## Experiment Tracking
 
 1. [Cumulative Conversion](https://github.com/pparkitn/kaggle/blob/main/conversion-curve-a-b-test.ipynb)
