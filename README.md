@@ -142,7 +142,7 @@ Here are some examples of machine learning using python:
 
 ## Computer Vision
 
-1. [Object Detection in Video](https://github.com/pparkitn/kaggle/blob/main/object-detection-yolo.ipynb)
+1. [Object Detection in Video](https://www.kaggle.com/code/dsptlp/object-detection-using-yolo)
    - Description: Object Detection Using YoLo (You Only Look Once) in videos.
    - Try it on [Kaggle](https://www.kaggle.com/code/dsptlp/object-detection-using-yolo)
 
