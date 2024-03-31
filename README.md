@@ -147,9 +147,9 @@ Here are some examples of machine learning using python:
    - Try it on [Kaggle](https://www.kaggle.com/code/dsptlp/object-detection-using-yolo)
 
 <p align="center">
-    <img src="ML_Examples/pics/image1.png" alt="Logo" width="300">
-    <img src="ML_Examples/pics/image2.png" alt="Logo" width="300">
-    <img src="ML_Examples/pics/image3.png" alt="Logo" width="300">
+    <img src="ML_Examples/pics/image1.gif" alt="Logo" width="300">
+    <img src="ML_Examples/pics/image2.gif" alt="Logo" width="300">
+    <img src="ML_Examples/pics/image3.gif" alt="Logo" width="300">
 </p>  
 
 
