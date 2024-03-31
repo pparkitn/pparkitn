@@ -140,6 +140,15 @@ Here are some examples of machine learning using python:
     <img src="ML_Examples/pics/SHAP_1.png" alt="Logo" width="600">
 </p>   
 
+## Computer Vision
+
+1. [Ojbect Detection in Video](https://github.com/pparkitn/kaggle/blob/main/object-detection-yolo.ipynb)
+   - Description: Object Detection Using YoLo (You Only Look Once) in videos.
+   - Try it on [Kaggle](https://www.kaggle.com/code/dsptlp/object-detection-using-yolo)
+
+<iframe width="560" height="315" src="https://www.kaggleusercontent.com/kf/169586463/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..gvQ_Wi_WTGv6Ma-5GKj_jg.zUcdmV18YIXttugPaEycrpHmxY-7GmUykWvSnmYsisX76Ati9yD5pqsV0lLFTLRk0SXfIymeGslTcidMmaz6m_WMoKN-7zL6I52F8Bz5nJ1rgwP9iCycenN3PE9txkzFC6bCr6_Yi5Mg8NB4pAJ7GtlfHA_y7gCB5rq2JmBu6SxUfFIpCFJBiWdHgLp2xGG1DayYeFVdXmtynR1S298i9qgVSpgOk-KbUnD9ngephsAFlOFjJGAMWigT8JGWbLo8gaYCcxDQpr-6T2wdTIkBp1xoDV7kpSUifu-wotPZOdz6PcFyp8cMZOMrXbbORsgsfBs4ppsns0-6oUOoYyP41FgTDw1UNw-IfNHCIfxdNeXRx9eDDFN4P84-J4kmcZ3WGdNryWJlY7XAChNXulgQVpLUihqKRL-UZfk00zo3s8nmlbb1U_fbBk517Ukmd0TcYVYZ4eBrGiPavIA-aTfnLbvwyN_f0EAKUlAnRqS2wunsyRX8439TtQE23PoSA9BuMbvsG9wJnNaCcn-mjNh70vzfnL-_mvqJldLQCMXA9YyCzKuNycYHa7LgRCV8W72tO8_K5zXwgtyQ4fAY5Ui1zchM1v3qJxLye_YLv9de8ieuU_hG9Tw9bIFUqMJSzasCgdiT0ji2MPhEue5cU5dBilG1ADBXvsFCJvg_5I09sF0.VibChmsN29oCdfuoEELdUQ/output_formatted3.mp4" frameborder="0" allowfullscreen></iframe>
+
+
 ## Experiment Tracking
 
 1. [Cumulative Conversion](https://github.com/pparkitn/kaggle/blob/main/conversion-curve-a-b-test.ipynb)
