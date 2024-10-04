@@ -1,6 +1,6 @@
-#remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 #remote_theme: pages-themes/slate@v0.2.0
-remote_theme: pages-themes/architect@v0.2.0
+#remote_theme: pages-themes/architect@v0.2.0
 #remote_theme: pages-themes/tactile@v0.2.0
 #remote_theme: pages-themes/merlot@v0.2.0
 #remote_theme: pages-themes/time-machine@v0.2.0
@@ -19,7 +19,6 @@ profile_picture: /images/piotr_parkitny.jpg
 logo: /images/piotr_parkitny.jpg
 
 # Custom CSS
-# Link to your custom CSS file
 sass:
   load_paths:
     - assets/css/style.css
