@@ -13,7 +13,7 @@ Hey there, welcome to my data science playground on GitHub! I'm Piotr Parkitny, 
 ## About Me
 
 - Location: Toronto, Canada
-- Email: parkitn@berkeley.edu
+- Email: pparkitny@berkeley.edu
 - LinkedIn: https://www.linkedin.com/in/piotr-parkitny
 
 ## Projects
