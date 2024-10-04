@@ -2,27 +2,31 @@
 html, body {
     margin: 0;
     padding: 0;
-    width: 90%;
+    width: 100%;
 }
 
-/* Override the default container width */
+/* Make the container fluid but set a max width */
 .container {
-    width: 100% !important;
-    max-width: 100% !important;
-    padding: 0;
-    margin: 0;
+    width: 100%;
+    max-width: 1200px;  /* Set a reasonable max-width */
+    padding: 20px;      /* Add padding to give it some breathing space */
+    margin: 0 auto;     /* Center the content */
+    box-sizing: border-box;
 }
 
-/* Optionally, control the width of specific sections */
+/* Apply a similar rule to specific sections if needed */
 .content {
     width: 100%;
+    max-width: 1200px;
     margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
 }
 
-/* Responsive adjustments */
+/* Adjust the layout for smaller screens */
 @media (max-width: 768px) {
-    .container {
+    .container, .content {
         width: 100%;
-        padding: 0 10px;
+        padding: 15px;
     }
 }
