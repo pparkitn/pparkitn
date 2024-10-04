@@ -1,7 +1,7 @@
-remote_theme: pages-themes/minimal@v0.2.0
-remote_theme: pages-themes/minimal@v0.2.0
-remote_theme: pages-themes/minimal@v0.2.0
-remote_theme: pages-themes/minimal@v0.2.0
+#remote_theme: pages-themes/minimal@v0.2.0
+#remote_theme: pages-themes/minimal@v0.2.0
+#remote_theme: pages-themes/minimal@v0.2.0
+#remote_theme: pages-themes/minimal@v0.2.0
 remote_theme: pages-themes/cayman@v0.2.0
 
 plugins:
@@ -15,7 +15,7 @@ profile_picture: /images/piotr_parkitny.jpg
 logo: /images/piotr_parkitny.jpg
 
 # Custom CSS
-sass:
-  style: compressed
-include:
-  - assets/css/style.css
+#sass:
+#  style: compressed
+#include:
+#  - assets/css/style.css
