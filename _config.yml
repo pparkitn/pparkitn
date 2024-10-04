@@ -8,3 +8,9 @@ description: Explore my data-driven projects and analyses that cover everything 
 avatar: /images/piotr_parkitny.jpg
 profile_picture: /images/piotr_parkitny.jpg
 logo: /images/piotr_parkitny.jpg
+
+# Custom CSS
+sass:
+  style: compressed
+include:
+  - assets/css/style.css
