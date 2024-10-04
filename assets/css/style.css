@@ -41,7 +41,7 @@ button:hover, .btn:hover {
     background-color: #0056b3;
 }
 
-.avatar, .profile_picture {
+.avatar, .profile_picture, .logo {
     width: 150px;        /* Adjust the size of the profile picture */
     height: auto;        /* Maintain aspect ratio */
     border-radius: 50%;  /* Make it circular */
