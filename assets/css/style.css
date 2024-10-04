@@ -14,6 +14,15 @@ html, body {
     box-sizing: border-box;
 }
 
+.avatar, .profile_picture {
+    width: 150px;        /* Adjust the size of the profile picture */
+    height: auto;        /* Maintain aspect ratio */
+    border-radius: 50%;  /* Make it circular */
+    display: block;
+    margin: 0 auto;      /* Center the image */
+    margin-bottom: 20px; /* Add spacing below the image */
+}
+
 /* Apply a similar rule to specific sections if needed */
 .content {
     width: 100%;
