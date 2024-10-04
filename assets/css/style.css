@@ -17,6 +17,30 @@ html, body {
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
+/* Add padding and margin to create space between sections */
+section {
+    padding: 30px;
+    margin: 20px 0;
+    background-color: #fff;
+    border-radius: 8px;  /* Rounded corners */
+}
+
+/* Button styling (if you have buttons) */
+button, .btn {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover, .btn:hover {
+    background-color: #0056b3;
+}
+
 .avatar, .profile_picture {
     width: 150px;        /* Adjust the size of the profile picture */
     height: auto;        /* Maintain aspect ratio */
@@ -41,4 +65,32 @@ html, body {
         width: 100%;
         padding: 15px;
     }
+}
+
+/* Style the header */
+header {
+    background-color: #007bff;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+/* Style the footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-size: 0.9em;
+}
+
+/* Add some links styling */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
 }
