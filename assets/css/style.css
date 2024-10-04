@@ -2,12 +2,12 @@
 html, body {
     margin: 0;
     padding: 0;
-    width: 80%;
+    width: 70%;
 }
 
 /* Make the container fluid but set a max width */
 .container {
-    width: 100%;
+    width: 80%;
     max-width: 1200px;  /* Set a reasonable max-width */
     padding: 20px;      /* Add padding to give it some breathing space */
     margin: 0 auto;     /* Center the content */
