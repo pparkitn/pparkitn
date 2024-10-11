@@ -23,7 +23,7 @@ Here are some of the projects I've worked on:
 
 1. [Face Emotion Detection](proj1/README.md)
 <br>Using deep learning to recognize human emotions from live video streams
-   - Technologies Used: Python, Docker, Amazon AWS, W&B, MQTT
+   - Technologies : Python, Docker, Amazon AWS, W&B, MQTT
    - Dataset: [FER-2013](https://www.kaggle.com/datasets/msambare/fer2013)
    - Highlights: Training the DNN in the Cloud and deploying it to the Nvidia Jetson
    - Challenge: Optimizing the deployment for real-time performance on edge devices
@@ -41,8 +41,9 @@ Here are some of the projects I've worked on:
 
 2. [MRI ANALYZER](proj2/README.md)
 <br>Helping medical professionals identify and diagnose cancer with AI.
-   - Technologies Used: Python, PyTorch, Docker, Amazon AWS, W&B, 
-   - Highlights: End-to-end pipeline for cancer diagnosis
+   - Technologies : Python, PyTorch, Docker, Amazon AWS, W&B, 
+   - Challenge: End-to-end optimization of the AI pipeline for handling large medical image datasets
+   - Highlights: Implemented a fully automated pipeline for MRI analysis
    - Try it on [Kaggle](https://www.kaggle.com/code/dsptlp/prostate-mri)
 
 <p align="center">
