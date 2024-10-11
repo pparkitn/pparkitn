@@ -5,7 +5,7 @@ I'm Piotr Parkitny, and I've been harnessing the power of data for over 15 years
 
 - Programming Languages: Python, SQL, R
 - Big Data Platforms: Databricks, Spark
-- Data Analysis: SQL, Pandas, NumPy
+- Data Analysis Tools: SQL, Pandas, NumPy, Seaborn
 
 ## Education
 - <img src="images/uc_berkeley_logo.jpg" alt="University of California" width="30" style="vertical-align: middle;"> University of California, Berkeley — Master of Information and Data Science
@@ -22,7 +22,7 @@ I'm Piotr Parkitny, and I've been harnessing the power of data for over 15 years
 Here are some of the projects I've worked on:
 
 1. [Face Emotion Detection](proj1/README.md)
-   - Description: Detecting emotion based on facial expression from a live video feed.
+   Using deep learning to recognize human emotions from live video streams.
    - Technologies Used: Python, Docker, Amazon AWS, W&B, MQTT
    - Dataset: [FER-2013](https://www.kaggle.com/datasets/msambare/fer2013)
    - Highlights: Training the DNN in the Cloud and deploying it to the Nvidia Jetson
