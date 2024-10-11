@@ -1,6 +1,7 @@
 # Data Jedi Master
 
-Hey there, welcome to my data science playground on GitHub! I'm Piotr Parkitny, and I've been riding the data-driven wave for over 15 years, dropping knowledge bombs through analytics, machine learning, and all things data. 
+Welcome to my data science playground on GitHub!
+I'm Piotr Parkitny, and I've been harnessing the power of data for over 15 years. Through advanced analytics, machine learning, and AI, I've helped businesses and teams drive strategic decisions and actionable insights. Here you'll find some of my favorite projects and research.
 
 - Programming Languages: Python, SQL, R
 - Big Data Platforms: Databricks, Spark
