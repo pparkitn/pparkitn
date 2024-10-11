@@ -51,6 +51,7 @@ Here are some of the projects I've worked on:
    - Description: Does attractiveness play a role in accepting a connection from a stranger in LinkedIn?
    - Technologies Used: R
    - Highlights: RCT conducted on LinkedIn 
+   - Try it on [Kaggle](https://www.kaggle.com/code/dsptlp/attractiveness-bias-a-b-test)
 
 <p align="center">
     <img src="proj3/pics/img1.png" alt="Logo" width="800">  
