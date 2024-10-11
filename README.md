@@ -38,7 +38,7 @@ Here are some of the projects I've worked on:
 </p>
 
 2. [MRI ANALYZER](proj2/README.md)
-   - Description: Helping medical professionals identify and diagnose cancer.
+<br>Helping medical professionals identify and diagnose cancer with AI.
    - Technologies Used: Python, PyTorch, Docker, Amazon AWS, W&B, 
    - Highlights: End-to-end pipeline for cancer diagnosis
    - Try it on [Kaggle](https://www.kaggle.com/code/dsptlp/prostate-mri)
@@ -49,7 +49,7 @@ Here are some of the projects I've worked on:
 </p>
 
 3. [Attractiveness Bias](proj3/Final_Presentation.pdf)
-   - Description: Does attractiveness play a role in accepting a connection from a stranger in LinkedIn?
+<br>Exploring whether attractiveness affects LinkedIn connection acceptance.
    - Technologies Used: R
    - Highlights: RCT conducted on LinkedIn 
    - Try it on [Kaggle](https://www.kaggle.com/code/dsptlp/attractiveness-bias-a-b-test)
@@ -67,7 +67,7 @@ Here are some of the projects I've worked on:
    </p>
 
 6. [Counterfeit: Sentiment Improved Text Summarization](proj6/Final_Project_Piotr_Parkitny.pdf)
-   - Description: NLP Text summarization model that uses sentiment for text preprocessing
+<br>Improving NLP text summarization by incorporating sentiment analysis.
    - Technologies Used: PyTorch
 
    <p align="center">
