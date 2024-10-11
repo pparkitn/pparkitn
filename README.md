@@ -53,8 +53,9 @@ Here are some of the projects I've worked on:
 
 3. [Attractiveness Bias](proj3/Final_Presentation.pdf)
 <br>Exploring whether attractiveness affects LinkedIn connection acceptance.
-   - Technologies Used: R
-   - Highlights: RCT conducted on LinkedIn 
+   - Technologies Used: R   
+   - Impact: A/B test conducted across LinkedIn profiles, providing insights into human behavioral bias in online connections
+   - Challenge: Designing a randomized controlled trial to eliminate confounding factors.
    - Try it on [Kaggle](https://www.kaggle.com/code/dsptlp/attractiveness-bias-a-b-test)
 
 <p align="center">
