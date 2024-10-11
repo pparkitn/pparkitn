@@ -22,10 +22,12 @@ I'm Piotr Parkitny, and I've been harnessing the power of data for over 15 years
 Here are some of the projects I've worked on:
 
 1. [Face Emotion Detection](proj1/README.md)
-<br>Using deep learning to recognize human emotions from live video streams.
+<br>Using deep learning to recognize human emotions from live video streams
    - Technologies Used: Python, Docker, Amazon AWS, W&B, MQTT
    - Dataset: [FER-2013](https://www.kaggle.com/datasets/msambare/fer2013)
    - Highlights: Training the DNN in the Cloud and deploying it to the Nvidia Jetson
+   - Challenge: Optimizing the deployment for real-time performance on edge devices
+   - Highlights: Achieved cloud training and deployed a deep neural network to edge hardware
    - Try it on [Kaggle FaceEmotion](https://www.kaggle.com/dsptlp/faceemotion-fer-2013)
   
 <p align="center">
