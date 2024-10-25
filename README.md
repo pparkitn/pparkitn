@@ -180,6 +180,30 @@ Here are some examples of machine learning using python:
     <img src="data_engineering_1/pics/pipeline.png" alt="Logo" width="400">  
    </p>
 
+2. [ML Execution - Windows Server]()
+   - Description: How to execute your python notebook and log execution
+   - Technologies Used: Python, papermill
+
+Execute_ScoreModel.bat
+   ```
+@ECHO OFF 
+
+set _my_datetime=%date%_%time%
+set _my_datetime=%_my_datetime: =_%
+set _my_datetime=%_my_datetime::=%
+set _my_datetime=%_my_datetime:/=_%
+set _my_datetime=%_my_datetime:.=_%
+
+ECHO ======================================================================================================================
+echo %_my_datetime%
+ECHO ======================================================================================================================
+
+C:\Users\piotr\AppData\Roaming\Python\Python311\Scripts\papermill.exe C:\Models\Score.ipynb -p par1 0 C:\Models\Log\Score_Log_%_my_datetime%.ipynb
+```
+When scheduling using task scheduler, add arguments to track the shell log execution
+```C:\Models\log.txt 2>&1```
+   
+
 ## Charts / Graphs
 
 1. [Line Graph](https://github.com/pparkitn/kaggle/blob/main/line-graph.ipynb)
