@@ -184,6 +184,12 @@ Here are some examples of machine learning using python:
    - Description: How to execute your python notebook and log execution
    - Technologies Used: Python, papermill
 
+Running Parameterized Jupyter Notebooks
+Installation
+```
+pip install papermill
+```
+
 Execute_ScoreModel.bat
    ```
 @ECHO OFF 
