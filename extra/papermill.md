@@ -1,14 +1,14 @@
-Papermill Example: Running Parameterized Jupyter Notebooks
-This repository provides an example of using Papermill to parameterize and execute Jupyter Notebooks programmatically and from the command line.
+# Papermill Example: Running Parameterized Jupyter Notebooks
+- This repository provides an example of using Papermill to parameterize and execute Jupyter Notebooks programmatically and from the command line.
 
-Installation
+## Installation
 To install Papermill, use pip:
 
-``````
+```
 pip install papermill
 ```
 
-Example Usage
+## Example Usage
 Imagine you have a notebook called analysis.ipynb that takes in parameters, such as start_date and end_date, to filter data. With Papermill, you can set these parameters at runtime and execute the notebook.
 
 1. Setting Up the Parameterized Notebook
@@ -32,7 +32,7 @@ Add the parameters tag to the cell.
 2. Executing the Notebook with Papermill
 You can run the notebook and pass in parameters either from Python code or directly from the command line.
 
-Running with Python Code
+## Running with Python Code
 Use Papermill in a Python script to execute analysis.ipynb and pass in parameters:
 
 python
@@ -50,7 +50,7 @@ pm.execute_notebook(
 )
 ```
 
-Running from the Command Line
+## Running from the Command Line
 You can also use Papermill directly from the command line to execute the notebook with parameters.
 
 ```
@@ -63,8 +63,3 @@ output_analysis.ipynb is the output notebook where results will be saved.
 The -p flag is used to pass each parameter (start_date and end_date with their respective values).
 3. Viewing the Output
 After execution, open output_analysis.ipynb to view the results with the updated parameters.
-
-More Resources
-Papermill Documentation
-Jupyter Documentation
-Papermill simplifies the process of rerunning Jupyter Notebooks with different parameters, making it ideal for automation and batch processing tasks.
