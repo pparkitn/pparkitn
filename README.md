@@ -292,6 +292,10 @@ When scheduling using task scheduler, add arguments to track the shell log execu
 3. [AWS - Commands](https://github.com/pparkitn/pparkitn/blob/main/aws/README.md)
    - General AWS Commands
 
+4. [Spark](https://github.com/pparkitn/pparkitn/blob/main/extra/spark.md)
+   - General Spark Python
+   
+
 ## Kaggle
 1. [Kaggle - Free GPU Training](kaggle/README.md)
    - GPU Training for free on Kaggle
