@@ -36,3 +36,7 @@ where country = 'CA'
 %sql
 select * from temp_view limit 100
 ```
+```
+spark_df = _sqldf
+spark_df.head(10)
+```
