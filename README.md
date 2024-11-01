@@ -208,7 +208,10 @@ C:\Users\piotr\AppData\Roaming\Python\Python311\Scripts\papermill.exe C:\Models\
 ```
 When scheduling using task scheduler, add arguments to track the shell log execution
 ```C:\Models\log.txt 2>&1```
-   
+
+3. [MLflow](https://mlflow.org/docs/latest/getting-started/intro-quickstart/index.html)
+   - Description: Build better models and generative AI apps on a unified, end-to-end,open source MLOps platform
+   - Technologies Used: Python, MLflow
 
 ## Charts / Graphs
 
