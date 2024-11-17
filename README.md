@@ -297,6 +297,9 @@ When scheduling using task scheduler, add arguments to track the shell log execu
 
 4. [Spark](https://github.com/pparkitn/pparkitn/blob/main/extra/spark.md)
    - General Spark Python
+
+5. Jupyterlab
+   - ```jupyter lab --port 3939 --allow-root --no-browser --NotebookApp.token='pass' --ip="0.0.0.0"```
    
 
 ## Kaggle
