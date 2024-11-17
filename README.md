@@ -302,7 +302,7 @@ When scheduling using task scheduler, add arguments to track the shell log execu
    - ```jupyter lab --port 3939 --allow-root --no-browser --NotebookApp.token='pass' --ip="0.0.0.0"```
 
 6. MFFlow
-   -```mlflow server --host 127.0.0.1 --port 8080```
+   - ```mlflow server --host 127.0.0.1 --port 8080```
 
 ## Kaggle
 1. [Kaggle - Free GPU Training](kaggle/README.md)
