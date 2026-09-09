@@ -1,4 +1,4 @@
-# Piotr Parkitny — Data Scientist / ML Engineer
+# Piotr Parkitny — Senior Director, Data Science & AI
 
 **Toronto, Canada** | piotr.parkitny@berkeley.edu | [LinkedIn](https://www.linkedin.com/in/piotr-parkitny)
 
@@ -73,7 +73,6 @@ Secure, scalable health record repository enabling ML at scale.
 | Project | Description | Link |
 |---------|-------------|------|
 | [Prophet — Canadian CPI](https://github.com/pparkitn/kaggle/blob/main/timeseries-forecast-using-prophet.ipynb) | Inflation & CPI forecasting | [Kaggle](https://www.kaggle.com/code/dsptlp/timeseries-forecast-using-prophet) |
-| [Spark Time Series](https://github.com/pparkitn/pparkitn/tree/main/proj5) | Large-window feature engineering for prediction | — |
 
 ---
 
