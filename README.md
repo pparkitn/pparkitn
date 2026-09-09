@@ -1,4 +1,4 @@
-# Piotr Parkitny — Senior Director, Data Science & AI
+# Piotr Parkitny — Senior Director, AI Solutions & Platform Engineering
 
 **Toronto, Canada** | piotr.parkitny@berkeley.edu | [LinkedIn](https://www.linkedin.com/in/piotr-parkitny)
 
