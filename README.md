@@ -74,93 +74,94 @@
 
 ## 🚀 Featured Projects
 
-<table align="center">
-<tr>
-<td width="50%" align="center" valign="top">
-  <a href="https://github.com/pparkitn/pparkitn/tree/main/proj1">
-    <img src="proj1/pics/design.PNG" width="340" alt="Face Emotion Detection" />
-  </a>
-  <br/>
-  <b>1️⃣ Face Emotion Detection</b>
-  <br/>
-  <sub>Cloud-trained DNN → Nvidia Jetson edge deployment. Real-time emotion recognition from video.</sub>
-  <br/>
-  <sub><code>Python</code> <code>Docker</code> <code>AWS</code> <code>W&B</code> <code>MQTT</code></sub>
-  <br/>
-  <a href="https://github.com/pparkitn/pparkitn/tree/main/proj1"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/dsptlp/faceemotion-fer-2013"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
-</td>
-<td width="50%" align="center" valign="top">
-  <a href="https://github.com/pparkitn/pparkitn/tree/main/data_engineering_1">
-    <img src="data_engineering_1/pics/pipeline.png" width="340" alt="Medical Data Platform" />
-  </a>
-  <br/>
-  <b>2️⃣ Centralized Medical Data Platform</b>
-  <br/>
-  <sub>Secure, scalable health-record repository. Petabyte-scale ingestion enabling ML at scale.</sub>
-  <br/>
-  <sub><code>Spark</code> <code>Kafka</code> <code>Flask</code> <code>Cloudera</code> <code>Presto</code></sub>
-  <br/>
-  <a href="https://github.com/pparkitn/pparkitn/tree/main/data_engineering_1"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-  <a href="https://github.com/pparkitn/pparkitn/tree/main/proj2">
-    <img src="proj2/pics/MRI-ORIG.gif" width="170" alt="MRI Analyzer" /> <img src="proj2/pics/US-ORIG.gif" width="170" alt="MRI Analyzer" />
-  </a>
-  <br/>
-  <b>3️⃣ MRI Analyzer — AI for Cancer Diagnosis</b>
-  <br/>
-  <sub>Automated prostate MRI/US analysis pipeline for medical professionals.</sub>
-  <br/>
-  <sub><code>Python</code> <code>PyTorch</code> <code>Docker</code> <code>AWS</code></sub>
-  <br/>
-  <a href="https://github.com/pparkitn/pparkitn/tree/main/proj2"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/code/dsptlp/prostate-mri"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
-</td>
-<td width="50%" align="center" valign="top">
-  <a href="https://github.com/pparkitn/pparkitn/tree/main/proj3">
-    <img src="proj3/pics/img1.png" width="340" alt="Attractiveness Bias" />
-  </a>
-  <br/>
-  <b>4️⃣ Attractiveness Bias — A/B Test at Scale</b>
-  <br/>
-  <sub>Randomized controlled trial: does photo attractiveness affect LinkedIn acceptance?</sub>
-  <br/>
-  <sub><code>R</code> <code>RCT</code> <code>Statistical Inference</code></sub>
-  <br/>
-  <a href="https://github.com/pparkitn/pparkitn/tree/main/proj3"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/code/dsptlp/attractiveness-bias-a-b-test"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-  <a href="https://github.com/pparkitn/pparkitn/tree/main/proj6">
-    <img src="proj6/pics/img2.png" width="340" alt="Sentiment Summarization" />
-  </a>
-  <br/>
-  <b>5️⃣ Counterfeit — Sentiment-Enhanced Summarization</b>
-  <br/>
-  <sub>Abstractive text summarization improved via sentiment signal injection.</sub>
-  <br/>
-  <sub><code>PyTorch</code> <code>NLP</code> <code>Attention</code></sub>
-  <br/>
-  <a href="https://github.com/pparkitn/pparkitn/tree/main/proj6"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</td>
-<td width="50%" align="center" valign="top">
-  <b>6️⃣ YOLO — Object Detection in Video</b>
-  <br/>
-  <br/>
-  <sub>Real-time multi-object detection & tracking in video streams with YoLo.</sub>
-  <br/>
-  <sub><code>PyTorch</code> <code>YOLO</code> <code>OpenCV</code></sub>
-  <br/>
-  <br/>
-  <a href="https://www.kaggle.com/code/dsptlp/object-detection-using-yolo"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
-</td>
-</tr>
-</table>
+### 1. Face Emotion Detection → Edge Deployment
+
+<a href="https://github.com/pparkitn/pparkitn/tree/main/proj1"><img src="proj1/pics/design.PNG" width="420" align="right" alt="Face Emotion Detection architecture" /></a>
+
+**Real-time emotion recognition from live video** — deep neural network trained in the cloud, then compressed and deployed to an Nvidia Jetson for on-device inference.
+
+- 🎯 *Challenge:* hitting real-time latency on edge hardware
+- 🧱 **Stack:** `Python` `Docker` `AWS` `W&B` `MQTT`
+- 📚 **Data:** FER-2013
+
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pparkitn/pparkitn/tree/main/proj1)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/dsptlp/faceemotion-fer-2013)
+[![Dataset](https://img.shields.io/badge/FER--2013-8A2BE2?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/msambare/fer2013)
+
+<br clear="right" />
+
+---
+
+### 2. Centralized Medical Data Platform
+
+<a href="https://github.com/pparkitn/pparkitn/tree/main/data_engineering_1"><img src="data_engineering_1/pics/pipeline.png" width="420" align="left" alt="Medical data pipeline" /></a>
+
+**Petabyte-scale health-record repository** — streaming ingestion into a secure, centralized lake enabling advanced ML/DL at scale.
+
+- 🎯 *Challenge:* HIPAA-grade security with streaming throughput
+- 🧱 **Stack:** `Spark` `Kafka` `Flask` `Cloudera` `Presto` `Python`
+
+[![Slides](https://img.shields.io/badge/Presentation-PDF-B7472A?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/pparkitn/pparkitn/blob/main/data_engineering_1/Presentation.pdf)
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pparkitn/pparkitn/tree/main/data_engineering_1)
+
+<br clear="left" />
+
+---
+
+### 3. MRI Analyzer — AI for Cancer Diagnosis
+
+<a href="https://github.com/pparkitn/pparkitn/tree/main/proj2"><img src="proj2/pics/MRI-ORIG.gif" width="200" align="right" alt="MRI analysis" /></a>
+
+**Automated prostate MRI & ultrasound analysis** helping medical professionals detect and diagnose cancer.
+
+- 🎯 *Challenge:* end-to-end optimization for large medical imaging datasets
+- 🧱 **Stack:** `Python` `PyTorch` `Docker` `AWS` `W&B`
+
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pparkitn/pparkitn/tree/main/proj2)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/dsptlp/prostate-mri)
+
+<br clear="right" />
+
+---
+
+### 4. Attractiveness Bias — A/B Test at Scale
+
+<a href="https://github.com/pparkitn/pparkitn/tree/main/proj3"><img src="proj3/pics/img1.png" width="420" align="left" alt="Attractiveness bias experiment" /></a>
+
+**Randomized controlled trial** exploring whether profile-photo attractiveness affects LinkedIn connection acceptance — behavioral bias in professional networks, measured.
+
+- 🎯 *Challenge:* RCT design eliminating confounding factors
+- 🧱 **Stack:** `R` `RCT` `Statistical Inference`
+
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pparkitn/pparkitn/tree/main/proj3)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/dsptlp/attractiveness-bias-a-b-test)
+
+<br clear="left" />
+
+---
+
+### 5. Counterfeit — Sentiment-Enhanced Summarization
+
+<a href="https://github.com/pparkitn/pparkitn/tree/main/proj6"><img src="proj6/pics/img2.png" width="420" align="right" alt="Sentiment summarization" /></a>
+
+**Abstractive text summarization** improved by injecting sentiment signals into the model's attention — higher-quality summaries for opinion-heavy text.
+
+- 🧱 **Stack:** `PyTorch` `NLP` `Attention`
+
+[![Paper](https://img.shields.io/badge/Final%20Paper-PDF-B7472A?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/pparkitn/pparkitn/blob/main/proj6/Final_Project_Piotr_Parkitny.pdf)
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pparkitn/pparkitn/tree/main/proj6)
+
+<br clear="right" />
+
+---
+
+### 6. YOLO — Object Detection in Video
+
+**Real-time multi-object detection and tracking** in video streams using YoLo (You Only Look Once).
+
+- 🧱 **Stack:** `PyTorch` `YOLO` `OpenCV`
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/dsptlp/object-detection-using-yolo)
 
 ---
 
@@ -180,7 +181,16 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/pparkitn/pparkitn/output/snake-dark.svg#gh-dark-mode-only" alt="snake dark" />
+  <img src="https://raw.githubusercontent.com/pparkitn/pparkitn/output/snake.svg#gh-light-mode-only" alt="snake light" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pparkitn&theme=onedark&no-frame=true&column=7&margin-w=8" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
 ---
