@@ -1,62 +1,72 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=Senior+Director%2C+AI+Solutions+%26+Platform+Engineering;Building+AI+Systems+from+Research+to+Production;15%2B+Years+%7C+ML%2FLLMOps+%7C+Data+Platforms" alt="Typing SVG" />
+<div align="center">
+
+# <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&animation=blink&section=header&text=Piotr%20Parkitny&fontSize=60&fontColor=58a6ff&stroke=00D4AA&strokeWidth=1.5&desc=Senior%20Director%20·%20AI%20Solutions%20%26%20Platform%20Engineering&descSize=22&descColor=8b949e" alt="Piotr Parkitny" />
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=00D4AA&center=true&vCenter=true&width=640&lines=Building+AI+solutions+and+the+foundational+layers;From+research+to+production+at+scale;ML%2FLLMOps+%7C+Data+Platforms+%7C+Edge+AI;15%2B+years+of+shipping+ML+systems" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,60,120,180&height=120&section=header&text=Piotr%20Parkitny&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" alt="Header Banner" />
+<p>
+  <a href="https://www.linkedin.com/in/piotr-parkitny"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:piotr.parkitny@berkeley.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/pparkitn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.kaggle.com/dsptlp"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/piotr-parkitny"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:piotr.parkitny@berkeley.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/pparkitn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/dsptlp"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=pparkitn&style=for-the-badge&color=00D4AA&label=Profile+Views" alt="Profile Views" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=pparkitn&style=flat-square&color=00D4AA&label=Profile+Views" alt="views" />
+  <img src="https://img.shields.io/github/followers/pparkitn?style=flat-square&color=0D1117&label=Followers&logo=github" alt="followers" />
+  <img src="https://img.shields.io/github/stars/pparkitn?style=flat-square&color=0D1117&label=Stars&logo=github" alt="stars" />
+  <a href="https://www.credly.com"><img src="https://img.shields.io/badge/UC%20Berkeley-MIDS-003262?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsMTAgNSAxMC01LTUtMi41djQuNUwxMiAxNi41IDcgMTkuNXYtNC41eiIvPjwvc2ZnPg==" alt="MIDS" /></a>
 </p>
+
+</div>
 
 ---
 
 ## 🎯 About Me
 
 ```txt
-┌─────────────────────────────────────────────────────────────┐
-│  Senior Director leading AI Solutions & Platform Engineering │
-│  15+ years delivering ML systems from concept to production │
-│  MIDS @ UC Berkeley  •  Engineering Systems @ U of Guelph   │
-│  Toronto, Canada  •  Building foundations for AI at scale   │
-└─────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────┐
+│  Senior Director leading AI Solutions & Platform Engineering   │
+│  15+ years delivering ML systems from concept to production    │
+│  I build AI solutions and the foundational layers they run on  │
+│  MIDS @ UC Berkeley  ·  Eng Systems & Computing @ U of Guelph  │
+│  Toronto, Canada                                                │
+└────────────────────────────────────────────────────────────────┘
 ```
+
+<table align="center">
+<tr>
+<td width="25%" align="center"><b>🧠 AI Solutions</b><br/><sub>End-to-end ML/DL products — NLP, CV, forecasting — shipped to real users</sub></td>
+<td width="25%" align="center"><b>🏗 Platform Engineering</b><br/><sub>Foundational layers: data platforms, MLOps, edge inference, cloud infra</sub></td>
+<td width="25%" align="center"><b>👥 Leadership</b><br/><sub>Director-level: strategy, hiring, roadmaps, cross-functional delivery</sub></td>
+<td width="25%" align="center"><b>⚡ Scale</b><br/><sub>Spark · Databricks · Kafka on AWS/Azure — millions of events, HBOs of data</sub></td>
+</tr>
+</table>
 
 ---
 
 ## 🛠 Tech Stack
 
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,r,aws,azure,pytorch,tensorflow,sklearn,docker,kubernetes,git,github,gitlab,grafana,prometheus,spark,flask,postgres,mysql,mongodb,redis,ubuntu,bash,vscode,md&perline=12&theme=dark#gh-dark-mode-only" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,r,aws,azure,pytorch,tensorflow,sklearn,docker,kubernetes,git,github,gitlab,grafana,prometheus,spark,flask,postgres,mysql,mongodb,redis,ubuntu,bash,vscode,md&perline=12&theme=light#gh-light-mode-only" /></a>
+</p>
+
 <details>
-<summary><b>🌐 Languages & Core</b></summary>
+<summary><b>🎛 Expand: full stack with badges</b></summary>
 
 | Category | Technologies |
 |----------|--------------|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
-| **ML/DL Frameworks** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-0078D4?style=flat-square) ![Prophet](https://img.shields.io/badge/Prophet-0078D4?style=flat-square) |
-| **LLM/Ops** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-
-</details>
-
-<details>
-<summary><b>☁️ Cloud & Big Data</b></summary>
-
-| Category | Technologies |
-|----------|--------------|
-| **Cloud Platforms** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) |
-| **Big Data** | ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Presto](https://img.shields.io/badge/Presto-231F20?style=flat-square) ![Cloudera](https://img.shields.io/badge/Cloudera-0078D4?style=flat-square) |
-| **Data Engineering** | ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Papermill](https://img.shields.io/badge/Papermill-FF6F00?style=flat-square) |
-
-</details>
-
-<details>
-<summary><b>📊 Visualization & Analysis</b></summary>
-
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+| **ML/DL** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-0078D4?style=flat-square) ![Prophet](https://img.shields.io/badge/Prophet-0078D4?style=flat-square) |
+| **LLM / GenAI** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
+| **MLOps** | ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) |
+| **Big Data** | ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Presto](https://img.shields.io/badge/Presto-231F20?style=flat-square) ![Cloudera](https://img.shields.io/badge/Cloudera-0078D4?style=flat-square) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) |
+| **Data Eng / API** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Papermill](https://img.shields.io/badge/Papermill-FF6F00?style=flat-square) ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Visualization** | ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
 
 </details>
 
@@ -64,111 +74,165 @@
 
 ## 🚀 Featured Projects
 
-### 1. Face Emotion Detection → Edge Deployment
-**Real-time emotion recognition from video • Cloud-trained DNN → Nvidia Jetson**
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/pparkitn/pparkitn/tree/main/proj1)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/dsptlp/faceemotion-fer-2013)
-
-> **Stack:** Python, Docker, AWS, W&B, MQTT • **Data:** FER-2013 • **Challenge:** Real-time inference on edge
-
-<p align="center">
-  <img src="proj1/pics/design.PNG" width="700" alt="Face Emotion Architecture" />
-</p>
-
----
-
-### 2. MRI Analyzer — AI for Cancer Diagnosis
-**Automated prostate MRI analysis pipeline for medical professionals**
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/pparkitn/pparkitn/tree/main/proj2)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/code/dsptlp/prostate-mri)
-
-> **Stack:** Python, PyTorch, Docker, AWS, W&B • **Impact:** End-to-end AI pipeline for medical imaging
-
----
-
-### 3. Attractiveness Bias — A/B Test at Scale
-**RCT: Does profile photo attractiveness affect LinkedIn connection rates?**
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/pparkitn/pparkitn/tree/main/proj3)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/code/dsptlp/attractiveness-bias-a-b-test)
-
-> **Stack:** R • **Methodology:** Randomized controlled trial • **Insight:** Behavioral bias in professional networks
-
----
-
-### 4. Counterfeit: Sentiment-Enhanced Summarization
-**Abstractive text summarization improved via sentiment signal injection**
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/pparkitn/pparkitn/tree/main/proj6)
-
-> **Stack:** PyTorch • **Innovation:** Sentiment-guided attention for summarization quality
-
----
-
-### 5. Centralized Medical Data Platform
-**Secure, scalable health record repository enabling ML at scale**
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/pparkitn/pparkitn/tree/main/data_engineering_1)
-
-> **Stack:** Spark, Flask, Kafka, Python, Cloudera, Presto • **Challenge:** HIPAA-compliant, petabyte-scale
+<table align="center">
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/pparkitn/pparkitn/tree/main/proj1">
+    <img src="proj1/pics/design.PNG" width="340" alt="Face Emotion Detection" />
+  </a>
+  <br/>
+  <b>1️⃣ Face Emotion Detection</b>
+  <br/>
+  <sub>Cloud-trained DNN → Nvidia Jetson edge deployment. Real-time emotion recognition from video.</sub>
+  <br/>
+  <sub><code>Python</code> <code>Docker</code> <code>AWS</code> <code>W&B</code> <code>MQTT</code></sub>
+  <br/>
+  <a href="https://github.com/pparkitn/pparkitn/tree/main/proj1"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/dsptlp/faceemotion-fer-2013"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/pparkitn/pparkitn/tree/main/data_engineering_1">
+    <img src="data_engineering_1/pics/pipeline.png" width="340" alt="Medical Data Platform" />
+  </a>
+  <br/>
+  <b>2️⃣ Centralized Medical Data Platform</b>
+  <br/>
+  <sub>Secure, scalable health-record repository. Petabyte-scale ingestion enabling ML at scale.</sub>
+  <br/>
+  <sub><code>Spark</code> <code>Kafka</code> <code>Flask</code> <code>Cloudera</code> <code>Presto</code></sub>
+  <br/>
+  <a href="https://github.com/pparkitn/pparkitn/tree/main/data_engineering_1"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/pparkitn/pparkitn/tree/main/proj2">
+    <img src="proj2/pics/MRI-ORIG.gif" width="170" alt="MRI Analyzer" /> <img src="proj2/pics/US-ORIG.gif" width="170" alt="MRI Analyzer" />
+  </a>
+  <br/>
+  <b>3️⃣ MRI Analyzer — AI for Cancer Diagnosis</b>
+  <br/>
+  <sub>Automated prostate MRI/US analysis pipeline for medical professionals.</sub>
+  <br/>
+  <sub><code>Python</code> <code>PyTorch</code> <code>Docker</code> <code>AWS</code></sub>
+  <br/>
+  <a href="https://github.com/pparkitn/pparkitn/tree/main/proj2"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/code/dsptlp/prostate-mri"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/pparkitn/pparkitn/tree/main/proj3">
+    <img src="proj3/pics/img1.png" width="340" alt="Attractiveness Bias" />
+  </a>
+  <br/>
+  <b>4️⃣ Attractiveness Bias — A/B Test at Scale</b>
+  <br/>
+  <sub>Randomized controlled trial: does photo attractiveness affect LinkedIn acceptance?</sub>
+  <br/>
+  <sub><code>R</code> <code>RCT</code> <code>Statistical Inference</code></sub>
+  <br/>
+  <a href="https://github.com/pparkitn/pparkitn/tree/main/proj3"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/code/dsptlp/attractiveness-bias-a-b-test"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/pparkitn/pparkitn/tree/main/proj6">
+    <img src="proj6/pics/img2.png" width="340" alt="Sentiment Summarization" />
+  </a>
+  <br/>
+  <b>5️⃣ Counterfeit — Sentiment-Enhanced Summarization</b>
+  <br/>
+  <sub>Abstractive text summarization improved via sentiment signal injection.</sub>
+  <br/>
+  <sub><code>PyTorch</code> <code>NLP</code> <code>Attention</code></sub>
+  <br/>
+  <a href="https://github.com/pparkitn/pparkitn/tree/main/proj6"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</td>
+<td width="50%" align="center" valign="top">
+  <b>6️⃣ YOLO — Object Detection in Video</b>
+  <br/>
+  <br/>
+  <sub>Real-time multi-object detection & tracking in video streams with YoLo.</sub>
+  <br/>
+  <sub><code>PyTorch</code> <code>YOLO</code> <code>OpenCV</code></sub>
+  <br/>
+  <br/>
+  <a href="https://www.kaggle.com/code/dsptlp/object-detection-using-yolo"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pparkitn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pparkitn&layout=compact&theme=tokyonight&langs_count=10" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pparkitn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pparkitn&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pparkitn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=pparkitn&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pparkitn&theme=tokyo-night&hide_border=true&radius=10&area=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pparkitn&theme=onedark&no-frame=true&column=7&margin-w=8" alt="Trophies" />
 </p>
 
 ---
 
-## 🧪 Machine Learning Portfolio
+## 🧪 Research Portfolio
 
-| Project | Domain | Notebook | Kaggle |
-|---------|--------|:--------:|:------:|
-| [Clustering — KMeans + PCA](https://github.com/pparkitn/kaggle/blob/main/clustering-kmeans-with-pca.ipynb) | Unsupervised | [📓](https://github.com/pparkitn/kaggle/blob/main/clustering-kmeans-with-pca.ipynb) | [🔗](https://www.kaggle.com/code/dsptlp/clustering-kmeans-with-pca) |
-| [Classification + SQL Deploy](https://github.com/pparkitn/kaggle/blob/main/classification.ipynb) | Supervised | [📓](https://github.com/pparkitn/kaggle/blob/main/classification.ipynb) | [🔗](https://www.kaggle.com/dsptlp/classificationtosql) |
-| [LDA vs PCA Comparison](https://github.com/pparkitn/kaggle/blob/main/lda-vs-pca.ipynb) | Dimensionality | [📓](https://github.com/pparkitn/kaggle/blob/main/lda-vs-pca.ipynb) | [🔗](https://www.kaggle.com/code/dsptlp/lda-vs-pca) |
-| [Stock Regression](https://github.com/pparkitn/kaggle/blob/main/us-stock-market-prediction-histdecision-trees.ipynb) | Time Series | [📓](https://github.com/pparkitn/kaggle/blob/main/us-stock-market-prediction-histdecision-trees.ipynb) | [🔗](https://www.kaggle.com/code/dsptlp/regression-with-timeline-data) |
-| [Random Forest + SHAP](https://github.com/pparkitn/kaggle/blob/main/classification-random-forest.ipynb) | Explainable ML | [📓](https://github.com/pparkitn/kaggle/blob/main/classification-random-forest.ipynb) | [🔗](https://www.kaggle.com/code/dsptlp/classification-random-forest) |
-
----
-
-## 🔮 Forecasting & Time Series
-
-| Project | Description | Link |
-|---------|-------------|------|
-| [Prophet — Canadian CPI](https://github.com/pparkitn/kaggle/blob/main/timeseries-forecast-using-prophet.ipynb) | Inflation & CPI forecasting with uncertainty intervals | [📓](https://github.com/pparkitn/kaggle/blob/main/timeseries-forecast-using-prophet.ipynb) · [🔗](https://www.kaggle.com/code/dsptlp/timeseries-forecast-using-prophet) |
-
----
-
-## 👁 Computer Vision
-
-- **YOLO Object Detection in Video** — Real-time multi-object tracking ([Kaggle](https://www.kaggle.com/code/dsptlp/object-detection-using-yolo))
-
----
-
-## 🧪 Experiment Tracking & MLOps
-
-- **Weights & Biases** — Experiment tracking, dataset versioning, model registry ([wandb.ai](https://wandb.ai/))
-- **MLflow** — End-to-end MLOps platform ([mlflow.org](https://mlflow.org/docs/latest/getting-started/intro-quickstart/index.html))
-- **Cumulative Conversion A/B Test** — Group performance over time ([Notebook](https://github.com/pparkitn/kaggle/blob/main/conversion-curve-a-b-test.ipynb) · [Kaggle](https://www.kaggle.com/code/dsptlp/conversion-curve-a-b-test))
+| Project | Domain | Techniques | Notebook | Kaggle |
+|---------|--------|-----------|:--------:|:------:|
+| [Clustering — KMeans + PCA](https://github.com/pparkitn/kaggle/blob/main/clustering-kmeans-with-pca.ipynb) | Unsupervised | Elbow method, PCA projection, k-means | [📓](https://github.com/pparkitn/kaggle/blob/main/clustering-kmeans-with-pca.ipynb) | [🔗](https://www.kaggle.com/code/dsptlp/clustering-kmeans-with-pca) |
+| [Classification → SQL](https://github.com/pparkitn/kaggle/blob/main/classification.ipynb) | Supervised | Model training with production SQL scoring | [📓](https://github.com/pparkitn/kaggle/blob/main/classification.ipynb) | [🔗](https://www.kaggle.com/dsptlp/classificationtosql) |
+| [LDA vs PCA](https://github.com/pparkitn/kaggle/blob/main/lda-vs-pca.ipynb) | Dimensionality | Supervised vs unsupervised projection, Iris | [📓](https://github.com/pparkitn/kaggle/blob/main/lda-vs-pca.ipynb) | [🔗](https://www.kaggle.com/code/dsptlp/lda-vs-pca) |
+| [Stock Regression](https://github.com/pparkitn/kaggle/blob/main/us-stock-market-prediction-histdecision-trees.ipynb) | Time Series | Linear + gradient boosting regressors | [📓](https://github.com/pparkitn/kaggle/blob/main/us-stock-market-prediction-histdecision-trees.ipynb) | [🔗](https://www.kaggle.com/code/dsptlp/regression-with-timeline-data) |
+| [Random Forest + SHAP](https://github.com/pparkitn/kaggle/blob/main/classification-random-forest.ipynb) | Explainable ML | CV, hyperparameter tuning, stratified folds, SHAP | [📓](https://github.com/pparkitn/kaggle/blob/main/classification-random-forest.ipynb) | [🔗](https://www.kaggle.com/code/dsptlp/classification-random-forest) |
+| [Prophet — Canadian CPI](https://github.com/pparkitn/kaggle/blob/main/timeseries-forecast-using-prophet.ipynb) | Forecasting | Prophet with uncertainty intervals, inflation | [📓](https://github.com/pparkitn/kaggle/blob/main/timeseries-forecast-using-prophet.ipynb) | [🔗](https://www.kaggle.com/code/dsptlp/timeseries-forecast-using-prophet) |
+| [Conversion A/B Curves](https://github.com/pparkitn/kaggle/blob/main/conversion-curve-a-b-test.ipynb) | Experimentation | Cumulative conversion, group comparison | [📓](https://github.com/pparkitn/kaggle/blob/main/conversion-curve-a-b-test.ipynb) | [🔗](https://www.kaggle.com/code/dsptlp/conversion-curve-a-b-test) |
 
 ---
 
 ## 📈 Visualization Gallery
 
-| Type | Notebook | Preview |
-|------|:--------:|:-------:|
-| Line Graph + Annotations | [📓](https://github.com/pparkitn/kaggle/blob/main/line-graph.ipynb) | [🔗](https://www.kaggle.com/code/dsptlp/line-graph) |
-| Dual Y-Axis Line Graph | [📓](https://github.com/pparkitn/kaggle/blob/main/line-graph-dual-y-axis.ipynb) | [🔗](https://www.kaggle.com/code/dsptlp/line-graph-dual-y-axis) |
-| Heatmap / Correlation | [📓](https://github.com/pparkitn/kaggle/blob/main/heatmap.ipynb) | [🔗](https://www.kaggle.com/code/dsptlp/heatmap) |
-| Association Matrix (Categorical) | [📓](https://github.com/pparkitn/kaggle/blob/main/polar-examples.ipynb) | [🔗](https://www.kaggle.com/code/dsptlp/polar-examples) |
-| Feature Importance | [📓](https://github.com/pparkitn/kaggle/blob/main/polar-examples.ipynb) | [🔗](https://www.kaggle.com/code/dsptlp/polar-examples) |
-| Timeline Graph | [📓](https://github.com/pparkitn/kaggle/blob/main/timelinegraph.ipynb) | [🔗](https://www.kaggle.com/code/dsptlp/timelinegraph) |
-| CPI & Inflation Forecast | [📓](https://github.com/pparkitn/kaggle/blob/main/timeseries-forecast-using-prophet.ipynb) | [🔗](https://www.kaggle.com/code/dsptlp/canada-consumer-price-index-forecast-using-prophet) |
+| Visualization | Preview |
+|:--------------|:-------:|
+| Line Graph — Dual Y-Axis with annotations<br/><sub>[📓 notebook](https://github.com/pparkitn/kaggle/blob/main/line-graph-dual-y-axis.ipynb) · [🔗 kaggle](https://www.kaggle.com/code/dsptlp/line-graph-dual-y-axis)</sub> | <img src="graph_examples/pics/graph2.png" width="300" /> |
+| Correlation Matrix<br/><sub>[📓 notebook](https://github.com/pparkitn/kaggle/blob/main/polar-examples.ipynb) · [🔗 kaggle](https://www.kaggle.com/code/dsptlp/polar-examples)</sub> | <img src="graph_examples/pics/correlation_heat_map.png" width="300" /> |
+| Feature Importance<br/><sub>[📓 notebook](https://github.com/pparkitn/kaggle/blob/main/polar-examples.ipynb) · [🔗 kaggle](https://www.kaggle.com/code/dsptlp/polar-examples)</sub> | <img src="graph_examples/pics/important_features.png" width="300" /> |
+| CPI & Inflation Forecast<br/><sub>[📓 notebook](https://github.com/pparkitn/kaggle/blob/main/timeseries-forecast-using-prophet.ipynb) · [🔗 kaggle](https://www.kaggle.com/code/dsptlp/canada-consumer-price-index-forecast-using-prophet)</sub> | <img src="graph_examples/pics/CPI_And_Inflation.png" width="300" /> |
+| Timeline of Events<br/><sub>[📓 notebook](https://github.com/pparkitn/kaggle/blob/main/timelinegraph.ipynb) · [🔗 kaggle](https://www.kaggle.com/code/dsptlp/timelinegraph)</sub> | <img src="graph_examples/pics/timeline.png" width="300" /> |
+
+<details>
+<summary><b>More visualizations</b></summary>
+
+| Visualization | Link |
+|:--------------|-----:|
+| Line Graph + Annotations | [📓](https://github.com/pparkitn/kaggle/blob/main/line-graph.ipynb) · [🔗](https://www.kaggle.com/code/dsptlp/line-graph) |
+| Heatmap | [📓](https://github.com/pparkitn/kaggle/blob/main/heatmap.ipynb) · [🔗](https://www.kaggle.com/code/dsptlp/heatmap) |
+| Bar Graph | [📓](https://github.com/pparkitn/kaggle/blob/main/bargraph.ipynb) · [🔗](https://www.kaggle.com/code/dsptlp/bargraph) |
+| WordCloud | [📓](https://github.com/pparkitn/kaggle/blob/main/wordcloud.ipynb) · [🔗](https://www.kaggle.com/code/dsptlp/wordcloud) |
+| Association Matrix (Categorical) | [📓](https://github.com/pparkitn/kaggle/blob/main/polar-examples.ipynb) · [🔗](https://www.kaggle.com/code/dsptlp/polar-examples) |
+
+</details>
+
+---
+
+## 🧪 MLOps & Experiment Tracking
+
+<table align="center">
+<tr>
+<td width="33%" align="center"><img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" /><br/><sub>Experiment tracking, dataset & model versioning, registry</sub></td>
+<td width="33%" align="center"><img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" /><br/><sub>End-to-end MLOps: tracking, packaging, serving</sub></td>
+<td width="33%" align="center"><img src="https://img.shields.io/badge/Papermill-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white" /><br/><sub>Parameterized notebook execution & logging</sub></td>
+</tr>
+</table>
 
 ---
 
@@ -176,18 +240,19 @@
 
 | Tool | Description | Link |
 |------|-------------|------|
-| **GPU Setup on Ubuntu** | Local GPU training environment (NVIDIA drivers, CUDA, cuDNN) | [📁](https://github.com/pparkitn/pparkitn/tree/main/nvidia_gpu_support) |
-| **Papermill** | Parameterized notebook execution with logging | [📄](https://github.com/pparkitn/pparkitn/blob/main/extra/papermill.md) |
-| **AWS Commands** | CLI reference for common operations | [📄](https://github.com/pparkitn/pparkitn/blob/main/aws/README.md) |
+| **GPU Setup on Ubuntu** | NVIDIA drivers, CUDA, cuDNN — local GPU training environment | [📁](https://github.com/pparkitn/pparkitn/tree/main/nvidia_gpu_support) |
+| **AWS Commands** | CLI reference for common cloud operations | [📄](https://github.com/pparkitn/pparkitn/blob/main/aws/README.md) |
 | **Spark Patterns** | PySpark patterns for large-scale processing | [📄](https://github.com/pparkitn/pparkitn/blob/main/extra/spark.md) |
+| **Papermill + Task Scheduler** | Automating notebook scoring pipelines on Windows Server | [📄](https://github.com/pparkitn/pparkitn/blob/main/extra/papermill.md) |
 
 ---
 
-## 🏆 Kaggle Resources
+## 🏆 Kaggle & Open Data
 
-- [Free GPU Training Guide](https://github.com/pparkitn/pparkitn/tree/main/kaggle) — 30+ hours free GPU/week
-- [Creating Datasets on Kaggle](https://github.com/pparkitn/pparkitn/tree/main/kaggle_dataset) — Versioned, shareable data
-- [OpenML](https://www.openml.org/) — Curated benchmark datasets
+- **[Free GPU Training Guide](https://github.com/pparkitn/pparkitn/tree/main/kaggle)** — 30+ hours of free GPU per week
+- **[Creating Datasets on Kaggle](https://github.com/pparkitn/pparkitn/tree/main/kaggle_dataset)** — Versioned, shareable datasets
+- **[FER-2013 Dataset](https://www.kaggle.com/datasets/msambare/fer2013)** — Facial expression recognition benchmark
+- **[OpenML](https://www.openml.org/)** — Curated benchmark datasets
 
 ---
 
@@ -195,26 +260,23 @@
 
 | Degree | Institution | Focus |
 |--------|-------------|-------|
-| **Master of Information & Data Science (MIDS)** | UC Berkeley | Statistical ML, Deep Learning, Systems at Scale |
-| **H.B.Sc Engineering Systems & Computing** | University of Guelph | Control Systems, Signal Processing, Software Engineering |
+| <img src="images/uc_berkeley_logo.jpg" width="24" valign="middle" /> **MIDS — UC Berkeley** | University of California, Berkeley | Statistical ML, Deep Learning, Systems at Scale |
+| <img src="images/university_of_guelph_logo.jpg" width="24" valign="middle" /> **H.B.Sc Eng Systems & Computing** | University of Guelph | Control Systems, Signal Processing, Software Engineering |
 
 ---
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/piotr-parkitny">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:piotr.parkitny@berkeley.edu">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/piotr-parkitny"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp;</a>
+  <a href="mailto:piotr.parkitny@berkeley.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp;</a>
+  <a href="https://github.com/pparkitn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,60,120,180&height=100&section=footer&animation=fadeIn" alt="Footer Banner" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,60,120,180&height=100&section=footer&animation=fadeIn&fontColor=white&text=Thanks%20for%20stopping%20by!&fontSize=24" alt="Footer" />
+</div>
 
 <p align="center">
-  <sub>Built with 🧠 and ☕ • Last updated: September 2026</sub>
+  <sub>Built with 🧠 + ☕ • Toronto, Canada • Last updated: September 2026</sub>
 </p>
