@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&animation=blink&section=header&text=Piotr%20Parkitny&fontSize=60&fontColor=58a6ff&stroke=00D4AA&strokeWidth=1.5&desc=Senior%20Director%20·%20AI%20Solutions%20%26%20Platform%20Engineering&descSize=22&descColor=8b949e" alt="Piotr Parkitny" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,60,120,180&height=140&section=header&text=Piotr%20Parkitny&fontSize=42&fontColor=ffffff&desc=Senior%20Director%20%C2%B7%20AI%20Solutions%20%26%20Platform%20Engineering&descSize=18&descAlignY=62&fontAlignY=34" alt="Piotr Parkitny — Senior Director, AI Solutions & Platform Engineering" width="100%" />
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=00D4AA&center=true&vCenter=true&width=640&lines=Building+AI+solutions+and+the+foundational+layers;From+research+to+production+at+scale;ML%2FLLMOps+%7C+Data+Platforms+%7C+Edge+AI;15%2B+years+of+shipping+ML+systems" alt="Typing SVG" />
@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=pparkitn&style=flat-square&color=00D4AA&label=Profile+Views" alt="views" />
   <img src="https://img.shields.io/github/followers/pparkitn?style=flat-square&color=0D1117&label=Followers&logo=github" alt="followers" />
   <img src="https://img.shields.io/github/stars/pparkitn?style=flat-square&color=0D1117&label=Stars&logo=github" alt="stars" />
-  <a href="https://www.credly.com"><img src="https://img.shields.io/badge/UC%20Berkeley-MIDS-003262?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsMTAgNSAxMC01LTUtMi41djQuNUwxMiAxNi41IDcgMTkuNXYtNC41eiIvPjwvc2ZnPg==" alt="MIDS" /></a>
+  <img src="https://img.shields.io/badge/UC%20Berkeley%20%C2%B7%20MIDS-003262?style=flat-square&logo=graduationcap&logoColor=white" alt="UC Berkeley MIDS" />
 </p>
 
 </div>
