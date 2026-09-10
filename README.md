@@ -158,11 +158,11 @@
 
 | Visualization | Preview |
 |:--------------|:-------:|
-| Line Graph — Dual Y-Axis with annotations<br/><sub>[📓 notebook](https://github.com/pparkitn/kaggle/blob/main/line-graph-dual-y-axis.ipynb) · [🔗 kaggle](https://www.kaggle.com/code/dsptlp/line-graph-dual-y-axis)</sub> | <img src="graph_examples/pics/graph2.png" width="300" /> |
-| Correlation Matrix<br/><sub>[📓 notebook](https://github.com/pparkitn/kaggle/blob/main/polar-examples.ipynb) · [🔗 kaggle](https://www.kaggle.com/code/dsptlp/polar-examples)</sub> | <img src="graph_examples/pics/correlation_heat_map.png" width="300" /> |
-| Feature Importance<br/><sub>[📓 notebook](https://github.com/pparkitn/kaggle/blob/main/polar-examples.ipynb) · [🔗 kaggle](https://www.kaggle.com/code/dsptlp/polar-examples)</sub> | <img src="graph_examples/pics/important_features.png" width="300" /> |
-| CPI & Inflation Forecast<br/><sub>[📓 notebook](https://github.com/pparkitn/kaggle/blob/main/timeseries-forecast-using-prophet.ipynb) · [🔗 kaggle](https://www.kaggle.com/code/dsptlp/canada-consumer-price-index-forecast-using-prophet)</sub> | <img src="graph_examples/pics/CPI_And_Inflation.png" width="300" /> |
-| Timeline of Events<br/><sub>[📓 notebook](https://github.com/pparkitn/kaggle/blob/main/timelinegraph.ipynb) · [🔗 kaggle](https://www.kaggle.com/code/dsptlp/timelinegraph)</sub> | <img src="graph_examples/pics/timeline.png" width="300" /> |
+| Line Graph — Dual Y-Axis with annotations<br/><sub>[📓 notebook](https://github.com/pparkitn/kaggle/blob/main/line-graph-dual-y-axis.ipynb) · [🔗 kaggle](https://www.kaggle.com/code/dsptlp/line-graph-dual-y-axis)</sub> | <img src="graph_examples/pics/graph2.png" width="480" /> |
+| Correlation Matrix<br/><sub>[📓 notebook](https://github.com/pparkitn/kaggle/blob/main/polar-examples.ipynb) · [🔗 kaggle](https://www.kaggle.com/code/dsptlp/polar-examples)</sub> | <img src="graph_examples/pics/correlation_heat_map.png" width="480" /> |
+| Feature Importance<br/><sub>[📓 notebook](https://github.com/pparkitn/kaggle/blob/main/polar-examples.ipynb) · [🔗 kaggle](https://www.kaggle.com/code/dsptlp/polar-examples)</sub> | <img src="graph_examples/pics/important_features.png" width="480" /> |
+| CPI & Inflation Forecast<br/><sub>[📓 notebook](https://github.com/pparkitn/kaggle/blob/main/timeseries-forecast-using-prophet.ipynb) · [🔗 kaggle](https://www.kaggle.com/code/dsptlp/canada-consumer-price-index-forecast-using-prophet)</sub> | <img src="graph_examples/pics/CPI_And_Inflation.png" width="480" /> |
+| Timeline of Events<br/><sub>[📓 notebook](https://github.com/pparkitn/kaggle/blob/main/timelinegraph.ipynb) · [🔗 kaggle](https://www.kaggle.com/code/dsptlp/timelinegraph)</sub> | <img src="graph_examples/pics/timeline.png" width="480" /> |
 
 <details>
 <summary><b>More visualizations</b></summary>
