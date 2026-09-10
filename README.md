@@ -168,8 +168,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pparkitn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pparkitn&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&border_radius=10" />
+  <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=pparkitn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" />
+  <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=pparkitn&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&border_radius=10" />
 </p>
 
 <p align="center">
@@ -177,16 +177,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pparkitn&theme=tokyo-night&hide_border=true&radius=10&area=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/pparkitn/pparkitn/output/snake-dark.svg#gh-dark-mode-only" alt="snake dark" />
   <img src="https://raw.githubusercontent.com/pparkitn/pparkitn/output/snake.svg#gh-light-mode-only" alt="snake light" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pparkitn&theme=onedark&no-frame=true&column=7&margin-w=8" alt="Trophies" />
 </p>
 
 <p align="center">
