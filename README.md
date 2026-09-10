@@ -47,31 +47,6 @@
 
 ---
 
-## 🛠 Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,r,aws,azure,pytorch,tensorflow,sklearn,docker,kubernetes,git,github,gitlab,grafana,prometheus,spark,flask,postgres,mysql,mongodb,redis,ubuntu,bash,vscode,md&perline=12&theme=dark#gh-dark-mode-only" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,r,aws,azure,pytorch,tensorflow,sklearn,docker,kubernetes,git,github,gitlab,grafana,prometheus,spark,flask,postgres,mysql,mongodb,redis,ubuntu,bash,vscode,md&perline=12&theme=light#gh-light-mode-only" /></a>
-</p>
-
-<details>
-<summary><b>🎛 Expand: full stack with badges</b></summary>
-
-| Category | Technologies |
-|----------|--------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
-| **ML/DL** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-0078D4?style=flat-square) ![Prophet](https://img.shields.io/badge/Prophet-0078D4?style=flat-square) |
-| **LLM / GenAI** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
-| **MLOps** | ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
-| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) |
-| **Big Data** | ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Presto](https://img.shields.io/badge/Presto-231F20?style=flat-square) ![Cloudera](https://img.shields.io/badge/Cloudera-0078D4?style=flat-square) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) |
-| **Data Eng / API** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Papermill](https://img.shields.io/badge/Papermill-FF6F00?style=flat-square) ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Visualization** | ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
-
-</details>
-
----
-
 ## 🚀 Featured Projects
 
 ### 1. Face Emotion Detection → Edge Deployment
@@ -162,28 +137,6 @@
 - 🧱 **Stack:** `PyTorch` `YOLO` `OpenCV`
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/dsptlp/object-detection-using-yolo)
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=pparkitn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" />
-  <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=pparkitn&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pparkitn&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pparkitn/pparkitn/output/snake-dark.svg#gh-dark-mode-only" alt="snake dark" />
-  <img src="https://raw.githubusercontent.com/pparkitn/pparkitn/output/snake.svg#gh-light-mode-only" alt="snake light" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
 
 ---
 
