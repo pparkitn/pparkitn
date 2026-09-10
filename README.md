@@ -2,13 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,60,120,180&height=140&section=header&text=Piotr%20Parkitny&fontSize=42&fontColor=ffffff&desc=Senior%20Director%20%C2%B7%20AI%20Solutions%20%26%20Platform%20Engineering&descSize=18&descAlignY=62&fontAlignY=34" alt="Piotr Parkitny — Senior Director, AI Solutions & Platform Engineering" width="100%" />
 
-<br />
-
 <img src="images/piotr_parkitny_circle.png" width="150" alt="Piotr Parkitny" />
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=00D4AA&center=true&vCenter=true&width=640&lines=Building+AI+solutions+and+the+foundational+layers;From+research+to+production+at+scale;ML%2FLLMOps+%7C+Data+Platforms+%7C+Edge+AI;15%2B+years+of+shipping+ML+systems" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=00D4AA&center=true&vCenter=true&width=640&lines=Building+AI+solutions+and+the+foundational+layers;From+research+to+production+at+scale;ML%2FLLMOps+%7C+Data+Platforms+%7C+Edge+AI;15%2B+years+of+shipping+ML+systems" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/piotr-parkitny"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -30,15 +26,7 @@
 
 ## 🎯 About Me
 
-```txt
-┌────────────────────────────────────────────────────────────────┐
-│  Senior Director leading AI Solutions & Platform Engineering   │
-│  15+ years delivering ML systems from concept to production    │
-│  I build AI solutions and the foundational layers they run on  │
-│  MIDS @ UC Berkeley  ·  Eng Systems & Computing @ U of Guelph  │
-│  Toronto, Canada                                                │
-└────────────────────────────────────────────────────────────────┘
-```
+Senior Director leading AI Solutions & Platform Engineering — 15+ years delivering ML systems from research to production at scale. I build AI solutions and the foundational layers they run on. MIDS at UC Berkeley · Eng Systems & Computing at U of Guelph · Toronto, Canada.
 
 <table align="center">
 <tr>
@@ -77,7 +65,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/dsptlp/faceemotion-fer-2013)
 [![Dataset](https://img.shields.io/badge/FER--2013-8A2BE2?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/msambare/fer2013)
 
----
+<br/>
 
 ### 2. Centralized Medical Data Platform
 
@@ -91,7 +79,7 @@
 [![Slides](https://img.shields.io/badge/Presentation-PDF-B7472A?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/pparkitn/pparkitn/blob/main/data_engineering_1/Presentation.pdf)
 [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pparkitn/pparkitn/tree/main/data_engineering_1)
 
----
+<br/>
 
 ### 3. MRI Analyzer — AI for Cancer Diagnosis
 
@@ -105,9 +93,7 @@
 [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pparkitn/pparkitn/tree/main/proj2)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/dsptlp/prostate-mri)
 
-<br clear="right" />
-
----
+<br clear="right" /><br/>
 
 ### 4. Attractiveness Bias — A/B Test at Scale
 
@@ -121,7 +107,7 @@
 [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pparkitn/pparkitn/tree/main/proj3)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/dsptlp/attractiveness-bias-a-b-test)
 
----
+<br/>
 
 ### 5. Counterfeit — Sentiment-Enhanced Summarization
 
@@ -135,7 +121,7 @@
 [![Paper](https://img.shields.io/badge/Final%20Paper-PDF-B7472A?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/pparkitn/pparkitn/blob/main/proj6/Final_Project_Piotr_Parkitny.pdf)
 [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pparkitn/pparkitn/tree/main/proj6)
 
----
+<br/>
 
 ### 6. YOLO — Object Detection in Video
 
@@ -150,15 +136,15 @@
 
 ## 🧪 Research Portfolio
 
-| Project | Domain | Techniques | Notebook | Kaggle |
-|---------|--------|-----------|:--------:|:------:|
-| [Clustering — KMeans + PCA](https://github.com/pparkitn/kaggle/blob/main/clustering-kmeans-with-pca.ipynb) | Unsupervised | Elbow method, PCA projection, k-means | [📓](https://github.com/pparkitn/kaggle/blob/main/clustering-kmeans-with-pca.ipynb) | [🔗](https://www.kaggle.com/code/dsptlp/clustering-kmeans-with-pca) |
-| [Classification → SQL](https://github.com/pparkitn/kaggle/blob/main/classification.ipynb) | Supervised | Model training with production SQL scoring | [📓](https://github.com/pparkitn/kaggle/blob/main/classification.ipynb) | [🔗](https://www.kaggle.com/dsptlp/classificationtosql) |
-| [LDA vs PCA](https://github.com/pparkitn/kaggle/blob/main/lda-vs-pca.ipynb) | Dimensionality | Supervised vs unsupervised projection, Iris | [📓](https://github.com/pparkitn/kaggle/blob/main/lda-vs-pca.ipynb) | [🔗](https://www.kaggle.com/code/dsptlp/lda-vs-pca) |
-| [Stock Regression](https://github.com/pparkitn/kaggle/blob/main/us-stock-market-prediction-histdecision-trees.ipynb) | Time Series | Linear + gradient boosting regressors | [📓](https://github.com/pparkitn/kaggle/blob/main/us-stock-market-prediction-histdecision-trees.ipynb) | [🔗](https://www.kaggle.com/code/dsptlp/regression-with-timeline-data) |
-| [Random Forest + SHAP](https://github.com/pparkitn/kaggle/blob/main/classification-random-forest.ipynb) | Explainable ML | CV, hyperparameter tuning, stratified folds, SHAP | [📓](https://github.com/pparkitn/kaggle/blob/main/classification-random-forest.ipynb) | [🔗](https://www.kaggle.com/code/dsptlp/classification-random-forest) |
-| [Prophet — Canadian CPI](https://github.com/pparkitn/kaggle/blob/main/timeseries-forecast-using-prophet.ipynb) | Forecasting | Prophet with uncertainty intervals, inflation | [📓](https://github.com/pparkitn/kaggle/blob/main/timeseries-forecast-using-prophet.ipynb) | [🔗](https://www.kaggle.com/code/dsptlp/timeseries-forecast-using-prophet) |
-| [Conversion A/B Curves](https://github.com/pparkitn/kaggle/blob/main/conversion-curve-a-b-test.ipynb) | Experimentation | Cumulative conversion, group comparison | [📓](https://github.com/pparkitn/kaggle/blob/main/conversion-curve-a-b-test.ipynb) | [🔗](https://www.kaggle.com/code/dsptlp/conversion-curve-a-b-test) |
+| Project | Domain | Techniques | Kaggle |
+|---------|--------|------------|:------:|
+| [Clustering — KMeans + PCA](https://github.com/pparkitn/kaggle/blob/main/clustering-kmeans-with-pca.ipynb) | Unsupervised | Elbow method, PCA projection, k-means | [🔗](https://www.kaggle.com/code/dsptlp/clustering-kmeans-with-pca) |
+| [Classification → SQL](https://github.com/pparkitn/kaggle/blob/main/classification.ipynb) | Supervised | Model training with production SQL scoring | [🔗](https://www.kaggle.com/dsptlp/classificationtosql) |
+| [LDA vs PCA](https://github.com/pparkitn/kaggle/blob/main/lda-vs-pca.ipynb) | Dimensionality | Supervised vs unsupervised projection, Iris | [🔗](https://www.kaggle.com/code/dsptlp/lda-vs-pca) |
+| [Stock Regression](https://github.com/pparkitn/kaggle/blob/main/us-stock-market-prediction-histdecision-trees.ipynb) | Time Series | Linear + gradient boosting regressors | [🔗](https://www.kaggle.com/code/dsptlp/regression-with-timeline-data) |
+| [Random Forest + SHAP](https://github.com/pparkitn/kaggle/blob/main/classification-random-forest.ipynb) | Explainable ML | CV, hyperparameter tuning, stratified folds, SHAP | [🔗](https://www.kaggle.com/code/dsptlp/classification-random-forest) |
+| [Prophet — Canadian CPI](https://github.com/pparkitn/kaggle/blob/main/timeseries-forecast-using-prophet.ipynb) | Forecasting | Prophet with uncertainty intervals, inflation | [🔗](https://www.kaggle.com/code/dsptlp/timeseries-forecast-using-prophet) |
+| [Conversion A/B Curves](https://github.com/pparkitn/kaggle/blob/main/conversion-curve-a-b-test.ipynb) | Experimentation | Cumulative conversion, group comparison | [🔗](https://www.kaggle.com/code/dsptlp/conversion-curve-a-b-test) |
 
 ---
 
@@ -166,17 +152,17 @@
 
 | Visualization | Preview |
 |:--------------|:-------:|
-| Line Graph — Dual Y-Axis with annotations<br/><sub>[📓 notebook](https://github.com/pparkitn/kaggle/blob/main/line-graph-dual-y-axis.ipynb) · [🔗 kaggle](https://www.kaggle.com/code/dsptlp/line-graph-dual-y-axis)</sub> | <img src="graph_examples/pics/graph2.png" width="480" /> |
-| Correlation Matrix<br/><sub>[📓 notebook](https://github.com/pparkitn/kaggle/blob/main/heatmap.ipynb) · [🔗 kaggle](https://www.kaggle.com/code/dsptlp/heatmap)</sub> | <img src="graph_examples/pics/correlation_heat_map.png" width="480" /> |
-| Feature Importance<br/><sub>[📓 notebook](https://github.com/pparkitn/kaggle/blob/main/polar-examples.ipynb) · [🔗 kaggle](https://www.kaggle.com/code/dsptlp/polar-examples)</sub> | <img src="graph_examples/pics/important_features.png" width="480" /> |
-| CPI & Inflation Forecast<br/><sub>[📓 notebook](https://github.com/pparkitn/kaggle/blob/main/timeseries-forecast-using-prophet.ipynb) · [🔗 kaggle](https://www.kaggle.com/code/dsptlp/canada-consumer-price-index-forecast-using-prophet)</sub> | <img src="graph_examples/pics/CPI_And_Inflation.png" width="480" /> |
-| Timeline of Events<br/><sub>[📓 notebook](https://github.com/pparkitn/kaggle/blob/main/timelinegraph.ipynb) · [🔗 kaggle](https://www.kaggle.com/code/dsptlp/timelinegraph)</sub> | <img src="graph_examples/pics/timeline.png" width="480" /> |
+| Line Graph — Dual Y-Axis with annotations<br/><sub>[📓](https://github.com/pparkitn/kaggle/blob/main/line-graph-dual-y-axis.ipynb) · [🔗](https://www.kaggle.com/code/dsptlp/line-graph-dual-y-axis)</sub> | <img src="graph_examples/pics/graph2.png" width="480" /> |
+| Correlation Matrix<br/><sub>[📓](https://github.com/pparkitn/kaggle/blob/main/heatmap.ipynb) · [🔗](https://www.kaggle.com/code/dsptlp/heatmap)</sub> | <img src="graph_examples/pics/correlation_heat_map.png" width="480" /> |
+| Feature Importance<br/><sub>[📓](https://github.com/pparkitn/kaggle/blob/main/polar-examples.ipynb) · [🔗](https://www.kaggle.com/code/dsptlp/polar-examples)</sub> | <img src="graph_examples/pics/important_features.png" width="480" /> |
+| CPI & Inflation Forecast<br/><sub>[📓](https://github.com/pparkitn/kaggle/blob/main/timeseries-forecast-using-prophet.ipynb) · [🔗](https://www.kaggle.com/code/dsptlp/canada-consumer-price-index-forecast-using-prophet)</sub> | <img src="graph_examples/pics/CPI_And_Inflation.png" width="480" /> |
+| Timeline of Events<br/><sub>[📓](https://github.com/pparkitn/kaggle/blob/main/timelinegraph.ipynb) · [🔗](https://www.kaggle.com/code/dsptlp/timelinegraph)</sub> | <img src="graph_examples/pics/timeline.png" width="480" /> |
 
 <details>
 <summary><b>More visualizations</b></summary>
 
-| Visualization | Link |
-|:--------------|-----:|
+| Visualization | Links |
+|:--------------|:------|
 | Line Graph + Annotations | [📓](https://github.com/pparkitn/kaggle/blob/main/line-graph.ipynb) · [🔗](https://www.kaggle.com/code/dsptlp/line-graph) |
 | Heatmap | [📓](https://github.com/pparkitn/kaggle/blob/main/heatmap.ipynb) · [🔗](https://www.kaggle.com/code/dsptlp/heatmap) |
 | Bar Graph | [📓](https://github.com/pparkitn/kaggle/blob/main/bargraph.ipynb) · [🔗](https://www.kaggle.com/code/dsptlp/bargraph) |
@@ -187,7 +173,7 @@
 
 ---
 
-## 🧪 MLOps & Experiment Tracking
+## ⚙️ MLOps & Experiment Tracking
 
 <table align="center">
 <tr>
@@ -201,21 +187,14 @@
 
 ## 🔧 Data Engineering & Utilities
 
-| Tool | Description | Link |
-|------|-------------|------|
+| Resource | Description | Link |
+|----------|-------------|------|
 | **GPU Setup on Ubuntu** | NVIDIA drivers, CUDA, cuDNN — local GPU training environment | [📁](https://github.com/pparkitn/pparkitn/tree/main/nvidia_gpu_support) |
 | **AWS Commands** | CLI reference for common cloud operations | [📄](https://github.com/pparkitn/pparkitn/blob/main/aws/README.md) |
 | **Spark Patterns** | PySpark patterns for large-scale processing | [📄](https://github.com/pparkitn/pparkitn/blob/main/extra/spark.md) |
 | **Papermill + Task Scheduler** | Automating notebook scoring pipelines on Windows Server | [📄](https://github.com/pparkitn/pparkitn/blob/main/extra/papermill.md) |
-
----
-
-## 🏆 Kaggle & Open Data
-
-- **[Free GPU Training Guide](https://github.com/pparkitn/pparkitn/tree/main/kaggle)** — 30+ hours of free GPU per week
-- **[Creating Datasets on Kaggle](https://github.com/pparkitn/pparkitn/tree/main/kaggle_dataset)** — Versioned, shareable datasets
-- **[FER-2013 Dataset](https://www.kaggle.com/datasets/msambare/fer2013)** — Facial expression recognition benchmark
-- **[OpenML](https://www.openml.org/)** — Curated benchmark datasets
+| **Free GPU on Kaggle** | 30+ hours of free GPU per week | [📁](https://github.com/pparkitn/pparkitn/tree/main/kaggle) |
+| **Publishing Kaggle Datasets** | Versioned, shareable datasets | [📁](https://github.com/pparkitn/pparkitn/tree/main/kaggle_dataset) |
 
 ---
 
@@ -231,9 +210,10 @@
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/piotr-parkitny"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp;</a>
-  <a href="mailto:piotr.parkitny@berkeley.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp;</a>
-  <a href="https://github.com/pparkitn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/piotr-parkitny"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="mailto:piotr.parkitny@berkeley.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/pparkitn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+  <a href="https://www.kaggle.com/dsptlp"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </p>
 
 <div align="center">
