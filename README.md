@@ -65,7 +65,7 @@
 
 ### 1. Face Emotion Detection → Edge Deployment
 
-<a href="https://github.com/pparkitn/pparkitn/tree/main/proj1"><img src="proj1/pics/design.PNG" width="420" align="right" alt="Face Emotion Detection architecture" /></a>
+<p align="center"><a href="https://github.com/pparkitn/pparkitn/tree/main/proj1"><img src="proj1/pics/design.PNG" width="420" alt="Face Emotion Detection architecture" /></a></p>
 
 **Real-time emotion recognition from live video** — deep neural network trained in the cloud, then compressed and deployed to an Nvidia Jetson for on-device inference.
 
@@ -77,13 +77,11 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/dsptlp/faceemotion-fer-2013)
 [![Dataset](https://img.shields.io/badge/FER--2013-8A2BE2?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/msambare/fer2013)
 
-<br clear="right" />
-
 ---
 
 ### 2. Centralized Medical Data Platform
 
-<a href="https://github.com/pparkitn/pparkitn/tree/main/data_engineering_1"><img src="data_engineering_1/pics/pipeline.png" width="420" align="left" alt="Medical data pipeline" /></a>
+<p align="center"><a href="https://github.com/pparkitn/pparkitn/tree/main/data_engineering_1"><img src="data_engineering_1/pics/pipeline.png" width="420" alt="Medical data pipeline" /></a></p>
 
 **Petabyte-scale health-record repository** — streaming ingestion into a secure, centralized lake enabling advanced ML/DL at scale.
 
@@ -92,8 +90,6 @@
 
 [![Slides](https://img.shields.io/badge/Presentation-PDF-B7472A?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/pparkitn/pparkitn/blob/main/data_engineering_1/Presentation.pdf)
 [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pparkitn/pparkitn/tree/main/data_engineering_1)
-
-<br clear="left" />
 
 ---
 
@@ -115,7 +111,7 @@
 
 ### 4. Attractiveness Bias — A/B Test at Scale
 
-<a href="https://github.com/pparkitn/pparkitn/tree/main/proj3"><img src="proj3/pics/img1.png" width="420" align="left" alt="Attractiveness bias experiment" /></a>
+<p align="center"><a href="https://github.com/pparkitn/pparkitn/tree/main/proj3"><img src="proj3/pics/img1.png" width="420" alt="Attractiveness bias experiment" /></a></p>
 
 **Randomized controlled trial** exploring whether profile-photo attractiveness affects LinkedIn connection acceptance — behavioral bias in professional networks, measured.
 
@@ -125,13 +121,11 @@
 [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pparkitn/pparkitn/tree/main/proj3)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/dsptlp/attractiveness-bias-a-b-test)
 
-<br clear="left" />
-
 ---
 
 ### 5. Counterfeit — Sentiment-Enhanced Summarization
 
-<a href="https://github.com/pparkitn/pparkitn/tree/main/proj6"><img src="proj6/pics/img2.png" width="420" align="right" alt="Sentiment summarization" /></a>
+<p align="center"><a href="https://github.com/pparkitn/pparkitn/tree/main/proj6"><img src="proj6/pics/img2.png" width="420" alt="Sentiment summarization" /></a></p>
 
 **Abstractive text summarization** improved by injecting sentiment signals into the model's attention — higher-quality summaries for opinion-heavy text.
 
@@ -140,8 +134,6 @@
 
 [![Paper](https://img.shields.io/badge/Final%20Paper-PDF-B7472A?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/pparkitn/pparkitn/blob/main/proj6/Final_Project_Piotr_Parkitny.pdf)
 [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pparkitn/pparkitn/tree/main/proj6)
-
-<br clear="right" />
 
 ---
 
