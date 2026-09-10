@@ -24,6 +24,8 @@ This has the ability to increase the speed with which readings can be performed 
 <!-- DATASET -->
 ## Dataset
 
+> **Note**: The DICOM image data (~77 GB, 67K files) and sample data are not included in this repository. Download the full dataset from the [Cancer Imaging Archive](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=68550661#685506617c5a8c0c0cef44e488b824bd7de60428) (Prostate-MRI-US-Biopsy).
+
 From the National Cancer Institute’s Image Data Commons archive, we obtained the dataset titled Prostate MRI and Ultrasound With Pathology and Coordinates of Tracked Biopsy (Prostate-MRI-US-Biopsy). 
 - [DataSet](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=68550661#685506617c5a8c0c0cef44e488b824bd7de60428)
 

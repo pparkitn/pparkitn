@@ -132,6 +132,19 @@ Senior Director leading AI Solutions & Platform Engineering — 15+ years delive
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/dsptlp/object-detection-using-yolo)
 
+<br/>
+
+### 7. Human Pose Estimation
+
+<p align="center"><a href="https://github.com/pparkitn/pparkitn/tree/main/proj4"><img src="proj4/pics/demo.png" width="420" alt="Human pose estimation pipeline" /></a></p>
+
+**Real-time pose tracking with MediaPipe** — video trimming, side-by-side comparison, GIF generation, and motion-tracked output.
+
+- 🎯 *Challenge:* end-to-end video processing pipeline with synchronized dual-view comparison
+- 🧱 **Stack:** `Python` `MediaPipe` `OpenCV` `ffmpeg`
+
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pparkitn/pparkitn/tree/main/proj4)
+
 ---
 
 ## 🧪 Research Portfolio

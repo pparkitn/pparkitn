@@ -29,6 +29,8 @@ A full presentation is available here --> <a href="https://docs.google.com/prese
 <!-- DATASET -->
 ## Dataset
 
+> **Note**: The FER-2013 dataset is not included in this repository due to size. Download it from [Kaggle](https://www.kaggle.com/datasets/msambare/fer2013) (36k examples, 48x48 greyscale, 140 MB).
+
 The dataset is composed of human faces labeled according to the displayed emotion.
 
 <p align="center">
