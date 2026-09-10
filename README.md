@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,60,120,180&height=140&section=header&text=Piotr%20Parkitny&fontSize=42&fontColor=ffffff&desc=Senior%20Director%20%C2%B7%20AI%20Solutions%20%26%20Platform%20Engineering&descSize=18&descAlignY=62&fontAlignY=34" alt="Piotr Parkitny — Senior Director, AI Solutions & Platform Engineering" width="100%" />
 
+<br />
+
+<img src="images/piotr_parkitny_circle.png" width="150" alt="Piotr Parkitny" />
+
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=00D4AA&center=true&vCenter=true&width=640&lines=Building+AI+solutions+and+the+foundational+layers;From+research+to+production+at+scale;ML%2FLLMOps+%7C+Data+Platforms+%7C+Edge+AI;15%2B+years+of+shipping+ML+systems" alt="Typing SVG" />
 </p>
@@ -41,9 +45,19 @@
 <td width="25%" align="center"><b>🧠 AI Solutions</b><br/><sub>End-to-end ML/DL products — NLP, CV, forecasting — shipped to real users</sub></td>
 <td width="25%" align="center"><b>🏗 Platform Engineering</b><br/><sub>Foundational layers: data platforms, MLOps, edge inference, cloud infra</sub></td>
 <td width="25%" align="center"><b>👥 Leadership</b><br/><sub>Director-level: strategy, hiring, roadmaps, cross-functional delivery</sub></td>
-<td width="25%" align="center"><b>⚡ Scale</b><br/><sub>Spark · Databricks · Kafka on AWS/Azure — millions of events, HBOs of data</sub></td>
+<td width="25%" align="center"><b>⚡ Scale</b><br/><sub>Spark · Databricks · Kafka on AWS/Azure — millions of events, TBs of data</sub></td>
 </tr>
 </table>
+
+<p align="center">
+  <a href="#-featured-projects">🚀 Projects</a> ·
+  <a href="#-research-portfolio">🧪 Research</a> ·
+  <a href="#-visualization-gallery">📈 Visualizations</a> ·
+  <a href="#-mlops--experiment-tracking">⚙️ MLOps</a> ·
+  <a href="#-data-engineering--utilities">🔧 Data Eng</a> ·
+  <a href="#-education">🎓 Education</a> ·
+  <a href="#-lets-connect">🤝 Connect</a>
+</p>
 
 ---
 
@@ -121,6 +135,7 @@
 
 **Abstractive text summarization** improved by injecting sentiment signals into the model's attention — higher-quality summaries for opinion-heavy text.
 
+- 🎯 *Challenge:* injecting sentiment signals without degrading summary fluency
 - 🧱 **Stack:** `PyTorch` `NLP` `Attention`
 
 [![Paper](https://img.shields.io/badge/Final%20Paper-PDF-B7472A?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/pparkitn/pparkitn/blob/main/proj6/Final_Project_Piotr_Parkitny.pdf)
@@ -132,8 +147,9 @@
 
 ### 6. YOLO — Object Detection in Video
 
-**Real-time multi-object detection and tracking** in video streams using YoLo (You Only Look Once).
+**Real-time multi-object detection and tracking** in video streams using YOLO (You Only Look Once).
 
+- 🎯 *Challenge:* real-time accuracy–latency tradeoff in video streams
 - 🧱 **Stack:** `PyTorch` `YOLO` `OpenCV`
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/dsptlp/object-detection-using-yolo)
@@ -159,7 +175,7 @@
 | Visualization | Preview |
 |:--------------|:-------:|
 | Line Graph — Dual Y-Axis with annotations<br/><sub>[📓 notebook](https://github.com/pparkitn/kaggle/blob/main/line-graph-dual-y-axis.ipynb) · [🔗 kaggle](https://www.kaggle.com/code/dsptlp/line-graph-dual-y-axis)</sub> | <img src="graph_examples/pics/graph2.png" width="480" /> |
-| Correlation Matrix<br/><sub>[📓 notebook](https://github.com/pparkitn/kaggle/blob/main/polar-examples.ipynb) · [🔗 kaggle](https://www.kaggle.com/code/dsptlp/polar-examples)</sub> | <img src="graph_examples/pics/correlation_heat_map.png" width="480" /> |
+| Correlation Matrix<br/><sub>[📓 notebook](https://github.com/pparkitn/kaggle/blob/main/heatmap.ipynb) · [🔗 kaggle](https://www.kaggle.com/code/dsptlp/heatmap)</sub> | <img src="graph_examples/pics/correlation_heat_map.png" width="480" /> |
 | Feature Importance<br/><sub>[📓 notebook](https://github.com/pparkitn/kaggle/blob/main/polar-examples.ipynb) · [🔗 kaggle](https://www.kaggle.com/code/dsptlp/polar-examples)</sub> | <img src="graph_examples/pics/important_features.png" width="480" /> |
 | CPI & Inflation Forecast<br/><sub>[📓 notebook](https://github.com/pparkitn/kaggle/blob/main/timeseries-forecast-using-prophet.ipynb) · [🔗 kaggle](https://www.kaggle.com/code/dsptlp/canada-consumer-price-index-forecast-using-prophet)</sub> | <img src="graph_examples/pics/CPI_And_Inflation.png" width="480" /> |
 | Timeline of Events<br/><sub>[📓 notebook](https://github.com/pparkitn/kaggle/blob/main/timelinegraph.ipynb) · [🔗 kaggle](https://www.kaggle.com/code/dsptlp/timelinegraph)</sub> | <img src="graph_examples/pics/timeline.png" width="480" /> |
