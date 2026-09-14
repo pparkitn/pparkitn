@@ -8,7 +8,7 @@ Building AI solutions and the foundational layers they run on: ML/LLMOps, data p
 [LinkedIn](https://www.linkedin.com/in/piotr-parkitny) · [Email](mailto:piotr.parkitny@berkeley.edu) · [GitHub](https://github.com/pparkitn) · [Kaggle](https://www.kaggle.com/dsptlp)
 
 ## Projects
-- **Market Data Platform** Reproducible, scalable market-data platform that ingests raw stock-minute data from object storage, validates and transforms it into analytical datasets, and supports efficient querying through distributed and local analytical engines. [code](github.com/pparkitn/distributed-data-platform/tree/main)
+- **Market Data Platform** Reproducible, scalable market-data platform that ingests raw stock-minute data from object storage, validates and transforms it into analytical datasets, and supports efficient querying through distributed and local analytical engines. [code](https://github.com/pparkitn/distributed-data-platform/tree/main)
 
 - **Face Emotion Detection → Edge** — real-time emotion recognition on an Nvidia Jetson. [code](https://github.com/pparkitn/pparkitn/tree/main/proj1) · [Kaggle](https://www.kaggle.com/dsptlp/faceemotion-fer-2013)
 - **Centralized Medical Data Platform** — petabyte-scale health records, streaming ingestion. [code](https://github.com/pparkitn/pparkitn/tree/main/data_engineering_1) · [slides](https://github.com/pparkitn/pparkitn/blob/main/data_engineering_1/Presentation.pdf)
