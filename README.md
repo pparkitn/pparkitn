@@ -10,6 +10,7 @@ Building AI solutions and the foundational layers they run on: ML/LLMOps, data p
 ## Projects
 - **Market Data Platform** Reproducible, scalable market-data platform that ingests raw stock-minute data from object storage, validates and transforms it into analytical datasets, and supports efficient querying through distributed and local analytical engines. [code](https://github.com/pparkitn/distributed-data-platform/tree/main)
 
+- **VocalForge** — Tencent AuK 1.5B speech generation & editing (TTS, content/acoustic/paralinguistic editing, enhancement, separation) on Kaggle's free 2× T4 GPUs with weights served from Kaggle datasets. [code](https://github.com/pparkitn/VocalForge) · [Kaggle](https://www.kaggle.com/code/dsptlp/auk-speech-on-t4-x2-kaggle-weights)
 - **Face Emotion Detection → Edge** — real-time emotion recognition on an Nvidia Jetson. [code](https://github.com/pparkitn/pparkitn/tree/main/proj1) · [Kaggle](https://www.kaggle.com/dsptlp/faceemotion-fer-2013)
 - **Centralized Medical Data Platform** — petabyte-scale health records, streaming ingestion. [code](https://github.com/pparkitn/pparkitn/tree/main/data_engineering_1) · [slides](https://github.com/pparkitn/pparkitn/blob/main/data_engineering_1/Presentation.pdf)
 - **MRI Analyzer** — AI-assisted prostate cancer diagnosis. [code](https://github.com/pparkitn/pparkitn/tree/main/proj2) · [Kaggle](https://www.kaggle.com/code/dsptlp/prostate-mri)
