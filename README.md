@@ -33,11 +33,7 @@ Core Engineering: AI/ML Systems · LLMOps · GPU Inference · Data Platforms · 
 
 ## Resources
 
-- [GPU Setup on Ubuntu](https://github.com/pparkitn/pparkitn/tree/main/nvidia_gpu_support) — drivers, CUDA, cuDNN
-- [AWS Commands](https://github.com/pparkitn/pparkitn/blob/main/aws/README.md) — CLI reference
-- [Spark Patterns](https://github.com/pparkitn/pparkitn/blob/main/extra/spark.md) — PySpark at scale
-- [Papermill + Task Scheduler](https://github.com/pparkitn/pparkitn/blob/main/extra/papermill.md) — automated notebook pipelines
-- [Free GPU on Kaggle](https://github.com/pparkitn/pparkitn/tree/main/kaggle) · [Kaggle Datasets](https://github.com/pparkitn/pparkitn/tree/main/kaggle_dataset)
+Technical notes: [GPU/CUDA setup](https://github.com/pparkitn/pparkitn/tree/main/nvidia_gpu_support) · [Spark patterns](https://github.com/pparkitn/pparkitn/blob/main/extra/spark.md) · [AWS](https://github.com/pparkitn/pparkitn/blob/main/aws/README.md) · [Kaggle](https://github.com/pparkitn/pparkitn/tree/main/kaggle) / [Papermill](https://github.com/pparkitn/pparkitn/blob/main/extra/papermill.md)
 
 ## Education
 
