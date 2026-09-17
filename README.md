@@ -5,7 +5,7 @@ Senior Director · AI Solutions & Platform Engineering — Toronto, Canada
 Building AI solutions and the foundational layers they run on: ML/LLMOps, data platforms, edge AI.
 15+ years shipping ML systems from research to production. MIDS at UC Berkeley.
 
-Core Engineering: AI/ML Systems · LLMOps · GPU Inference · Data Platforms · Spark · AWS · Edge AI · Python
+Core Engineering: AI/ML Systems · LLMOps · GPU Inference · Data Platforms · Spark · AWS · Python · Edge AI
 
 [LinkedIn](https://www.linkedin.com/in/piotr-parkitny) · [Email](mailto:piotr.parkitny@berkeley.edu) · [GitHub](https://github.com/pparkitn) · [Kaggle](https://www.kaggle.com/dsptlp)
 
@@ -13,7 +13,7 @@ Core Engineering: AI/ML Systems · LLMOps · GPU Inference · Data Platforms · 
 - **Market Data Platform** Reproducible, scalable market-data platform that ingests raw stock-minute data from object storage, validates and transforms it into analytical datasets, and supports efficient querying through distributed and local analytical engines. [code](https://github.com/pparkitn/distributed-data-platform/tree/main)
 
 - **VocalForge** — Tencent AuK 1.5B speech generation & editing (TTS, content/acoustic/paralinguistic editing, enhancement, separation) on Kaggle's free 2× T4 GPUs with weights served from Kaggle datasets. [code](https://github.com/pparkitn/VocalForge) · [Kaggle](https://www.kaggle.com/code/dsptlp/auk-speech-on-t4-x2-kaggle-weights)
-- **Face Emotion Detection → Edge** — real-time emotion recognition on an Nvidia Jetson. [code](https://github.com/pparkitn/pparkitn/tree/main/proj1) · [Kaggle](https://www.kaggle.com/dsptlp/faceemotion-fer-2013)
+- **Edge AI on Nvidia Jetson** — real-time face emotion recognition, running fully on-device. [code](https://github.com/pparkitn/pparkitn/tree/main/proj1) · [Kaggle](https://www.kaggle.com/dsptlp/faceemotion-fer-2013)
 - **Centralized Medical Data Platform** — petabyte-scale health records, streaming ingestion. [code](https://github.com/pparkitn/pparkitn/tree/main/data_engineering_1) · [slides](https://github.com/pparkitn/pparkitn/blob/main/data_engineering_1/Presentation.pdf)
 - **MRI Analyzer** — AI-assisted prostate cancer diagnosis. [code](https://github.com/pparkitn/pparkitn/tree/main/proj2) · [Kaggle](https://www.kaggle.com/code/dsptlp/prostate-mri)
 - **Attractiveness Bias — A/B Test at Scale** — RCT on LinkedIn profile photos. [code](https://github.com/pparkitn/pparkitn/tree/main/proj3) · [Kaggle](https://www.kaggle.com/code/dsptlp/attractiveness-bias-a-b-test)
@@ -21,7 +21,8 @@ Core Engineering: AI/ML Systems · LLMOps · GPU Inference · Data Platforms · 
 - **YOLO Object Detection** — real-time multi-object detection in video. [Kaggle](https://www.kaggle.com/code/dsptlp/object-detection-using-yolo)
 - **Human Pose Estimation** — MediaPipe pipeline with dual-view comparison. [code](https://github.com/pparkitn/pparkitn/tree/main/proj4)
 
-## Research
+<details>
+<summary><b>Research notebooks</b></summary>
 
 - [Clustering — KMeans + PCA](https://github.com/pparkitn/kaggle/blob/main/clustering-kmeans-with-pca.ipynb) · [Kaggle](https://www.kaggle.com/code/dsptlp/clustering-kmeans-with-pca)
 - [Classification → SQL](https://github.com/pparkitn/kaggle/blob/main/classification.ipynb) · [Kaggle](https://www.kaggle.com/dsptlp/classificationtosql)
@@ -30,6 +31,8 @@ Core Engineering: AI/ML Systems · LLMOps · GPU Inference · Data Platforms · 
 - [Random Forest + SHAP](https://github.com/pparkitn/kaggle/blob/main/classification-random-forest.ipynb) · [Kaggle](https://www.kaggle.com/code/dsptlp/classification-random-forest)
 - [Prophet — Canadian CPI](https://github.com/pparkitn/kaggle/blob/main/timeseries-forecast-using-prophet.ipynb) · [Kaggle](https://www.kaggle.com/code/dsptlp/timeseries-forecast-using-prophet)
 - [Conversion A/B Curves](https://github.com/pparkitn/kaggle/blob/main/conversion-curve-a-b-test.ipynb) · [Kaggle](https://www.kaggle.com/code/dsptlp/conversion-curve-a-b-test)
+
+</details>
 
 ## Resources
 
