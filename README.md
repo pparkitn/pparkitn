@@ -5,6 +5,8 @@ Senior Director · AI Solutions & Platform Engineering — Toronto, Canada
 Building AI solutions and the foundational layers they run on: ML/LLMOps, data platforms, edge AI.
 15+ years shipping ML systems from research to production. MIDS at UC Berkeley.
 
+Core Engineering: AI/ML Systems · LLMOps · GPU Inference · Data Platforms · Spark · AWS · Edge AI · Python
+
 [LinkedIn](https://www.linkedin.com/in/piotr-parkitny) · [Email](mailto:piotr.parkitny@berkeley.edu) · [GitHub](https://github.com/pparkitn) · [Kaggle](https://www.kaggle.com/dsptlp)
 
 ## Projects
