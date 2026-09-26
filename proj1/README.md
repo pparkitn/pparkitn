@@ -78,7 +78,7 @@ Training is done on Amazon AWS EC2 using g4dn.xlarge instance. Below are the ste
 - Start Amazon VM and SSH into the box
 
 ```
-ssh -i us-east-1-jetson.pem -L 7777:127.0.0.1:7777 ubuntu@ec2-34-238-51-68.compute-1.amazonaws.com 
+ssh -i us-east-1-jetson.pem -L 7777:127.0.0.1:7777 ubuntu@ec2-<your-instance>.compute-1.amazonaws.com 
 ```
 
 Run it on [Kaggle](https://www.kaggle.com/code/dsptlp/faceemotion-fer-2013)

@@ -23,11 +23,11 @@ sudo chmod 777 storage/ -R
 
 
 ```
-ssh -i us-east-1-jetson.pem -L 8888:localhost:8888 ubuntu@ec2-35-170-68-218.compute-1.amazonaws.com
-ssh -i us-east-1-jetson.pem ubuntu@ec2-35-170-68-218.compute-1.amazonaws.com
+ssh -i us-east-1-jetson.pem -L 8888:localhost:8888 ubuntu@ec2-<your-instance>.compute-1.amazonaws.com
+ssh -i us-east-1-jetson.pem ubuntu@ec2-<your-instance>.compute-1.amazonaws.com
 
-ssh -i us-east-1-jetson.pem -L 8888:localhost:8888 ec2-user@ec2-35-170-68-218.compute-1.amazonaws.com
-ssh -i us-east-1-jetson.pem ec2-user@ec2-35-170-68-218.compute-1.amazonaws.com
+ssh -i us-east-1-jetson.pem -L 8888:localhost:8888 ec2-user@ec2-<your-instance>.compute-1.amazonaws.com
+ssh -i us-east-1-jetson.pem ec2-user@ec2-<your-instance>.compute-1.amazonaws.com
 
 ```
 
@@ -221,11 +221,11 @@ pip install jupyterlab
 `
 
 ```
-ssh -i us-east-1-jetson.pem -L 8888:localhost:8888 ubuntu@ec2-35-170-68-218.compute-1.amazonaws.com
-ssh -i us-east-1-jetson.pem ubuntu@ec2-35-170-68-218.compute-1.amazonaws.com
+ssh -i us-east-1-jetson.pem -L 8888:localhost:8888 ubuntu@ec2-<your-instance>.compute-1.amazonaws.com
+ssh -i us-east-1-jetson.pem ubuntu@ec2-<your-instance>.compute-1.amazonaws.com
 
-ssh -i us-east-1-jetson.pem -L 8888:localhost:8888 ec2-user@ec2-35-170-68-218.compute-1.amazonaws.com
-ssh -i us-east-1-jetson.pem ec2-user@ec2-35-170-68-218.compute-1.amazonaws.com
+ssh -i us-east-1-jetson.pem -L 8888:localhost:8888 ec2-user@ec2-<your-instance>.compute-1.amazonaws.com
+ssh -i us-east-1-jetson.pem ec2-user@ec2-<your-instance>.compute-1.amazonaws.com
 
 ```
 
